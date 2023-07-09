@@ -1,0 +1,519 @@
+jag
+du
+han
+hon
+den/det
+vi
+ni
+de/dem
+vad
+vem
+var
+varför
+hur
+vilken
+när
+sedan
+om
+verkligen
+men
+eftersom
+inte
+det här
+jag behover det här
+hur mycket kostar det här
+det där
+
+alla
+eller
+och
+att veta
+jag vet
+jag vet inte
+att tänka
+att komma
+att lägga
+att ta
+att hitta
+att lyssna
+att arbeta
+att prata
+att ge
+att tycka om
+att hjälpa
+att älska
+att ringa
+att vänta
+jag gillar dig
+jag gillar inte det här
+älskar du mig?
+jag älskar dig
+noll
+
+ett/en
+två
+tre
+fyra
+fem
+sex
+sju
+åtta
+nio
+tio
+elva
+tolv
+tretton
+fjorton
+femton
+sexton
+sjutton
+arton
+nitton
+tjugo
+ny
+gammal
+få
+många
+hur mycket?
+
+hur många?
+fel
+rätt
+ond
+god
+glad
+kort
+lång
+liten
+stor
+där
+här
+höger
+vänster
+vacker
+ung
+gammal
+hallå
+ses sen
+ok
+ta hand om dig
+oroa dig inte
+självklart
+god dag
+hej
+
+hej hej
+hej då
+ursäkta mig
+förlåt
+tack
+är du snäll
+jag vill ha det här
+nu
+eftermiddag
+förmiddag
+natt
+morgon
+kväll
+middagstid
+midnatt
+timme
+minut
+sekund
+dag
+vecka
+månad
+år
+tid
+datum
+förrgår
+
+i går
+i dag
+i morgon
+övermorgon
+måndag
+tisdag
+onsdag
+torsdag
+fredag
+lördag
+söndag
+imorgon är det lördag
+liv
+kvinna
+man
+kärlek
+pojkvän
+flickvän
+vän
+kyss
+sex
+barn
+bebis
+flicka
+pojke
+
+mamma
+pappa
+mor
+far
+förälder
+son
+dotter
+lillasyster
+lillebror
+storasyster
+storebror
+att stå
+att sitta
+att ligga
+att stänga
+att öppna
+att förlora
+att vinna
+att dö
+att leva
+att sätta på
+att stänga av
+att döda
+att skada
+att röra
+
+att titta
+att dricka
+att äta
+att gå
+att träffa
+att tippa
+att kyssa
+att följa
+att gifta sig
+att svara
+att fråga
+fråga
+företag
+företag
+jobb
+pengar
+telfon
+kontor
+läkare
+sjukhus
+sjuksköterska
+polis
+president
+vit
+svart
+
+röd
+blå
+grön
+gul
+långsam
+snabb
+rolig
+orättvis
+rättvis
+svår
+enkel
+det här är svärt
+rik
+fattig
+stark
+svag
+säker
+trött
+stolt
+mätt
+sjuk
+frisk
+arg
+låg
+hög
+
+rak
+varje
+alltid
+faktiskt
+igen
+redan
+mindre
+mest
+mer
+jag vill ha mer
+ingen
+väldigt
+djur
+gris
+ko
+häst
+hund
+får
+apa
+katt
+björn
+kyckling
+anka
+fjäril
+bi
+
+fisk
+spindel
+orm
+utanför
+inuti
+långt borta
+nära
+under
+ovan
+bredvid
+fram
+bak
+söt
+sur
+konstig
+mjuk
+hård
+söt
+dum
+galen
+upptagen
+lång
+kort
+orolig
+överraskad
+
+häftig
+skötsam
+ond
+smart
+kall
+het
+huvud
+näsa
+hårstrå
+mun
+öra
+öga
+hand
+fot
+hjärta
+hjärna
+att dra
+att trycka
+att trycka på
+att slå
+att fånga
+att slåss
+att kasta
+att springa
+att läsa
+
+att skriva
+att laga
+att räkna
+att skära
+att sälja
+att köpa
+att betala
+att studera
+att drömma
+att sova
+att spela
+att fira
+att vila
+att njuva av
+att städa
+skola
+hus
+dörr
+make
+maka
+bröllop
+person
+bil
+hem
+stad
+
+nummer
+tjugoett/tjugoen
+tjugotvå
+tjugosex
+trettio
+trettioett/trettioen
+trettiotre
+trettiosju
+fyrtio
+fyrtioet/fyrtioen
+fyrtiofyra
+fyrtioåtta
+femtio
+femtioett/femtioen
+femtiofem
+femtionio
+sextio
+sextioet/sextioen
+sextiotvå
+sextiosex
+sjuttio
+sjuttioet/sjuttioen
+sjuttiotre
+sjuttiosju
+åttio
+
+åttioett/åttioen
+åttiofyra
+åttioåatta
+nittio
+nittioett/nittioen
+nittiofem
+nittionio
+etthundra
+ettussen
+tiotusen
+etthundratusen
+en miljon
+min hund
+din katt
+hennes klänning
+hans bil
+dess boll
+vårt hem
+ditt lag
+deras företag
+alla
+tillsammans
+andra
+spelar ingen roll
+skål
+
+slappna av
+jag håller med
+välkommen
+inga problem
+sväng höger
+sväng vänster
+gå rakt fram
+följ med mig
+ägg
+ost
+mjölk
+fisk
+kött
+grönsak
+frukt
+ben
+olja
+bröd
+socker
+choklad
+godis
+tårta
+dryck
+vatten
+sodavatten
+
+kaffe
+te
+öl
+vin
+sallad
+soppa
+efterätt
+frukost
+lunch
+middag
+pizza
+buss
+tåg
+järnvägsstation
+busshållplats
+flygplan
+fartyg
+lastbil
+cykel
+motorcykel
+taxi
+trafikljus
+parkering
+väg
+kläder
+
+sko
+rock
+tröja
+skjorta
+jacka
+kostym
+byxa
+klänning
+T-shirt
+socka
+BH
+kalsong
+glasögonpar
+handväska
+portmonnä
+plånbok
+ring
+hatt
+armbandsur
+ficka
+vad heter du?
+jag heter David
+jag är 22 år gammal
+hur mår du
+är du ok?
+
+var är toaletten?
+jag saknar dig
+vår
+sommar
+höst
+vinter
+januari
+februari
+mars
+april
+maj
+juni
+juli
+augusti
+september
+oktober
+november
+december
+shopping
+räkning
+marknad
+stormarknad
+byggnad
+lägenhet
+universitet
+
+bondgård
+kyrka
+restaurang
+bar
+gym
+park
+toalett
+karta
+ambulans
+polis
+pistol
+brandkår
+land
+förort
+by
+hälsa
+medicin
+olycka
+patient
+operation
+tablett
+feber
+förkylning
+sår
+avtalad tid

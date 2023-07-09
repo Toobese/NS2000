@@ -1,0 +1,519 @@
+ik
+je/jij
+hij
+zij
+het
+we/wij
+jullie
+zij (meervoud)
+wat
+wie
+waar
+waarom
+hoe
+welke
+wanneer
+dan
+als
+echt
+maar
+omdat
+niet
+deze
+ik heb dit nodig
+hoeveel kost dit?
+dat
+
+alle
+of
+en
+weten
+ik weet het
+ik weet het niet
+denken
+komen
+zetten
+nemen
+vinden
+luisteren
+werken
+praten
+geven
+leuk vinden 
+helpen
+houden van
+bellen
+wachten
+ik vind je leuk
+ik vind dit niet leuk
+hou je van mij?
+ik hou van jou
+0
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+nieuw
+oud
+weinig
+veel
+hoeveel? (volume)
+
+hoeveel? (nummer)
+fout
+correct
+slecht (algemeen)
+goed
+gelukkig
+kort (algemeen)
+lang (algemeen)
+klein (algemeen)
+groot
+daar
+hier
+rechts
+links
+mooi
+jong
+oud (persoon)
+hallo
+tot later
+oké
+wees voorzichtig
+maak je geen zorgen
+natuurlijk
+goedendag
+hoi
+
+doei
+tot ziens
+excuseer mij
+sorry
+dankjewel
+alsjeblieft
+ik wil dit
+nu
+namiddag
+ochtend (9:00-11:00)
+nacht
+ochtend
+avond
+middag
+middernacht
+uur
+minuut
+seconde
+dag
+week
+maand
+jaar
+tijd
+datum
+eergisteren
+
+gisteren
+vandaag
+morgen
+overmorgen
+maandag
+dinsdag
+woensdag
+donderdag
+vrijdag
+zaterdag
+zondag
+morgen is het zaterdag
+leven (algemeen)
+vrouw (algemeen)
+man (algemeen)
+liefde
+vriendje
+vriendin
+vriend
+kus
+seks
+kind
+baby
+meisje
+jongen
+
+ma
+pa
+moeder
+vader
+ouders
+zoon
+dochter
+zusje
+broertje
+grote zus
+grote broer
+staan
+zitten
+liggen
+sluiten
+openen (deur)
+verliezen
+winnen
+sterven
+leven (werkwoord)
+inschakelen
+uitschakelen
+vermoorden
+verwonden
+aanraken
+
+kijken
+drinken
+eten
+lopen
+ontmoeten
+wedden
+kussen (werkwoord)
+volgen
+trouwen
+antwoorden
+vragen
+vraag
+bedrijf (firma)
+bedrijf (algemeen)
+baan
+geld
+telefoon
+kantoor
+dokter
+ziekenhuis
+verpleegster
+politieagent
+president
+wit
+zwart
+
+rood
+blauw
+groen
+geel
+langzaam
+snel
+grappig
+oneerlijk
+eerlijk
+moeilijk
+gemakkelijk
+dit is moeilijk
+rijk
+arm (adjectief)
+sterk
+zwak
+veilig
+moe
+trots
+vol (voedsel)
+ziek
+gezond
+boos
+laag
+hoog
+
+recht
+elk
+altijd
+eigenlijk
+weer (bijwoord)
+al
+minder
+meest
+meer (voornaamwoord)
+ik wil meer
+geen
+heel
+dier
+varken
+koe
+paard
+hond
+schaap
+aap
+kat
+beer
+kip
+eend
+vlinder
+bij
+
+vis (dier)
+spin
+slang
+buiten
+binnen
+ver
+dichtbij
+beneden
+boven
+naast
+voor
+achter
+zoet
+zuur
+raar
+zacht
+hard
+schattig
+dom
+gek
+druk
+lang
+klein
+bezorgd
+verrast
+
+cool
+beleefd
+boosaardig
+slim
+koud
+heet
+hoofd
+neus
+haar
+mond
+oor
+oog
+hand
+voet
+hart
+hersenen
+trekken (deur)
+duwen (deur)
+drukken
+slaan
+vangen
+vechten
+gooien
+rennen
+lezen
+
+schrijven
+repareren
+tellen
+knippen
+verkopen
+kopen
+betalen
+studeren
+dromen
+slapen
+spelen
+vieren
+uitrusten
+genieten
+schoonmaken
+school
+huis
+deur
+man (getrouwd)
+vrouw (getrouwd)
+bruiloft
+persoon
+auto
+thuis
+stad
+
+nummer
+21
+22
+26
+30
+31
+33
+37
+40
+41
+44
+48
+50
+51
+55
+59
+60
+61
+62
+66
+70
+71
+73
+77
+80
+
+81
+84
+88
+90
+91
+95
+99
+100
+1_000
+10_000
+100_000
+1_000_000
+mijn hond
+jouw kat
+haar jurk
+zijn auto
+zijn bal
+ons huis
+jouw team
+hun bedrijf
+iedereen
+samen
+overig
+maakt niet uit
+proost
+
+ontspan
+ik ben het ermee eens
+welkom
+geen zorgen
+sla rechtsaf
+sla linksaf
+ga rechtdoor
+kom met mij mee
+ei
+kaas
+melk
+vis (voedsel)
+vlees
+groente
+fruit
+bot (voedsel)
+olie
+brood
+suiker
+chocola
+snoep
+cake
+drank
+water
+frisdrank
+
+koffie
+thee
+bier
+wijn
+salade
+soep
+nagerecht
+ontbijt
+lunch
+avondeten
+pizza
+bus
+trein
+treinstation
+bushalte
+vliegtuig
+schip
+vrachtwagen
+fiets
+motorfiets
+taxi
+stoplicht
+parkeerplaats
+weg
+kleding
+
+schoen
+jas
+trui
+overhemd
+jack
+pak
+broek
+jurk
+t-shirt
+sok
+beha
+onderbroek
+bril
+handtas
+damestas
+portemonnee
+ring
+hoed
+horloge
+zak
+hoe heet je?
+mijn naam is david
+ik ben tweeentwintig jaar oud
+hoe gaat het?
+gaat alles goed?
+
+waar is het toilet?
+ik mis je
+lente
+zomer
+herfst
+winter
+januari
+februari
+maart
+april
+mei
+juni
+juli
+augustus
+september
+oktober
+november
+december
+winkelen
+rekening
+markt
+supermarkt
+gebouw
+appartement
+universiteit
+
+boerderij
+kerk
+restaurant
+bar
+sportschool
+park
+toilet (algemeen)
+kaart
+ambulance
+politie
+pistool
+brandweerlieden
+land
+buitenwijk
+dorp
+gezondheid
+geneesmiddel
+ongeval
+patiënt
+operatie
+pil
+koorts
+verkoudheid
+wond
+afspraak

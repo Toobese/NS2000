@@ -4,7 +4,7 @@ using Dates
 function write_mistakes(mistakes)
         date = (time() |> unix2datetime |> string)[1:10]
         infile = open("out/mistakes.tsv", "a")
-        println(infile, "$(date)\t$(mistakes)")
+        println(infile, "$(date)\t$(join(mistakes, ','))")
         close(infile)
 end
 
@@ -17,7 +17,7 @@ end
 
 function word_test(known, target, word_sequence)
         current = 1
-        mistakes = []
+        mistakes::Vector{String} = []
         while current != length(word_sequence) + 1
                 println("$(known[word_sequence[current]]) $(current)/$(length(word_sequence))")
                 answer = strip(readline())

@@ -113,7 +113,7 @@ nu
 namiddag
 ochtend (9:00-11:00)
 nacht
-ochtend
+ochtend (6:00-9:00)
 avond
 middag
 middernacht

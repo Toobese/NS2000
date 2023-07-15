@@ -1401,3 +1401,367 @@ aardappelsalade
 mosterd
 sushi
 popcorn
+
+nacho's
+chips
+Franse frietjes
+kippenvleugels
+mayonnaise
+ketchup
+boterham
+hotdog
+burger
+boeking
+hostel
+visum
+paspoort
+dagboek
+ansichtkaart
+rugzak
+kampvuur
+slaapzak
+tent
+kamperen
+lidmaatschap
+reservering
+gedeelde kamer
+tweeopersoonskamer (1 bed)
+enkele kamer
+
+bagage
+lobby
+decennium
+eeuw
+millennium
+Dankdag (thanksgiving)
+Halloween
+Ramadan
+kleinkind
+broers en zussen
+schoonmoeder
+schoonvader
+kleindochter
+kleinzoon
+schoonzoon
+schoondochter
+neefje
+nichtje
+nicht
+neef
+begraafplaats
+geslacht
+urn
+wees
+lijk
+
+doodskist
+pensioen
+begrafenis
+huwelijksreis
+trouwring
+liefdesverdriet
+beroepsonderwijs
+middelbare school (~15-18)
+middelbare school (~10-14)
+tweeling
+basisschool
+kleuterschool
+geboorte
+geboorteakte
+handrem
+accu
+motor
+ruitenwisser
+gps
+airbag
+toeter
+koppeling
+rempedaal
+gaspedaal
+stuur
+
+benzine
+diesel
+gordel
+motorkap
+band
+kofferbak
+spoor
+kaartautomaat
+kaartjesloket
+metro
+hogesnelheidstrein
+locomotief
+perron
+tram
+schoolbus
+minibus
+tarief
+dienstregeling
+luchthaven
+vertrek
+aankomst
+douane
+luchtvaartmaatschappij
+helikopter
+incheckbalie
+
+handbagage
+eerste klasse
+economy class
+business class
+nooduitgang (vliegtuig)
+gangpad
+raam (vliegtuig)
+rij
+vleugel
+vliegtuigmotor
+cockpit
+reddingsvest
+container
+onderzeeër
+cruiseschip
+containerschip
+jacht
+veerboot
+haven
+reddingsboot
+radar
+anker
+reddingsboei
+straatlantaarn
+stoep
+
+bezinestation
+bouwplaats
+snelheidslimiet
+zebrapad
+eenrichtingsstraat
+tol
+kruispunt
+file
+snelweg
+tank
+wegwals
+graafmachine
+tractor
+fietspomp
+ketting
+krik
+aanhangwagen
+scooter
+kabelbaan
+gitaar
+drumstel
+keyboard
+trompet
+piano
+saxofoon
+
+viool
+concert
+muzieknoot
+opera
+orkest
+rap
+klassieke muziek
+volksmuziek
+rock
+pop (muziek)
+jazz
+theater
+kwast
+samba
+rock 'n roll
+Weense wals
+tango
+salsa
+alfabet
+roman
+tekst
+kop (artikel)
+leesteken
+letter
+inhoud
+
+fotoalbum
+stripboek
+sportveld
+woordenboek
+semester
+notitieboek
+schoolbord
+schooltas
+schooluniform
+geometrie
+politiek
+filosofie
+economie
+lichamelijke opvoeding
+biologie
+wiskunde
+aardrijkskunde
+literatuur
+Arabisch
+Duits
+Japans
+Mandarijn
+Spaans
+scheikunde
+natuurkunde
+
+liniaal
+gum
+schaar
+plakband
+lijm
+balpen
+paperclip
+100%
+0%
+kubieke meter
+vierkante meter
+mijl
+meter
+decimeter
+centimeter
+millimeter
+optellen
+aftrekken
+vermeningvuldigen
+delen (substantief)
+breuk
+sfeer
+breedte
+hoogte
+volume
+
+curve
+hoek
+rechte lijn
+piramide
+kubus
+rechthoek
+driehoek
+straal
+watt
+ampère
+volt
+kracht
+liter
+milliliter
+ton
+kilogram
+gram
+magneet
+microscoop
+trechter
+laboratorium
+kantine
+hoorcollege
+studiebeurs
+diploma
+
+collegezaal
+3.4
+drie tot de vijfde macht
+4 / 2
+1 + 1 = 2
+punt
+6³
+4²
+contact@gmail.com
+&
+/
+()
+puntkomma
+komma
+dubbele punt
+www.google.com
+laag streepje
+koppelteken
+3 - 2
+apostrof
+2 x 3
+1 + 2
+uitroepteken
+vraagteken
+spatie
+
+bodem
+lava
+kool (bruinkool)
+zand
+klei
+raket
+satelliet
+sterrenstelsel
+asteroïde
+continent
+evenaar
+Zuidpool
+Noordpool
+stroom
+regenwoud
+grot
+waterval
+oever
+gletsjer
+aardbeving
+krater
+vulkaan
+canyon
+atmosfeer
+pool
+
+12 °C
+0 °C
+-2 °C
+Fahrenheit
+Celsius
+tornado
+overstroming
+nevel
+regenboog
+donder
+bliksem
+onweersbui
+temperatuur
+tyfoon
+orkaan
+wolk
+zonneschijn
+bamboe (plant)
+palmboom
+tak
+blad
+wortel (plant)
+boomstam
+cactus
+zonnebloem
+
+zaad
+bloesem
+stengel
+plastic
+koolstofdioxide
+vaste stof
+vloeistof
+atoom
+ijzer
+zuurstof
+slippers
+leren schoenen
+hoge hakken
+sneakers
+regenjas
+spijkerbroek
+rok
+korte broek
+panty
+string
+slipje
+kroon
+tatoeage
+zonnebril
+paraplu

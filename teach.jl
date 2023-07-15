@@ -80,10 +80,11 @@ function main()
         if all([all(isdigit, i) for i in courses]) &&
                 all(i -> i <= length(nederlands), [parse(Int, i) for i in courses])
                 course_indices = [parse(Int, i) for i in courses]
+                course_count = length(course_indices)
         else
                 course_indices = choose_random_course(nederlands, course_count)
         end
-        word_sequence = shuffle([i for i in 1:(2 * course_length)
+        word_sequence = shuffle([i for i in 1:(course_count * course_length)
                                    for _ in 1:repetition])
         dutch_words = reduce(vcat, [nederlands[i] for i in course_indices])
         swedish_words = reduce(vcat, [svenska[i] for i in course_indices])

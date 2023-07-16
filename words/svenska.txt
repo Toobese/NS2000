@@ -217,7 +217,7 @@ orättvis
 rättvis
 svår
 enkel
-det här är svärt
+det här är svårt
 rik
 fattig
 stark

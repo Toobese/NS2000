@@ -196,7 +196,7 @@ företag
 företag
 jobb
 pengar
-telfon
+telefon
 kontor
 läkare
 sjukhus

@@ -32,13 +32,13 @@ function main()
 
         print_course(c.course_indices)
 
-        t.mistakes, total_tests = word_test(question_words, answer_words, word_sequence)
+        mistakes, total_tests = word_test(question_words, answer_words, word_sequence)
         t.xp = c.course_length * c.REPETITION
         t.accuracy = round(xp / total_tests, digits=3)
         t.learn_time = xp * 5
 
-        write_to_file(t, "progress")
-        write_to_file(t, "mistakes")
+        write_to_file(t, courses, "progress")
+        write_to_file(t, mistakes, "mistakes")
 end
 
 function print_course(course_indices)

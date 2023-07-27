@@ -1,3 +1,4 @@
+1 - Pronounces
 acchi, asoko
 achira
 anata, kimi
@@ -7,7 +8,6 @@ donata
 dareka
 docchi
 dochira
-
 doko
 dore
 jibun
@@ -20,3 +20,324 @@ socchi
 sochira
 soko
 watachi
+
+2 - People
+ningen
+jinrui
+hito
+otoko
+otokonohito
+otokonoko, shounen
+onna
+onnanohito
+onnanoko, shoujo
+akachan
+wakamono
+isha
+kangoshi
+kangofu
+ha-isha, shikai
+seijika
+bengoshi
+shouboushi
+keisatsukan
+heishi
+kenchikuka
+sensei
+kyoushi
+kashu
+enjinia
+
+3 - Body
+ashi
+kakato
+sune
+hiza
+momo
+atama
+kao
+kuchi
+kuchibiru
+ha
+hana
+me
+hige
+kami
+mimi
+i
+ude
+hiji
+kata
+tsume
+te
+tekubi
+te-no-hira
+yubi
+shiri
+o-naka, hara
+kanzo, kimo
+kinniku
+kubi
+kokoro
+koshi
+shinzo
+senaka
+chi
+niku
+hada, hifu
+hone
+mune
+kaze
+geri
+byoki
+
+4 - Family
+kazoku
+ryoushin
+kodomo
+chichi, otou-san
+haha, okaa-san
+tsuma
+otto
+ani, oni-san
+ane, one-san
+ototo
+imoto
+kyodai
+shimai
+sofu, ojii-san
+sobo, obaa-san
+mago
+oji, oji-san
+oba, oba-san
+itoko
+itoko
+jukei, itoko
+jushi, itoko
+jumai, itoko
+jutei itoko
+mei
+oi
+
+5 - Animals
+ikimono
+bakemono
+dobutsu
+chita
+inu
+neko
+ushi
+buta
+uma
+hitsuji
+saru
+nezumi
+tora
+okami
+usagi
+ryu, tatsu
+shika
+kaeru
+gama
+shishi
+kirin
+zo
+tori
+niwatori
+suzume
+karasu
+washi
+taka
+sakana
+tai
+ebi
+iwashi
+maguro
+katsuo
+sanma
+aji
+saba
+ika
+tako
+mushi
+cho
+ga
+semi
+tonbo
+batta
+kumo
+hotaru
+hae
+ka
+gokiburi
+katatsumuri
+namekuji
+mimizu
+kai
+kaigara
+tokage
+hebi
+
+6 - Plants
+shokubutsu
+kusa
+hana
+mi
+ki
+ha, happa
+ne, nekko
+kuki
+kinoko
+kiku
+sakura
+
+7 - Crops
+kome
+ine
+mugi
+yasai
+kudamono
+imo
+mame
+daikon
+ninjin
+ringo
+mikan
+banana, kansho
+nashi
+kuri
+momo
+tomato, banka
+suika
+
+8 - Food
+tabemono
+choshoku, asagohan
+hirugohan
+bangohan
+gohan
+miso
+ryori
+sarada
+dezato
+pan
+sandoitchi
+oyatsu
+aisukurimu
+
+9 - Drink
+nomimono
+cha
+ocha
+kohi
+gyunyu
+mizu
+biru
+wain
+
+10 - Seasoning
+sato
+shio
+shoyu
+
+11 - Time
+jikan
+toki, ji
+koyomi, karenda
+fun
+byo
+hi, nichi
+tsuki, gatsu
+ichigatsu
+nigatsu
+sangatsu
+shigatsu
+gogatsu
+rokugatsu
+shichigatsu
+hachigatsu
+kugatsu
+jugatsu
+juichigatsu
+junigatsu
+tochi, nen
+kyonen
+kotoshi
+rainen
+kino, sakujitsu
+kyo
+ashita, asu, myonichi
+asa
+kesa
+hiru
+yugata, ban
+yoru
+yobi
+shu
+senshu
+konshu
+raishu
+isshukan
+
+12 - Week Days
+nichi-yobi
+getsu-yobi
+ka-yobi
+sui-yobi
+moku-yobi
+kin-yobi
+do-yobi
+
+13 - weather
+taiyo
+tsuki
+hoshi
+tenki
+hare
+ame
+kumori
+yuki
+kaze
+kaminari
+taifu
+arashi
+sora
+
+14 - Directions and positions
+kita
+higashi
+minami
+nishi
+koko
+soko
+asoko
+migi
+hidari
+ue
+shita
+mae
+ushiro
+muko
+naname
+temae
+tooi
+chikai
+
+15 - Materials
+mizu
+yu
+kori
+yuge
+hi
+gasu
+kuki
+tsuchi
+kinzoku
+doro
+kemuri
+tetsu
+do
+kin
+gin
+namari
+shio

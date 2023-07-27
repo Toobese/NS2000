@@ -1,3 +1,4 @@
+1 - Pronounces
 over there
 there
 you
@@ -7,7 +8,6 @@ who
 someone, somebody
 which, which one
 which of the two
-
 where, what place
 which (three or more)
 myself; yourself; oneself; himself; herself; i; me
@@ -20,3 +20,308 @@ that way, over there
 that way (distant from speaker, close to listener); you; your family
 that place, there
 I, myself
+
+2 - People
+human
+humanity
+person
+male
+man
+boy
+female
+woman
+girl
+baby
+youth, young person
+doctor
+nurse
+female nurse
+dentist
+politician
+lawyer
+firefighter
+police officer
+soldier
+architect
+teacher
+academic teacher
+singer
+engineer
+
+3 - Body
+foot, leg
+heel
+shin
+knee
+thigh
+head
+face
+mouth
+lips
+tooth
+nose
+eye
+moustache, beard
+hair
+ear
+stomach
+arm
+elbow
+shoulder
+nail
+hand
+wrist
+palm of hand
+finger, toe
+buttocks
+abdomen
+liver
+muscle
+neck
+heart[as in feelings]
+waist, hip
+heart
+back
+blood
+meat
+skin
+bone
+chest
+cold[illness]
+diarrhea
+illness
+
+4 - Family
+family
+parents
+children, child
+father
+mother
+wife
+husband
+older brother
+older sister
+younger brother
+younger sister
+brothers
+sisters
+grandfather
+grandmother
+grandchild
+uncle
+aunt
+cousin (male)
+cousin (female)
+cousin (elder male)
+cousin (elder female)
+cousin (younger female)
+cousin (younger male)
+niece
+nephew
+
+5 - Animals
+living creatures
+monster
+animal
+cheetah
+dog
+cat
+cow
+pig
+horse
+sheep
+monkey
+mouse, rat
+tiger
+wolf
+rabbit
+dragon
+deer
+frog
+toad
+lion
+giraffe
+elephant
+bird
+chicken
+sparrow
+crow, raven
+eagle
+haw, falcon
+fish
+red snapper
+shrimp, lobster
+sardine
+tuna
+bonito
+pike
+horse mackerel
+mackerel
+squid
+octopus
+insect
+butterflt
+moth
+cicada
+dragonfly
+grasshopper
+spider
+firefly
+housefly
+mosquito, gnat
+cockroach
+snail
+slug
+earthworm
+shellfish
+shell
+lizard
+snake
+
+6 - Plants
+plants
+grass
+flower
+fruit
+tree
+leaf
+root
+stem
+mushroom
+chrysanthemum
+cherry blossom
+
+7 - Crops
+uncooked rice
+rice growing in a field
+wheat, barley, oats
+vegetable
+fruit for eating
+potato
+beans, peas
+japanese white radish
+carrot
+apple
+mandarin orange
+banana
+pear
+chestnut tree
+peach
+tomato
+watermelon
+
+8 - Food
+food
+breakfast
+lunch
+supper
+cooked rice or food
+miso
+cooking
+salad
+dessert
+bread
+sandwich
+snack
+ice cream
+
+9 - Drink
+drink/beverage
+tea
+green tea
+coffee
+milk
+water
+beer
+wine
+
+10 - Seasoning
+sugar
+salt
+soy sauce
+
+11 - Time
+time
+~hours
+calendar
+minute
+second
+day
+month
+january
+february
+march
+april
+may
+june
+july
+august
+september
+october
+november
+december
+year
+last year
+this year
+next year
+yesterday
+today
+tomorrow
+morning
+this morning
+afternoon
+evening
+evening, night
+~day
+week
+last week
+this week
+next week
+one week
+
+12 - Week Days
+sunday
+monday
+tuesday
+wednesday
+thursday
+friday
+saturday
+
+13 - Weather
+sun
+moon
+star
+weather
+clear weather
+rain
+cloudy
+snow
+wind
+thunder, lightning
+typhoon
+storm
+sky
+
+14 - Directions and positions
+north
+east
+south
+west
+here
+there
+over there
+right
+left
+above, up
+below, down
+front
+behind
+the other side, opposite side
+diagonal
+nearer, more in front
+far
+near, close
+
+15 - Materials
+

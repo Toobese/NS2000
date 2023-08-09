@@ -37,6 +37,6 @@ function word_test(known, target, word_sequence)
             println("[$count, $word, $formatted_answers]")
         end
     
-        return mistakes, current  
+        return mistakes, (current - 1)  
     end
     

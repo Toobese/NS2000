@@ -1,1 +1,9 @@
 /out
+.direnv/
+.devenv/
+.venv/
+__pycache__/
+.pytest_cache
+*.pyc
+*.mp4
+*.pt

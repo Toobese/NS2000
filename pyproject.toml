@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "helloyolo8"
+version = "0.1.0"
+description = ""
+authors = ["Daniel Gollings <daniel@sephia.io>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.8,<=3.11"
+pre-commit = "^3.3.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+sections = ['FUTURE', 'STDLIB', 'THIRDPARTY', 'FIRSTPARTY', 'LOCALFOLDER']
+
+[tool.pylint.'MESSAGES CONTROL']
+disable = "import-error, no-member, missing-function-docstring, missing-module-docstring"
+good-names = ["f", "i", "j", "k", "x", "y", "z", "s", "p", "m"]

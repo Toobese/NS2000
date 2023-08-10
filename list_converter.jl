@@ -7,12 +7,12 @@ function convert_line(line::AbstractString)
     kana_word = strip(parts[1])
     english_word = lowercase(strip(parts[2]))  # Convert to lowercase and remove capital letter
     
-    return "$kana_word"
+    return "$english_word"
 end
 
 # Specify input and output file paths
-input_file_path = "words/jp_N5_kanji/english.txt"
-output_file_path = "kana.txt"
+input_file_path = "words/jp_N5_vocabulary/english.txt"
+output_file_path = "english.txt"
 
 # Read lines from the input file, convert them, and write to the output file
 function convert_file(input_file_path, output_file_path)

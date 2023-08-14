@@ -7,7 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.8,<=3.11"
-pre-commit = "^3.3.3"
+selenium = "^4.11.2"
+keyboard = "^0.13.5"
 
 
 [build-system]
@@ -16,7 +17,3 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.isort]
 sections = ['FUTURE', 'STDLIB', 'THIRDPARTY', 'FIRSTPARTY', 'LOCALFOLDER']
-
-[tool.pylint.'MESSAGES CONTROL']
-disable = "import-error, no-member, missing-function-docstring, missing-module-docstring"
-good-names = ["f", "i", "j", "k", "x", "y", "z", "s", "p", "m"]

@@ -27,17 +27,7 @@
 
                     ]);
                   };
-
-                  pre-commit.hooks = {
-                    black.enable = true;
-                    ruff.enable = true;
-                    pylint.enable = true;
-                    flake8.enable = true;
-                  };
-
-
                   packages = with pkgs; [
-                    
                   ];
 
                   enterShell = ''

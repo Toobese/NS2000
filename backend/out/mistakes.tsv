@@ -1,0 +1,2908 @@
+Date    Mistakes
+
+2023-07-26	hito
+2023-07-26	akachan,onnanohito
+2023-07-27	bengoshi,tsume,tekubi
+2023-07-27	semi,tai,katsuo,niwatori,aji,dobutsu,ga,saba,hae,tokage,hitsuji,hotaru,ga,kaigara,gokiburi,sanma,washi,saba,cho,semi,shishi,katatsumuri,kai,ka,tonbo,kaeru,katsuo,gama,tonbo,iwashi,shika,maguro,katatsumuri,kirin,sanma,tako,maguro,tai,hae,niwatori,namekuji,kai,aji,mimizu,kirin,hitsuji,hebi,ryu, tatsu,iwashi,shika,shishi,ka,mimizu,kaigara,namekuji,tokage,taka,taka,ika,gama,tako,semi,tai,katsuo,aji,saba,hae,tokage,hitsuji,kaigara,gokiburi,saba,semi,katatsumuri,kai,tonbo,katsuo,gama,tonbo,iwashi,shika,maguro,katatsumuri,kirin,maguro,tai,hae,kai,aji,hitsuji,ryu, tatsu,iwashi,shika,kaigara,tokage,taka,ika,gama,semi,tai,katsuo,aji,saba,hae,tokage,hitsuji,kaigara,gokiburi,saba,semi,kai,tonbo,katsuo,gama,tonbo,iwashi,shika,maguro,maguro,tai,hae,kai,aji,hitsuji,ryu, tatsu,iwashi,shika,kaigara,tokage,semi,tai,katsuo,aji,saba,tokage,hitsuji,kaigara,gokiburi,saba,semi,tonbo,gama,iwashi,shika,maguro,tai,aji,hitsuji,iwashi,shika,kaigara,tokage,tai,aji,saba,tokage,hitsuji,gokiburi,saba,semi,iwashi,shika,maguro,tai,aji,iwashi,shika,saba,saba,iwashi,maguro,saba,saba,iwashi
+2023-07-27	maguro,katsuo,tai,kaeru,saba,saba,iwashi,nezumi,semi,tonbo,washi,dobutsu,taka,tai,maguro,saba,saba
+2023-07-27	kohi,nomimono
+2023-07-27	nomimono
+2023-07-27	"ocha" => 1
+2023-07-27	"nomimono" => 4,"mizu" => 2,"ocha" => 2,"gyunyu" => 3,"kohi" => 2,"cha" => 2,"wain" => 3,"biru" => 2
+2023-07-27	"nomimono" => Dict{String, Any}("answers" => SubString{String}[""], "count" => 1),"mizu" => Dict{String, Any}("answers" => SubString{String}["gb"], "count" => 1),"ocha" => Dict{String, Any}("answers" => SubString{String}["g", ""], "count" => 2),"gyunyu" => Dict{String, Any}("answers" => SubString{String}["hj", "g"], "count" => 2),"cha" => Dict{String, Any}("answers" => SubString{String}["gg", "b"], "count" => 2),"kohi" => Dict{String, Any}("answers" => SubString{String}[""], "count" => 1),"wain" => Dict{String, Any}("answers" => SubString{String}["b", ""], "count" => 2),"biru" => Dict{String, Any}("answers" => SubString{String}[""], "count" => 1)
+2023-07-27	"nomimono" => Dict{String, Any}("answers" => SubString{String}["g"], "count" => 1),"mizu" => Dict{String, Any}("answers" => SubString{String}["g", "g"], "count" => 2),"ocha" => Dict{String, Any}("answers" => SubString{String}["ffdvsreg", "vtrsv"], "count" => 2),"gyunyu" => Dict{String, Any}("answers" => SubString{String}["", "vse"], "count" => 2),"kohi" => Dict{String, Any}("answers" => SubString{String}["", ""], "count" => 2),"wain" => Dict{String, Any}("answers" => SubString{String}["g"], "count" => 1),"biru" => Dict{String, Any}("answers" => SubString{String}["", "g"], "count" => 2)
+2023-07-27	"nomimono" => Dict{String, Any}("answers" => SubString{String}["", "re"], "count" => 2),"mizu" => Dict{String, Any}("answers" => SubString{String}["g", "v", "r"], "count" => 3),"ocha" => Dict{String, Any}("answers" => SubString{String}["vr", "", "vre"], "count" => 3),"gyunyu" => Dict{String, Any}("answers" => SubString{String}["", "ref", "re"], "count" => 3),"cha" => Dict{String, Any}("answers" => SubString{String}["dccrvr", "ref", "vre"], "count" => 3),"kohi" => Dict{String, Any}("answers" => SubString{String}["sts", "rf"], "count" => 2),"wain" => Dict{String, Any}("answers" => SubString{String}["g", "vvv", "r"], "count" => 3),"biru" => Dict{String, Any}("answers" => SubString{String}["wtgwre", "rf"], "count" => 2)
+2023-07-27	bengoshi,kenchikuka,enjinia,kenchikuka,kangoshi,kenchikuka
+2023-07-27	
+2023-07-27	"nomimono" => Dict{String, Any}("answers" => SubString{String}["ff", "", "v"], "count" => 3),"mizu" => Dict{String, Any}("answers" => SubString{String}["vvfv", "fv", "v"], "count" => 3),"ocha" => Dict{String, Any}("answers" => SubString{String}["fvf", "vv", ""], "count" => 3),"cha" => Dict{String, Any}("answers" => SubString{String}["vfvdf", "", ""], "count" => 3),"kohi" => Dict{String, Any}("answers" => SubString{String}["", ""], "count" => 2),"gyunyu" => Dict{String, Any}("answers" => SubString{String}["fv", "f"], "count" => 2),"wain" => Dict{String, Any}("answers" => SubString{String}["vfdvs", "vv", ""], "count" => 3),"biru" => Dict{String, Any}("answers" => SubString{String}["fv", "vv"], "count" => 2)
+2023-07-27	
+[1, nomimono, [""]]
+[2, mizu, ["g", "t"]]
+[2, ocha, ["tr", "btr"]]
+[2, kohi, ["f", "br"]]
+[2, gyunyu, ["n", ""]]
+[2, biru, ["tr", "y"]]
+2023-07-27	
+[2, nomimono, ["vf", "f"]]
+[2, mizu, ["fv", "df"]]
+[2, ocha, ["f", "fb"]]
+[2, cha, ["vv", "v"]]
+[1, kohi, ["df"]]
+[2, gyunyu, ["vdf", "fv"]]
+[2, wain, ["", "v"]]
+[1, biru, [""]]
+
+2023-07-27	
+[1, nomimono, ["feav"]]
+[2, mizu, ["d", "f"]]
+[2, ocha, ["vr", "rv"]]
+[2, cha, ["r", "es"]]
+[2, gyunyu, ["v", "v"]]
+[2, kohi, ["af", "fv"]]
+[2, wain, ["fdv", "vs"]]
+[1, biru, ["r"]]
+------------------------------
+2023-07-27	
+[2, nomimono,    ["", "vfv"]]
+[1, ocha, 		 ["fv"]]
+[2, cha, 		 ["c", "vdf"]]
+[2, kohi, 		 ["", "fv"]]
+[2, gyunyu,      ["v", "vfd"]]
+[1, wain, 		 ["f"]]
+[2, biru, 		 ["d", "cf"]]
+------------------------------
+2023-07-27	
+[1, otokonoko, shounen, 		 ["otokonoko, shoujo"]]
+------------------------------
+2023-07-27	
+[1 | shika      |	 ["eji"]]
+[1 | gokiburi   |	 ["gokiburo"]]
+[1 | iwashi     |	 ["washi"]]
+[1 | dobutsu    |	 ["kaebetsu"]]
+[2 | katatsumuri|	 ["katatsuo", "katatsuki"]]
+[1 | ryu, tatsu |	 ["ryu, tsaku"]]
+[2 | sanma      |	 ["senma", "senma"]]
+[1 | niwatori   |	 ["niwotari"]]
+[1 | tonbo      |	 ["washi"]]
+[3 | katsuo     |	 ["senma", "semi", "sanma"]]
+[1 | kaigara    |	 ["kaigatsuo"]]
+[3 | saba       |	 ["washi", "shebi", "sebe"]]
+------------------------------
+2023-07-27	
+[1 | tsuma |	 ["sume"]]
+[1 | ototo |	 ["kyodai"]]
+[6 | ani, oni-san |	 ["oto, otosan", "", "ane, anue", "ane, oni-san", "ani, one-san", "ani, one-san"]]
+[3 | itoko |	 ["oi", "oi", "mei"]]
+[2 | jumai, itoko |	 ["jukei, itoko", "jumei, itoko"]]
+[1 | imoto |	 ["one, one-san"]]
+[1 | kodomo |	 ["kodai"]]
+[3 | jutei itoko |	 ["itoko", "itoko", "jushi, itoko"]]
+[1 | mei |	 ["oi"]]
+[4 | jukei, itoko |	 ["ei", "jutei, itoko", "jutei itoko", "jushi, itoko"]]
+[1 | mago |	 ["gamo"]]
+[2 | jushi, itoko |	 ["jukai, itoko", "jutei, itoko"]]
+[1 | kyodai |	 ["kyoudai"]]
+[1 | oba, oba-san |	 ["sobo,"]]
+[1 | oi |	 [""]]
+[4 | sobo, obaa-san |	 ["oba, oba-san", "sobo, oba-san", "sudu, obaa-san", "sofu, obaa-san"]]
+[3 | shimai |	 ["otome", "omei", ""]]
+[1 | oji, oji-san |	 ["ojisan, oji"]]
+[1 | chichi, otou-san |	 ["hihi otaa-san"]]
+[3 | sofu, ojii-san |	 ["", "sufu, ojii-san", "sobo, ojii-san"]]
+[1 | ane, one-san |	 ["onee-san"]]
+[1 | otto |	 ["tsume"]]
+[2 | ryoushin |	 ["ryushi", "ryoushi"]]
+------------------------------
+2023-07-27	
+[1 | kohi 		 ["okhi"]]
+------------------------------
+2023-07-27	
+[1 | kubi 		 ["kbu"]]
+[1 | mimi 		 ["hana"]]
+[1 | koshi 		 ["kashi"]]
+[1 | hada, hifu 		 ["fafa, hira"]]
+[1 | sune 		 ["senu"]]
+[1 | senaka 		 ["seaka"]]
+[2 | kuchibiru 		 ["kuchikubi", "kchiburi"]]
+------------------------------
+2023-07-27	
+[3 | yobi 		 ["hi", "byo", "kyo"]]
+[3 | ashita, asu, myonichi 		 ["ashita", "ashita, asa,", "ashita, asu, kyubi"]]
+[1 | kugatsu 		 ["nanagatsu"]]
+[3 | shichigatsu 		 ["nanagatsu", "nanagatsu", "rokugatsu"]]
+[3 | yugata, ban 		 ["yoru", "tsuki, ban", "tsuki, ban"]]
+[1 | kyonen 		 ["isshukon"]]
+[1 | jikan 		 ["byo"]]
+[4 | kyo 		 ["kyoko", "hi, ni", "koyo", "hiko"]]
+[1 | hiru 		 [""]]
+[1 | byo 		 ["nimai"]]
+[1 | raishu 		 ["kyonen"]]
+[2 | tsuki, gatsu 		 ["gatsu", ""]]
+[1 | kesa 		 ["konasu"]]
+[3 | koyomi, karenda 		 ["karenda", "karenda\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D", "kyomi, karenda"]]
+[1 | gogatsu 		 ["yogatsu"]]
+[2 | juichigatsu 		 ["ishigatsu", ""]]
+[2 | isshukan 		 ["ishukan", "ichishu"]]
+[5 | toki, ji 		 ["byun", "byo", "fun", "kuji, ji", "fuji, ji"]]
+[1 | rainen 		 ["rainin"]]
+[1 | shu 		 ["shukan"]]
+[1 | fun 		 ["byun"]]
+[4 | hi, nichi 		 ["byo", "hi, kata", "hi, myon", "hi,"]]
+[4 | kotoshi 		 ["seka", "konshu", "sonen", "sotochi"]]
+[1 | rokugatsu 		 ["numbergatsu"]]
+[5 | senshu 		 ["shukan", "kyoshu", "kyoshu", "kyoshu", "sensha"]]
+[1 | ichigatsu 		 ["ichi-gatsu"]]
+[9 | kino, sakujitsu 		 ["", "aso", "kyohi", "", "byo", "kino, kitsuja", "kino, hachikatsu", "kina, sakujitsu", ""]]
+[3 | tochi, nen 		 ["byu", "nen,", "tatsu, nen"]]
+[2 | konshu 		 ["koshi", "kesa"]]
+------------------------------
+2023-07-28	
+[1 | haha, okaa-san 		 ["haha, oka-san"]]
+[1 | ani, oni-san 		 ["kyodai"]]
+[2 | jumai, itoko 		 ["jutai, itoko", "jumei, itoko"]]
+[2 | jutei itoko 		 ["jutai, itoko", "jutei, itoko"]]
+[1 | mei 		 ["moi"]]
+[2 | jukei, itoko 		 ["jukai, itoko", "jushi, itoko"]]
+[1 | jushi, itoko 		 ["jushei, itoko"]]
+[1 | oba, oba-san 		 [""]]
+[1 | shimai 		 ["imoto"]]
+[1 | sobo, obaa-san 		 ["fudo, obaa-san"]]
+[1 | sofu, ojii-san 		 ["fudo, ojii-san"]]
+[1 | kazoku 		 ["kaoku"]]
+------------------------------
+2023-07-28	
+[1 | kiku 		 [""]]
+[1 | mi 		 [""]]
+[3 | ha, happa 		 ["le", "ha, hakku", "kuki"]]
+[4 | kuki 		 ["koe", "kak", "ha, happa", "suk"]]
+[3 | shokubutsu 		 ["futubu", "fobutsu", "shobututsu"]]
+[1 | kinoko 		 ["nikk"]]
+[4 | kusa 		 ["bat", "kaku", "kasu", "kusi"]]
+[1 | ne, nekko 		 ["kusi"]]
+------------------------------
+2023-07-28	
+------------------------------
+2023-07-28	
+[2 | ninjin 		 ["usa", "shunsin"]]
+[3 | mame 		 ["peas", "imu", ""]]
+[1 | ine 		 ["gohan"]]
+[3 | tomato, banka 		 ["tomato", "tomato, banna", "tomato, danko"]]
+[1 | momo 		 ["peac"]]
+[2 | banana, kansho 		 ["banana,", "banana, danka"]]
+[5 | kome 		 ["ine", "ume", "moma", "imo", "mame"]]
+[1 | mugi 		 [""]]
+[1 | suika 		 ["kesa"]]
+[6 | kuri 		 ["ki", "suki", "kusi", "mikan", "shukan", "mikan"]]
+[3 | imo 		 ["p", "ytai", ""]]
+[3 | yasai 		 ["gre", "kanshu", "yakui"]]
+[6 | nashi 		 ["fumi", "kumi", "kusi", "shikan", "", "mame"]]
+[3 | kudamono 		 ["mi", "musi", "kusimono"]]
+[5 | mikan 		 ["mandarin", "kanshun", "kashu", "kusa", "kuri"]]
+------------------------------
+2023-07-28	
+[1 | mame 		 ["imo"]]
+[3 | kome 		 ["ine", "mume", ""]]
+[1 | imo 		 ["mame"]]
+[1 | mikan 		 ["nisha"]]
+------------------------------
+2023-07-28	
+[1 | kuki 		 [""]]
+[1 | kudamono 		 ["kubamono"]]
+------------------------------
+2023-07-28	
+[1 | bangohan 		 ["yohan"]]
+[2 | choshoku, asagohan 		 ["asagohan", "choshosu, asagohan"]]
+[1 | hirugohan 		 ["lunch"]]
+[1 | ryori 		 ["ryri"]]
+[1 | sarada 		 ["sarade"]]
+[1 | aisukurimu 		 ["icekurimi"]]
+[3 | oyatsu 		 ["misu", "kishuko", "yatsuri"]]
+[3 | dezato 		 ["han", "deserdo", "dezertu"]]
+[2 | sandoitchi 		 ["sanduwichiru", "sanduitchi"]]
+------------------------------
+2023-07-28	
+------------------------------
+2023-07-28	
+[2 | kuri 		 ["kuki", "kuki"]]
+[1 | kudamono 		 ["kubamono"]]
+[2 | kusa 		 ["kisa", "kisa"]]
+------------------------------
+2023-07-28	
+[2 | sato 		 ["", "shio"]]
+[3 | shoyu 		 ["soy", "shoya", "shoya"]]
+[1 | shio 		 [""]]
+------------------------------
+2023-07-28	
+[1 | shoyu 		 ["sato"]]
+[1 | shio 		 ["sio"]]
+------------------------------
+2023-07-28	
+[3 | kokonotsu 		 ["ku", "kutsu", "kokonutsu"]]
+[1 | rei, zero 		 ["ziro"]]
+[1 | yon, shi 		 ["yo"]]
+[3 | oku 		 ["hyakuman", "hyakuman", "uko"]]
+[2 | itsutsu 		 ["go", "totosu"]]
+[1 | futatsu 		 ["nitsu"]]
+[2 | go 		 ["go, shichi", "go, shichi"]]
+[1 | ju 		 ["yu"]]
+[4 | muttsu 		 ["rokutsu", "rokutsu", "momotsu", "mottsu"]]
+[5 | yattsu 		 ["hachi", "mottsu", "", "hattsu", "yutsu"]]
+[1 | mittsu 		 ["n"]]
+[1 | man 		 [""]]
+[1 | hyaku 		 ["yaku"]]
+[2 | kyu, ku 		 ["ku", "ku"]]
+[2 | hitotsu 		 ["ichi", ""]]
+[2 | sen 		 ["ken", "man"]]
+[1 | nanatsu 		 [""]]
+[2 | yottsu 		 ["totsu", "yatsu"]]
+[2 | to 		 ["yu", ""]]
+------------------------------
+2023-07-28	
+[3 | muttsu 		 ["yattsu", "yattsu", "yottsu"]]
+[2 | yottsu 		 ["mutsu", "muttsi"]]
+[1 | ni 		 ["futatsu"]]
+[1 | nanatsu 		 ["yottsu"]]
+[1 | itsutsu 		 ["muttsu"]]
+[1 | mittsu 		 ["muttsu"]]
+------------------------------
+2023-07-28	
+[1 | hachi 		 ["yottsu"]]
+[2 | yattsu 		 ["yuttsu", "yottsu"]]
+------------------------------
+2023-07-28	
+[1 | kiku 		 ["kuki"]]
+[1 | sato 		 ["saito"]]
+[2 | kuki 		 ["kuri", "kuri"]]
+[1 | sandoitchi 		 ["sadoitchi"]]
+[1 | banana, kansho 		 ["banana, kasho"]]
+------------------------------
+2023-07-28	
+[3 | moku-yobi 		 ["", "kamu-yobi", "mogu-yobi"]]
+[3 | ka-yobi 		 ["yasobi", "kan-yobi", "ko-yobi"]]
+[2 | getsu-yobi 		 ["ichi-yobi", "megu-yobi"]]
+[3 | sui-yobi 		 ["", "maku-yobi", "kan-yobi"]]
+[3 | do-yobi 		 ["san-yobi", "kin-yobi", ""]]
+[3 | kin-yobi 		 ["", "ka-yobi", "sui-yobi"]]
+[2 | nichi-yobi 		 ["", ""]]
+------------------------------
+2023-07-28	
+------------------------------
+2023-07-28	
+[1 | taifu 		 ["tyfun"]]
+[1 | hare 		 ["tenki"]]
+[1 | kumori 		 [""]]
+[2 | arashi 		 ["kaze", ""]]
+[2 | taiyo 		 ["hi", "taiya"]]
+------------------------------
+2023-07-28	
+------------------------------
+2023-07-28	
+[3 | shita 		 ["ushiro", "", "utso"]]
+[1 | asoko 		 ["soko"]]
+[4 | temae 		 ["koi", "koi", "chikai", "tamae"]]
+[3 | chikai 		 ["fugi", "shikai", "temae"]]
+[1 | naname 		 [""]]
+[1 | higashi 		 ["hishi"]]
+[1 | nishi 		 ["higashi"]]
+[1 | tooi 		 ["toi"]]
+[1 | ue 		 ["maeni"]]
+[1 | minami 		 [""]]
+[1 | kita 		 ["igatsu"]]
+[1 | mae 		 [""]]
+[1 | muko 		 [""]]
+------------------------------
+2023-07-28	
+[1 | shita 		 ["ushiro"]]
+[1 | higashi 		 ["nishi"]]
+[1 | temae 		 ["tamae"]]
+[1 | kita 		 [""]]
+[1 | ushiro 		 ["shita"]]
+[1 | chikai 		 ["chikara"]]
+[1 | nishi 		 ["higashi"]]
+------------------------------
+2023-07-28	
+------------------------------
+2023-07-28	
+[2 | gin 		 ["tetsu", "kinkoki"]]
+[1 | kuki 		 [""]]
+[1 | kori 		 [""]]
+[3 | namari 		 ["", "tetsu", "do"]]
+[1 | doro 		 [""]]
+[1 | yu 		 ["izu"]]
+[3 | tetsu 		 ["kaku", "gin", "gin"]]
+[1 | tsuchi 		 ["michi"]]
+[4 | do 		 ["", "namari", "namari", "namari"]]
+[4 | yuge 		 ["kumori", "kemuri", "", "yuga"]]
+[3 | kinzoku 		 ["tetsu", "kinmaru", "kintoki"]]
+[2 | kemuri 		 ["", "kumori"]]
+------------------------------
+2023-07-28	
+[1 | do 		 ["namari"]]
+------------------------------
+2023-07-28	
+[2 | yobi 		 ["toki, ji", "hiru"]]
+[1 | ashita, asu, myonichi 		 ["ashita, asa, nomichu"]]
+[3 | kyo 		 ["kohi", "kohane", "kon"]]
+[1 | raishu 		 ["senshu"]]
+[3 | kesa 		 ["kencha", "kase", "kase"]]
+[2 | toki, ji 		 ["jiku, ji", "kito, ji"]]
+[2 | hi, nichi 		 ["hi", "hi"]]
+[3 | kotoshi 		 ["sentoshi", "konen", "kyonen"]]
+[2 | senshu 		 ["kyoshu", "konshu"]]
+[4 | kino, sakujitsu 		 ["", "kino, itsubaji", "kino, kujitsiku", "kino, sukijitsu"]]
+[3 | konshu 		 ["senshu", "senshu", "senshu"]]
+------------------------------
+2023-07-28	
+[2 | fun 		 ["byo", "byo"]]
+[2 | juichigatsu 		 ["juishigatsu", "jugatsu"]]
+[1 | kyo 		 ["kotoshi"]]
+[3 | kino, sakujitsu 		 ["kino, sakujitsi", "kino, sukajitsu", "kino, sukajitsu"]]
+------------------------------
+2023-07-28	
+[1 | byo 		 ["futatsu"]]
+[1 | raishu 		 ["rainen"]]
+[1 | naname 		 ["namana"]]
+[1 | sangatsu 		 [""]]
+[1 | kin-yobi 		 ["do-yubi"]]
+[1 | tsuchi 		 ["tochi"]]
+[2 | moku-yobi 		 ["sui-yobi", "muko-yobi"]]
+[1 | fun 		 ["byo"]]
+[1 | yuge 		 ["kumeri"]]
+[1 | getsu-yobi 		 ["mechi-yobi"]]
+[2 | ka-yobi 		 ["sui-yobi", "moku-yobi"]]
+[1 | kemuri 		 ["kumeri"]]
+------------------------------
+2023-07-28	
+[4 | rittoru 		 ["lita", "", "literu", "ritturo"]]
+[1 | inchi 		 ["insu"]]
+[1 | metoru 		 ["meterau"]]
+[1 | guramu 		 ["gram"]]
+[3 | senchimetoru, senchi 		 ["centimenti", "centimeturo", "senchimeturo, senchi"]]
+------------------------------
+2023-07-28	
+[1 | inchi 		 ["ichi"]]
+------------------------------
+2023-07-28	
+[2 | kippu 		 ["kira", ""]]
+[6 | yakusho 		 ["seijika", "gonzen", "yoshuku", "yoshuku", "yokashu", "yakoshu"]]
+[7 | tsurisen, otsuri 		 ["kae", "otsuri", "otsuri", "tsujine, otsuri", "yoshuki", "tsurine, otsuri", "tsurine, otsuri"]]
+[2 | kaisha 		 ["", "kansha"]]
+[1 | gakko 		 [""]]
+[2 | mise 		 ["conbini", "miso"]]
+[4 | kaigi 		 ["", "shaku", "", "gainer"]]
+[5 | kozeni 		 ["otsuri", "", "okari", "gainer", ""]]
+[1 | kane, o-kane 		 ["kane"]]
+[3 | kojo 		 ["", "dapo", "kaisha"]]
+[3 | satsu 		 ["kane", "setsu", "tatsu"]]
+[2 | shakai 		 ["yaku", "shaika"]]
+[9 | jidohanbaiki 		 ["", "hanjidabo", "handi", "hanbaid", "odahanbadi", "handaiki", "hanbaiki", "hidobandaiki", "jiohanbaiki"]]
+[2 | kitte 		 ["pakke", "kitta"]]
+[4 | keizai 		 ["", "dencha", "yakusho", "kaze"]]
+------------------------------
+2023-07-28	
+[1 | kozeni 		 ["tsurisen, otsuri"]]
+[2 | keizai 		 ["", "kaizei"]]
+[1 | kaigi 		 ["gaiki"]]
+[1 | tsurisen, otsuri 		 ["kozeni"]]
+------------------------------
+2023-07-28	
+[6 | tsukue 		 ["gua", "", "ganki", "gaiki", "isu", "tsuk"]]
+[3 | isu 		 ["", "", ""]]
+[2 | erebeta 		 ["eravetoru", "esukareta"]]
+[2 | mado 		 ["mao", "toa"]]
+[1 | ie 		 ["he"]]
+[3 | genkan 		 ["tobira", "geki", ""]]
+[2 | tobira 		 ["dou", "tobiru"]]
+[2 | to, doa 		 ["dou", "to, dou"]]
+[3 | esukareta 		 ["eserado", "esukareto", "esekureta"]]
+------------------------------
+2023-07-28	
+------------------------------
+2023-07-28	
+[4 | chokoku 		 ["shinkuchi", "yomi", "", ""]]
+[9 | fukuro 		 ["kab", "yobu", "nawa", "himo", "niwo", "nuwi", "-fukuro", "fukubo", "fubuko"]]
+[8 | kugi 		 ["sanma", "himo", "nawa", "himo", "nawa", "nawa", "yomi", "fugi"]]
+[1 | kaban 		 ["kabando"]]
+[2 | himo 		 ["tori", "yomi"]]
+[3 | nawa 		 ["tore", "yomi", "himo"]]
+[1 | kasa 		 ["ama"]]
+------------------------------
+2023-07-28	
+[2 | muttsu 		 ["yattsu", "mattsu"]]
+[2 | yattsu 		 ["yatsu", "yuttsu"]]
+------------------------------
+2023-07-28	
+[1 | shika 		 ["shita"]]
+[1 | tsuma 		 ["onna"]]
+[1 | sune 		 ["senu"]]
+[1 | kanzo, kimo 		 ["kinzo, kimo"]]
+[1 | jumai, itoko 		 ["jumei, itoko"]]
+[2 | hada, hifu 		 ["fufu, hiji", "hada, fufo"]]
+[1 | jutei itoko 		 ["jutei, itoko"]]
+[1 | otoko 		 ["otto"]]
+[4 | katatsumuri 		 ["namekuji", "kanatsumue", "namekajitsu", "katatsmuri"]]
+[3 | jukei, itoko 		 ["jumei, itoko", "jumai, itoko", "jushi, itoko"]]
+[5 | kenchikuka 		 ["senchiku", "shinkakuzu", "shinkizu", "kanchikuki", "shinkukazi"]]
+[1 | namekuji 		 ["katatsumuri"]]
+[1 | chita 		 ["shita"]]
+[2 | washi 		 ["shika", "taka"]]
+[1 | tai 		 ["aji"]]
+[4 | hitsuji 		 ["shijitsuji", "hinshijutse", "hinjitsu", "hatsuji"]]
+[1 | mushi 		 ["muchi"]]
+[1 | keisatsukan 		 ["keisatukan"]]
+[1 | sobo, obaa-san 		 ["sofu, obaa-san"]]
+[2 | saba 		 ["washi", "iwashi"]]
+[1 | aji 		 ["tai"]]
+[2 | sofu, ojii-san 		 ["sobu, ojii-san", "sobo, ojii-san"]]
+[1 | kuchibiru 		 ["kuchibuki"]]
+[2 | onnanoko, shoujo 		 ["onna", "onanoko, shoujo"]]
+------------------------------
+2023-07-28	
+[1 | gokiburi 		 ["gokibiru"]]
+[1 | iwashi 		 ["maguro"]]
+[2 | jutei itoko 		 ["jumei, itoko", "jutei, itoko"]]
+[1 | katatsumuri 		 ["hikitsuji"]]
+[1 | otokonoko, shounen 		 ["otonoko, shounen"]]
+[1 | kenchikuka 		 ["chinzekuka"]]
+[1 | gama 		 ["namekuji"]]
+[1 | hitsuji 		 ["hinjitsuji"]]
+[1 | sofu, ojii-san 		 ["hofu, ojii-san"]]
+[1 | chichi, otou-san 		 ["-chichi, otou-san"]]
+[3 | kuchibiru 		 ["buchibiru", "kuchiburi", "kuchiburi"]]
+------------------------------
+2023-07-28	
+[2 | tsukue 		 ["isu", "tsue"]]
+[1 | esukareta 		 ["esekuratera"]]
+[1 | tobira 		 [""]]
+[2 | genkan 		 ["kaigi", "kengan"]]
+------------------------------
+2023-07-28	
+[5 | chokoku 		 ["engr", "yogi", "", "kugi", "shizuku"]]
+[1 | fukuro 		 ["kaba"]]
+[3 | kugi 		 ["", "fuk", "kyoko"]]
+[3 | himo 		 ["rui", "yomi", "yomi"]]
+[2 | nawa 		 ["rosi", "yugo"]]
+------------------------------
+2023-07-28	
+------------------------------
+2023-07-28	
+[5 | chairo 		 ["", "shujiro", "shuji", "", "kaiiro"]]
+[4 | iro, shikisai 		 ["color", "iro, shikisei", "iro, shikisei", "iro, shikisei"]]
+[1 | orenji 		 ["oranji"]]
+[1 | murasaki, murasakiiro 		 ["aoi"]]
+[4 | haiiro, nezumiiro 		 ["grey", "kaiiro, nezumiiro", "kaiiro, nezumiiro", "haiiko, nezumiiro"]]
+[2 | kiiro 		 ["", "kiira"]]
+------------------------------
+2023-07-28	
+[2 | chairo 		 ["shugiro", "choiro"]]
+[1 | iro, shikisai 		 ["iro shikisei"]]
+[1 | murasaki, murasakiiro 		 ["murasaka, murasakiiro"]]
+------------------------------
+2023-07-28	
+[1 | tegami 		 ["atama"]]
+[1 | shinbun 		 ["kami"]]
+[2 | pasokon 		 ["pasekon", "pasoko"]]
+[2 | kami 		 ["", "tegami"]]
+[3 | jisho 		 ["koyomi", "jinbun", "jibu"]]
+------------------------------
+2023-07-28	
+[1 | jisho 		 ["joshi"]]
+------------------------------
+2023-07-28	
+[5 | kuko 		 ["hikojo", "huko", "hikojo", "koki", "tori"]]
+[2 | doro 		 ["", ""]]
+[4 | tori 		 ["ave", "a", "", ""]]
+[3 | hikojo 		 ["hokiri", "hikoki", "h"]]
+[4 | kuruma, jidosha 		 ["kuruma", "kuruma, jidensha", "kuruma, jischa", "kuruma, kadenshi"]]
+[3 | tetsudo 		 ["denshi", "tetsugo", "testudo"]]
+[1 | hikoki 		 [""]]
+[1 | eki 		 ["densha"]]
+[1 | michi 		 ["megi"]]
+[5 | basutei 		 ["", "busastue", "bustue", "busatope", "bastopu"]]
+------------------------------
+2023-07-28	
+[3 | kuko 		 ["hijoko", "koku", "koku"]]
+[3 | doro 		 ["yugi", "yogu", "tori"]]
+[3 | tori 		 ["", "fugo", "koku"]]
+[3 | hikojo 		 ["hikuko", "hikoku", "hikuko"]]
+[2 | eki 		 ["", "ebi"]]
+[5 | kuruma, jidosha 		 ["kuruma,", "kuruma, kezuni", "kuruma,", "kuruma, jidoshi", "curuma, jidosha"]]
+[3 | hikoki 		 ["kikoku", "hikojo", "hikoku"]]
+------------------------------
+2023-07-28	
+[1 | kuruma, jidosha 		 ["kuruma, jibosha"]]
+------------------------------
+2023-07-28	
+[2 | kozeni 		 ["otsuri", "kaizei"]]
+[1 | jidohanbaiki 		 ["jidohanbaiji"]]
+[1 | kitte 		 ["kippu"]]
+[1 | shakai 		 ["shakei"]]
+[2 | yakusho 		 ["komi", "yokashu"]]
+[3 | keizai 		 ["staenei", "kozeni", "kaizei"]]
+[1 | kaigi 		 ["genkan"]]
+[1 | satsu 		 ["sujo"]]
+[2 | tsurisen, otsuri 		 ["kaigi", "tsuserin, otsura"]]
+------------------------------
+2023-07-28	
+[1 | tsukue 		 ["tsunue"]]
+[1 | kozeni 		 ["kaizei"]]
+[1 | rittoru 		 ["lire"]]
+[1 | tobira 		 ["tobiru"]]
+[1 | keizai 		 ["kaizei"]]
+[2 | tsurisen, otsuri 		 ["tsuserin, otsuri", "sutsurine, otsuri"]]
+[1 | senchimetoru, senchi 		 ["shentimetoru"]]
+------------------------------
+2023-07-28	
+[2 | mame 		 ["migo", "kisu"]]
+[1 | sato 		 ["sito"]]
+[3 | kuki 		 ["kasu", "kuke", "mame"]]
+[2 | tomato, banka 		 ["tomato, banda", "tomato, banda"]]
+[1 | sarada 		 ["saraada"]]
+[2 | banana, kansho 		 ["banana, bansha", "banana, banka"]]
+[1 | oyatsu 		 ["futoshi"]]
+[2 | kusa 		 ["kazi", "kasu"]]
+[1 | kome 		 ["mine"]]
+[1 | pan 		 [""]]
+[4 | kuri 		 ["", "mami", "kugi", "kuki"]]
+[3 | dezato 		 ["dezerudo", "dezerta", "deseto"]]
+[1 | yasai 		 ["yashai"]]
+[1 | nashi 		 ["kashi"]]
+[3 | choshoku, asagohan 		 ["asagohan", "choshuku, asagohan", "choshuko, asagohan"]]
+[1 | shokubutsu 		 ["shoutsu"]]
+[1 | sandoitchi 		 ["sandoichi"]]
+------------------------------
+2023-07-28	
+[1 | yobi 		 ["byo"]]
+[1 | ashita, asu, myonichi 		 ["ashita, asa, myonichi"]]
+[1 | shichigatsu 		 ["sichigatsu"]]
+[3 | temae 		 ["", "yoki", "mae"]]
+[1 | namari 		 ["yudo"]]
+[1 | hiru 		 ["hiruhiru"]]
+[2 | raishu 		 ["rainen", "senshu"]]
+[1 | toshi, nen 		 ["nen, tochi"]]
+[2 | nishi 		 ["nisha", "nihi"]]
+[1 | kumori 		 ["kemuri"]]
+[2 | asa 		 ["asa,", "asa, sochu"]]
+[2 | do-yobi 		 ["kin-yobi", "kin-yobi"]]
+[1 | shu 		 ["shu, tochi"]]
+[1 | do 		 [""]]
+[3 | moku-yobi 		 ["muto-yobi", "muko-yobi", "muko-yobi"]]
+[1 | yuge 		 ["kemuri"]]
+[2 | hi, nichi 		 ["hi", "hi"]]
+[2 | ka-yobi 		 ["muto-yobi", "do-yobi"]]
+[4 | kotoshi 		 ["kyonen", "kyonen", "sotoshi", "konen"]]
+[1 | kinzoku 		 ["tetsukin"]]
+[1 | senshu 		 ["kotoshi"]]
+[1 | ichigatsu 		 ["ichi-gatsu"]]
+[2 | kemuri 		 ["yuge", "kumeri"]]
+[5 | kino, sakujitsu 		 ["kino,", "kino, shikatsuji", "kino, tsukijitsu", "kino shikujitsu", "kino, sukijitsu"]]
+[3 | konshu 		 ["koshu", "kotoshi", "senshu"]]
+------------------------------
+2023-07-28	
+[2 | iwashi 		 ["maguro", "washi"]]
+[1 | tai 		 ["aji"]]
+[1 | bakemono 		 ["kabemono"]]
+[4 | katatsumuri 		 ["namekuji", "kamatsuri", "kamatsaumuri", "kattamutsuri"]]
+[3 | hitsuji 		 ["shinjutsi", "kashijut", "hitujisi"]]
+[2 | aji 		 ["tai", "tai"]]
+------------------------------
+2023-07-28	
+[3 | kotoshi 		 ["sotoshi", "kina, sakujitsu", "kyonen"]]
+[2 | kyonen 		 ["sentoshi", "kotoshi"]]
+[3 | kino, sakujitsu 		 ["kino, jidushitsu", "kino, jidujitsu", "kino, sudajitsi"]]
+------------------------------
+2023-07-28	
+[1 | tsuki, gatsu 		 ["tsuki, gatsi"]]
+[1 | kotoshi 		 ["kyonen"]]
+[1 | senshu 		 ["kyoshu"]]
+[1 | kino, sakujitsu 		 ["kino, sukajitsu"]]
+[1 | konshu 		 ["kyoshu"]]
+------------------------------
+2023-07-28	
+[3 | rika 		 ["kankyu", "kanku", ""]]
+[1 | chiri 		 [""]]
+[1 | e 		 [""]]
+[1 | joho 		 ["byo"]]
+[2 | shisutemu 		 ["", "shisetume"]]
+[4 | hitsuyo 		 ["", "chiri", "kiro", "j"]]
+[4 | ongaku 		 ["", "ongon", "anhun", "ungaku"]]
+[2 | supotsu 		 ["suportu", "suportu"]]
+[4 | irai 		 ["rekuesuto", "chiri", "kira", "hitsuyo"]]
+[4 | sansu 		 ["mat", "", "rika", ""]]
+[2 | rekishi 		 ["", "rikishi"]]
+[1 | taiiku 		 ["pe"]]
+------------------------------
+2023-07-28	
+[1 | kuko 		 ["hiku"]]
+[1 | tori 		 [""]]
+[1 | hikoki 		 ["hikoko"]]
+------------------------------
+2023-07-30	
+[1 | benkyou 		 ["renshuu"]]
+[1 | aka, akai 		 ["aka"]]
+[3 | taido 		 ["", "chouso", ""]]
+[1 | saifu 		 ["safu"]]
+[1 | byouin 		 [""]]
+[2 | jiko 		 ["taihen", "jaki"]]
+[1 | renshuu 		 ["renshou"]]
+[1 | shashin 		 ["ie"]]
+[4 | houhou 		 ["", "", "chouso", "taido"]]
+[4 | choushi 		 ["t", "chouso", "chouso", "shoushi"]]
+[2 | renraku 		 ["goukan", "rensha"]]
+[1 | karada 		 ["kachi"]]
+------------------------------
+2023-07-30	
+[1 | saifu 		 ["safu"]]
+[1 | jiko 		 ["jio"]]
+[1 | kuruma, jidosha 		 ["kuruma, jishoda"]]
+[1 | houhou 		 ["taido"]]
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+[1 | musuko 		 ["musume"]]
+[1 | saikin 		 ["kyoki"]]
+[1 | kimochi 		 [""]]
+[2 | kikai 		 ["saiku", "iken"]]
+[4 | ryokou 		 ["tabi", "ryoku", "kikai", "ryouko"]]
+[1 | dansei 		 ["otoko"]]
+[2 | jugyou 		 ["kyou", "jigyou"]]
+[3 | kantan 		 ["rakshou", "kantai", ""]]
+[2 | iken 		 ["jikuu", "tikai"]]
+[1 | shippai 		 ["jigo"]]
+[1 | denwa 		 [""]]
+[3 | taisetsu 		 ["taihen", "taisen", "teisetsu"]]
+[1 | daigaku 		 ["gakyou"]]
+------------------------------
+2023-07-30	
+[1 | kimochi 		 ["taido"]]
+------------------------------
+2023-07-30	
+[1 | ie                       ["i"]]
+[1 | renraku                  ["ren"]]
+[1 | aka, akai                ["ak"]]
+[1 | mise                     ["mis"]]
+[1 | choushi                  ["ch"]]
+[1 | ima                      ["im"]]
+------------------------------
+2023-07-30	
+[1 | onaka                    ["okana"]]
+------------------------------
+2023-07-30	
+[1 | yobu                     [""]]
+[1 | zenbu                    ["senbu"]]
+[1 | ryoushin, oya            ["ryoushin"]]
+[1 | suki                     ["ski"]]
+[1 | oto                      [""]]
+[3 | ato                      ["shito", "uta", "ota"]]
+[3 | nimotsu                  ["kaban", "mimotsu", "nimots"]]
+[1 | bijin                    ["biji"]]
+[2 | shokuji                  ["shoku", "skokuji"]]
+[1 | hontou                   ["hansei"]]
+[3 | seikaku                  ["", "saikaku", "saikaku"]]
+[1 | ashita, asu              ["ashita"]]
+[1 | imouto                   ["imotou"]]
+[1 | tsugi                    [""]]
+------------------------------
+2023-07-30	
+[1 | kyou                     ["ima"]]
+[1 | kuruma, jidosha          ["kuruma, tidosha"]]
+[2 | houhou                   ["kouhou", "taido"]]
+------------------------------
+2023-07-30	
+[3 | ana                      ["", "", "hinan"]]
+[2 | souko                    ["", "shouho"]]
+[3 | shinri                   ["hontou", "shirai", "shinrai"]]
+[3 | tairiku                  ["kuni", "", "tairuki"]]
+[3 | hinan                    ["te", "", "hanan"]]
+[4 | gouri                    ["re", "ana", "jikan", "gouki"]]
+[3 | jikaku                   ["ja", "hinan", "jikagu"]]
+------------------------------
+2023-07-30	
+[1 | jikaku                   ["gouri"]]
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+[1 | hinan                    ["souko"]]
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+[1 | iken                     ["kikai"]]
+[1 | ryokou                   ["ryouko"]]
+[2 | kikai                    ["iken", "iken"]]
+[1 | taisetsu                 ["teisetsu"]]
+[1 | kimochi                  ["komachi"]]
+------------------------------
+2023-07-30	
+[1 | byouin                   ["bouin"]]
+[1 | taido                    ["kimochi"]]
+------------------------------
+2023-07-30	
+[1 | benkyou                  ["benyou"]]
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+[2 | yobu                     ["renraku", "gaiko"]]
+[1 | seikaku                  ["saikaku"]]
+------------------------------
+2023-07-30	
+[2 | e                        ["ie", ""]]
+[4 | okuru                    ["sako", "", "desu", "desu"]]
+[2 | tokei                    ["", "tikei"]]
+[2 | kawaru                   ["henshi", "hankasu"]]
+[2 | kane; okane              ["kane", "okane"]]
+[1 | ai; mana                 ["ai"]]
+[2 | annai                    ["jouhou", "k"]]
+[1 | isogu                    ["haiaku"]]
+[1 | bangou                   ["bango"]]
+[1 | dorobou                  [""]]
+[1 | deguchi                  ["de"]]
+[2 | dasu                     ["okuru", "okuru"]]
+[1 | au                       ["deau"]]
+[2 | shitsumon                ["", "itsumon"]]
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+[1 | osoi                     ["ysai"]]
+[3 | kusuri                   ["", "kasuri", "kasuru"]]
+[4 | sakuya, yuube            ["kanyo", "", "kayuka", "kasuya, yuube"]]
+[1 | chigau                   ["shigau"]]
+[1 | jisatsu                  [""]]
+[3 | kasu                     ["tewa", "okimasu", "masu"]]
+[1 | shinbun                  ["yobu"]]
+[1 | warau                    ["waru"]]
+[1 | kiku                     ["iku"]]
+[3 | souji                    ["", "hikkan", "shouji"]]
+[1 | hiroi                    ["dekai"]]
+[1 | kitanai                  ["doro"]]
+[1 | hakken                   [""]]
+[5 | shiraberu                ["", "kisatsu", "soutsi", "kousi", "shiberasu"]]
+[1 | hannin                   [""]]
+[3 | sabishii                 ["sabushii", "sabashii", "sabashii"]]
+------------------------------
+2023-07-30	
+[1 | shiraberu                ["shirabaru"]]
+[1 | asobu                    ["yasobu"]]
+------------------------------
+2023-07-30	
+[1 | yobu                     ["renraku"]]
+[1 | shiraberu                ["shibarebu"]]
+[1 | e                        ["shashin"]]
+[1 | onna                     ["ona"]]
+[1 | kane; okane              ["kane, okane"]]
+[1 | ryoushin, oya            ["ryoushin; oya"]]
+------------------------------
+2023-07-30	
+[5 | totsuzen                 ["", "", "totsugeki", "totsezu", "totsuzo"]]
+[1 | sagasu                   ["hansu"]]
+[1 | ude                      [""]]
+[7 | atsumeru                 ["", "", "", "", "asum", "atsumate", "atsumeri"]]
+[1 | keiji                    [""]]
+[5 | tsumetai                 ["samui", "samuii", "samuii", "tao", "tsumetae"]]
+[1 | oishii                   ["omoi"]]
+[2 | issho                    ["", "isshoni"]]
+[3 | kibishii                 ["", "sab", "sabishii"]]
+[4 | odoroku                  ["odoroi", "odoroite", "odoroitu", "odoru"]]
+[2 | sumu                     ["iku", "kusu"]]
+[3 | rikai                    ["wakaru", "wakaru", "waku"]]
+[1 | tanjoubi                 ["tanjobi"]]
+[2 | handan                   ["shibaku", "hanzan"]]
+[5 | kinchou                  ["shaku", "jikaku", "", "", "tetsuzo"]]
+[2 | taihen                   ["takai", "dai"]]
+[5 | tsukareru                ["", "tsukareta", "totsuzeki", "tsukaretu", "tsukareta"]]
+[2 | naku                     ["nekai", "neku"]]
+[1 | otona                    [""]]
+[1 | inoru                    ["kanaru"]]
+------------------------------
+2023-07-30	
+[1 | tanjoubi                 ["tanjobi"]]
+[1 | sagasu                   ["sagaru"]]
+[3 | atsumeru                 ["atsumaru", "atsumaru", "tsumeru"]]
+[1 | kinchou                  ["knchou"]]
+[1 | keiji                    ["keji"]]
+[2 | tsumetai                 ["tsumetae", "tsumetae"]]
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+[6 | shitsurei                ["shi", "shitsueri", "", "shitsue", "shitsukei", "shitsuerei"]]
+[1 | kaeru                    ["negasu"]]
+[5 | shinpai                  ["", "kantei", "hansai", "ansen", "anzen"]]
+[2 | ayamaru                  ["", "tanomu"]]
+[4 | tanomu                   ["tanoshii", "one", "", "tanom"]]
+[6 | abunai                   ["kikan", "", "kiken", "anbei", "abunei", "abunei"]]
+[3 | kakusu                   ["kakaru", "kakou", "kakuku"]]
+[1 | takai                    ["takei"]]
+[6 | shitagau                 ["", "shimai", "gatsugau", "gatsuge", "chigatus", "shigatua"]]
+[3 | idaku                    ["tsugo", "", ""]]
+[3 | seikatsu                 ["jinsei", "seiketsu", "keiseku"]]
+[1 | shoumei                  ["shoutai"]]
+[1 | hen                      ["okashi"]]
+[1 | erabu                    ["erabaru"]]
+[2 | kiseki                   ["", ""]]
+[1 | joukyou                  ["joutei"]]
+[2 | mukashi                  ["shikai", "mushoku"]]
+[2 | heiki                    ["kakui", "kakui"]]
+[1 | watasu                   ["tenu"]]
+------------------------------
+2023-07-30	
+[2 | abunai                   ["abunei", "abunei"]]
+[1 | shoumei                  ["joumei"]]
+------------------------------
+2023-07-30	
+[3 | suteru                   ["semuru", "steru", "skuaru"]]
+[5 | wasureru                 ["", "oboeru", "owasureru", "wasaru", "wasareru"]]
+[7 | modoru                   ["kaeru", "odoru", "oboru", "omou", "kotoru", "omou", "soudan"]]
+[4 | kotaeru                  ["henji", "henji", "henji", "kaeteru"]]
+[1 | seito                    ["desh"]]
+[2 | hayaku                   ["haiyaku", "hayaka"]]
+[4 | omou                     ["kangaeru", "kangaeru", "kangaeru", "kotaeru"]]
+[5 | sonzai                   ["sei", "imi", "shinkai", "shinmei", "sonzu"]]
+[1 | hajimete                 ["jibun"]]
+[10 | aruku                    ["", "", "", "koudan", "soudan", "kazutu", "kazura", "", "kazaru", "uruka"]]
+[11 | itazura                  ["co", "", "handan", "", "", "kitezaru", "itazeru", "", "itazurera", "akuru", "itzaura"]]
+[5 | soudan                   ["", "kouka", "", "ik", "scou"]]
+[1 | neru                     ["nemu"]]
+[2 | kimeru                   ["kankei", "seiko"]]
+[1 | kekka                    [""]]
+[5 | hanareru                 ["", "", "mou", "omou", "hanataru"]]
+[1 | hazukashii               ["hasakashii"]]
+[1 | oboeru                   ["oboiteru"]]
+[2 | honki                    ["hontou", "hontou"]]
+[2 | imi                      ["kyouku", "shiju"]]
+------------------------------
+2023-07-30	
+[1 | aruku                    ["akusu"]]
+[1 | suteru                   ["sodoru"]]
+------------------------------
+2023-07-30	
+[2 | kiken                    ["", ""]]
+[3 | hanashi                  ["hanasu", "iu", "hanashii"]]
+[5 | fuman                    ["k", "mangai", "", "manzai", "manzoku"]]
+[2 | shiawase                 ["", "ie"]]
+[2 | kenka                    ["tenki", "tenka"]]
+[7 | kekkyoku                 ["mata", "", "totsumo", "", "kakkyuro", "kekkyoru", "ikura"]]
+[2 | tatakau                  ["kenka", "kenka"]]
+[1 | iu                       ["ku"]]
+[3 | okoru                    ["ikai", "", "otoru"]]
+[1 | tasukeru                 ["tasukete"]]
+[1 | iki                      [""]]
+[1 | koi                      ["ai"]]
+[5 | wakareru                 ["hanareru", "wakaru", "wakaru", "kakureru", "kakureru"]]
+[2 | motsu                    ["tebu", "mutsu"]]
+[6 | kakunin                  ["jakai", "jokin", "", "", "hishan", "kakonin"]]
+[2 | yurusu                   ["hana", "yurusan"]]
+[2 | shoujiki                 ["hontou", "shinjitsu"]]
+[6 | gokai                    ["tihen", "", "gusai", "gauchi", "fuman", "fuman"]]
+[1 | mendou                   ["yakkai"]]
+[3 | ooi                      ["takusan", "taksan", ""]]
+[4 | shiru                    ["wakaru", "wakaru", "shouji", "shori"]]
+[3 | kakureru                 ["kakusu", "wakaru", "kanaresu"]]
+------------------------------
+2023-07-30	
+[1 | kenka                    ["kenke"]]
+[1 | wakareru                 ["kakureru"]]
+[1 | iu                       ["hanashi"]]
+[1 | kakureru                 ["wakareru"]]
+------------------------------
+2023-07-30	
+[1 | shitsurei                ["itzukaru"]]
+[2 | totsuzen                 ["totsugeku", "totsugeki"]]
+[3 | sagasu                   ["shiraberu", "hanasu", ""]]
+[1 | atsumeru                 ["atsukuru"]]
+[4 | modoru                   ["kaeru", "odoru", "kaeru", "kaeru"]]
+[1 | ugoku                    ["ogoku"]]
+[2 | abunai                   ["kiken", "abunei"]]
+[1 | tsumetai                 ["tsumetae"]]
+[4 | omou                     ["kangaeru", "sjiku", "", "sagasu"]]
+[2 | kakusu                   ["kakuru", "wakaru"]]
+[1 | hayaku                   ["hayaka"]]
+[1 | oishii                   ["oishi"]]
+[2 | kibishii                 ["taihen", "taihen"]]
+[3 | odoroku                  ["odoru", "", "modoru"]]
+[3 | idaku                    ["idako", "motsu", "motsu"]]
+[1 | seikatsu                 ["shimei"]]
+[3 | rikai                    ["wakaru", "wakaru", "wakaru"]]
+[4 | itazura                  ["soudan", "shitzurei", "", "itazur"]]
+[1 | shoumei                  ["shimei"]]
+[2 | erabu                    ["kimeru", "omou"]]
+[4 | kinchou                  ["", "kengai", "kibishii", ""]]
+[1 | mukashi                  ["mukoshi"]]
+[1 | wakaru                   ["shiru"]]
+[2 | naku                     ["naru", "naru"]]
+[1 | kekka                    ["kikken"]]
+[2 | watasu                   ["motsu", "sawaru"]]
+[5 | wasureru                 ["waseru", "wasareru", "wasaru", "wasareru", "wasaru"]]
+------------------------------
+2023-07-30	
+[1 | kakusu                   ["kakusu, kakureru"]]
+------------------------------
+2023-07-30	
+[1 | abunai                   ["abunei"]]
+------------------------------
+2023-07-30	
+[3 | okuru                    ["okasu", "okaru", "dasu"]]
+[1 | kanashii                 ["sabishii"]]
+[1 | ai; mana                 ["koi"]]
+[2 | kikai                    ["kikkai", "kiken"]]
+[1 | isogu                    ["hayaku"]]
+[1 | hontou                   ["honki"]]
+[1 | dorobou                  ["hannin"]]
+[2 | houhou                   ["kiku", "kiku"]]
+[1 | seikaku                  ["seikatsu"]]
+[1 | choushi                  ["choushin"]]
+[2 | hakken                   ["kakken", "kakken"]]
+[1 | dasu                     ["akuru"]]
+[1 | kinou                    ["ashita, asu"]]
+[1 | onaji                    ["issho"]]
+[1 | hannin                   ["handan"]]
+------------------------------
+2023-07-30	
+[1 | kaeru                    ["henshu"]]
+[1 | kekkon                   ["kekko"]]
+[3 | miseru                   ["shiu", "misu", "misuro"]]
+[2 | oshieru                  ["kyoushu", "oshietu"]]
+[6 | tsureru                  ["", "", "itto", "kitai", "kureru", "kureru"]]
+[3 | kitai                    ["kankai", "", "kantei"]]
+[4 | omoidasu                 ["oboeru", "shoujo", "wasureru", "k"]]
+[1 | inochi                   ["jinsei"]]
+[2 | katsu                    ["shouri", ""]]
+[1 | okashii                  ["omoshiroi"]]
+[4 | aite                     ["otoko", "k", "aito", ""]]
+[3 | kyoufu                   ["shi", "yobutsu", "kyoru"]]
+[1 | joudan                   ["jodai"]]
+[1 | riyuu                    ["m"]]
+[3 | makeru                   ["shimau", "shi", "maku"]]
+[3 | furueru                  ["", "tsumeru", "fueru"]]
+[2 | anshin                   ["anzen", "anzen"]]
+[4 | kuwashii                 ["", "muzashii", "umashii", "wazushii"]]
+[1 | namida                   ["uchi"]]
+[2 | kotoba                   ["kai", ""]]
+------------------------------
+2023-07-30	
+[1 | hontou                   ["hountou"]]
+[1 | suki                     ["ai; mana"]]
+------------------------------
+2023-07-30	
+------------------------------
+2023-07-30	
+[1 | sakuya, yuube            ["sakayu, yuube"]]
+[1 | hannin                   ["hanin"]]
+------------------------------
+2023-07-30	
+[1 | shinpai                  ["anshin"]]
+[2 | hanashi                  ["iu", "iu"]]
+[5 | omou                     ["shiru", "wakaru", "wakaru", "shiru", "shiru"]]
+[1 | kekkyoku                 ["owari"]]
+[1 | aruku                    ["azuku"]]
+[2 | seikatsu                 ["inochi", "inochi"]]
+[4 | itazura                  ["kiku", "joudan", "borodou", "itazeru"]]
+[2 | tasukeru                 ["tasukure", "tasukete"]]
+[3 | wakareru                 ["wakaru", "hanareru", "hanareru"]]
+[1 | heiki                    ["hieki"]]
+[5 | wakaru                   ["rikai", "rikai", "shiru", "omou", "rikai"]]
+[3 | shoujiki                 ["honki", "hontou", "hontou"]]
+[3 | kakunin                  ["kakonin", "", ""]]
+[1 | shiru                    ["wakaru"]]
+[1 | wasureru                 ["wasereru"]]
+[1 | imi                      ["riyuu"]]
+------------------------------
+2023-07-30	
+[2 | omou                     ["shiru", ""]]
+[1 | kakusu, kakureru         ["kakusu"]]
+[2 | shinpai                  ["anshin", "anshin"]]
+[1 | gokai                    ["gaiko"]]
+[1 | watasu                   ["wasaru"]]
+[3 | shiru                    ["rikai", "rikai", "omou"]]
+[1 | ugoku                    ["furueru"]]
+[1 | fuman                    ["gokai"]]
+[1 | suteru                   ["watasu"]]
+[1 | wasureru                 ["wasareru"]]
+------------------------------
+2023-07-31	
+[1 | jouhou                   ["johou"]]
+[1 | isogu                    ["isagu"]]
+[1 | onaka                    ["okane"]]
+[1 | ryokou                   ["ryoukou"]]
+[1 | sakuya, yuube            ["kasuya, yuube"]]
+[1 | kuruma, jidosha          ["kuruma, jidocha"]]
+[1 | okuru                    ["okoru"]]
+[2 | kikai                    ["kikka", "kikkai"]]
+[1 | taisetsu                 ["teisetsu"]]
+------------------------------
+2023-07-31	
+[1 | hanashi                  ["hanashii"]]
+[2 | atsumeru                 ["atsumaru", "atsumaru"]]
+[2 | omou                     ["shiru", "shiru"]]
+[1 | tsumetai                 ["tsumetae"]]
+[2 | hayaku                   ["hayai", "hayku"]]
+[1 | kibishii                 ["taihen"]]
+[3 | odoroku                  ["odoreru", "odoreru", "odoreru"]]
+[1 | erabu                    ["eraberu"]]
+[1 | kinchou                  [""]]
+[2 | wakareru                 ["okoru", "wasureru"]]
+[1 | joukyou                  ["jokyou"]]
+[1 | motsu                    ["wasaru"]]
+[2 | shiru                    ["wakaru", "omou"]]
+[1 | watasu                   ["wasaru"]]
+[2 | gokai                    ["gaiko", "kogai"]]
+------------------------------
+2023-07-31	
+[1 | kaeru                    ["kawaru"]]
+[3 | oshieru                  ["shoutei", "shitu", "oshiete"]]
+[4 | kitai                    ["jikou", "kiko", "tsureru", ""]]
+[3 | tsureru                  ["odoru", "odoru", "odoru"]]
+[6 | omoidasu                 ["oboeru", "kakeru", "odoru", "oboireru", "ok", "oboidasu"]]
+[1 | kokoro                   ["shinzou"]]
+[1 | aite                     ["aita"]]
+[1 | okashii                  ["joudan"]]
+[2 | kyoufu                   ["fueru", "kyoufo"]]
+[1 | sensou                   ["sentou"]]
+[3 | makeru                   ["", "", "maku"]]
+[1 | atarashii                ["atarashi"]]
+------------------------------
+2023-07-31	
+[1 | tsureru                  ["odoru"]]
+[1 | kotoba                   ["kotoiba"]]
+------------------------------
+2023-07-31	
+[3 | utsukushii               ["bijin", "hutsekushii", "utsekushii"]]
+[6 | nareru                   ["", "", "tsukai", "koudou", "koudou", "aimo"]]
+[4 | okiru                    ["okeru", "okuru", "nareru", "okuru"]]
+[2 | sainou                   ["kanchou", "saichou"]]
+[5 | futsuu                   ["nichijou", "", "kitai'", "koudou", "koudou"]]
+[4 | sukoshi                  ["taksen", "sukochi", "sukoshii", "sukoshii"]]
+[4 | yasumu                   ["nemu", "", "nemuru", "ayamu"]]
+[4 | deru                     ["degi", "ikuru", "ikiru", "ikiru"]]
+[4 | samui                    ["tsume", "", "futsuu", "tsumu"]]
+[1 | owaru                    ["owari"]]
+[2 | gimu                     ["kak", "jikan"]]
+[4 | seikou                   ["", "saikyo", "saikou", "saikou"]]
+[2 | ikiru                    ["ine", "sonzai"]]
+[1 | yuuki                    [""]]
+[2 | naka, chuu, juu          ["naka", "desu"]]
+[2 | ureshii                  ["urushii", "shiawase"]]
+[4 | koudou                   ["", "ikuru", "aut", "futsuu"]]
+[1 | yume                     ["yoru"]]
+[2 | taiho                    ["", "taihen"]]
+[4 | tsumi                    ["", "", "koudou", "sumi"]]
+[2 | mondai                   ["kikon", "mondou"]]
+[1 | densha                   ["dencha"]]
+[5 | nayamu                   ["anshou", "ayamu", "", "yasumu", ""]]
+------------------------------
+2023-07-31	
+[3 | utsukushii               ["utsekushi", "utsukushi", "ureshii"]]
+[1 | nareru                   ["okurur"]]
+[1 | sainou                   ["seinou"]]
+[5 | yasumu                   ["nayamu", "nareru", "yasamu", "nemeru", "nayamu"]]
+[1 | samui                    ["tsume"]]
+[1 | seikou                   ["saikou"]]
+[1 | ikiru                    ["ikuru"]]
+[3 | ureshii                  ["", "shiawase", "shiawase"]]
+[1 | taiho                    ["haito"]]
+[2 | tsumi                    ["", "taiho"]]
+[5 | nayamu                   ["anshu", "ayamaru", "", "yasumu", "ayamu"]]
+------------------------------
+2023-07-31	
+[3 | seikou                   ["saikou", "seinou", "saikou"]]
+[1 | nareru                   ["tsureru"]]
+[1 | tsumi                    [""]]
+[1 | sainou                   ["seinou"]]
+[2 | yasumu                   ["nayaru", "yasuru"]]
+------------------------------
+2023-07-31	
+[2 | betsu                    ["", "betsuni"]]
+[2 | yorokobu                 ["aya", ""]]
+[1 | osu                      [""]]
+[1 | kirei                    [""]]
+[4 | taeru                    ["jimu", "", "tairo", ""]]
+[3 | damasu                   ["j", "naru", "odor"]]
+[5 | suwaru                   ["sate", "sewa", "seraru", "sewaru", "sawaru"]]
+[2 | ninki                    ["ji", "ninken"]]
+[1 | kieru                    ["kaeru"]]
+[1 | hakobu                   ["hatarku"]]
+[4 | okoru                    ["oru", "iru", "okuru", "daru"]]
+[3 | daiji                    ["taisetsu", "daisetsu", "daisetsu"]]
+[6 | oyogu                    ["", "okuro", "yogor", "yogura", "yoguru", "sewaru"]]
+[1 | setsumei                 ["jugiou"]]
+[6 | niru                     ["onaji", "wakai", "", "damasu", "daiji", "neru"]]
+[1 | saigo                    ["saigou"]]
+[1 | wakai                    ["waka"]]
+[2 | muda                     ["", "muri"]]
+[1 | susumu                   ["susume"]]
+[2 | toru                     ["daru", "daru"]]
+[2 | kyaku, kaku              ["kuji", "kyuku, kuku"]]
+[3 | tetsudau                 ["kyouk", "", "da"]]
+------------------------------
+2023-07-31	
+[1 | hakobu                   ["hatobu"]]
+[1 | betsu                    ["ninki"]]
+------------------------------
+2023-07-31	
+[2 | kieru                    ["okoru", "ikeru"]]
+[1 | yorokobu                 ["yorokobi"]]
+[1 | toru                     ["yobu"]]
+[2 | taeru                    ["tairo", "kaeru"]]
+[1 | okoru                    ["tsureru"]]
+[1 | betsu                    ["niru"]]
+[2 | suwaru                   ["sewaru", "sewaru"]]
+[1 | saigo                    ["owaru"]]
+[1 | tetsudau                 ["tatsudau"]]
+------------------------------
+2023-07-31	
+[1 | kanashii                 ["sabishii"]]
+------------------------------
+2023-07-31	
+------------------------------
+2023-07-31	
+[1 | honki                    ["hontou"]]
+[1 | omou                     ["shiru"]]
+------------------------------
+2023-07-31	
+[7 | okasu                    ["sh", "", "shoku", "kaku", "kiz", "k", "osuku"]]
+[1 | nikushimi                ["ikari"]]
+[2 | kotowaru                 ["kotaeru", "kioku"]]
+[2 | koukai                   ["", "nayami"]]
+[1 | matsu                    ["mate"]]
+[4 | chokusetsu               ["chis", "chokuzetsu", "ki", ""]]
+[4 | dageki                   ["tsugu", "tsu", "dakugi", "naguru"]]
+[3 | kyoka                    ["kaikin", "", ""]]
+[1 | jishin                   ["jinshi"]]
+[3 | shinjitsu                ["shoujiki", "shinjitusu", "shoujitsu"]]
+[3 | naguru                   ["tsugeru", "tsugeru", "nageru"]]
+[2 | chinmoku                 ["shiseur", "chinmon"]]
+[5 | tsugeru                  ["kiku", "oishi", "", "shoku", "ki"]]
+[4 | nayami                   ["handai", "jabai", "", "nayamu"]]
+[1 | kioku                    ["kyoku"]]
+[3 | jounetsu                 ["", "", "jousin"]]
+[4 | kizutsukeru              ["kitei", "tsugeru", "kitsuseru", "kizutsekuru"]]
+[1 | subarashii               ["suburashii"]]
+------------------------------
+2023-07-31	
+------------------------------
+2023-07-31	
+[2 | ubau                     ["dorusama", "usumu"]]
+[4 | nusumu                   ["doru", "ubau", "ubau", "numusu"]]
+[1 | meiwaku                  [""]]
+[3 | yuiitsu                  ["koto", "tannaru", "tae"]]
+[4 | tsutaeru                 ["", "kotaeru", "", ""]]
+[1 | kachi                    ["katsu"]]
+[3 | tanoshimu                ["tanoshii", "tanoshii", "tanoshiu"]]
+[3 | uwasa                    ["roudan", "jishu", "wasuru"]]
+[3 | mujitsu                  ["giko", "shimatsu", "shineru"]]
+[2 | tannaru                  ["tada", "anna"]]
+[1 | kansha                   ["arigatou"]]
+[1 | osoroshii                ["jisatsu"]]
+[2 | ou                       ["noo", "tsugeru"]]
+[5 | fukou                    ["", "kanashi", "gyougi", "", "fuuo"]]
+[2 | gyougi                   ["gichi", ""]]
+[5 | monku                    ["", "fuan", "fukan", "fuan", "monkai"]]
+[3 | shinken                  ["honkiru", "shinji", "shoujiku"]]
+[3 | semeru                   ["jia", "hijitsu", "remuru"]]
+[1 | nozomu                   ["negau"]]
+[2 | shinjiru                 ["wakaru", "shinru"]]
+[2 | fuan                     ["", "jigue"]]
+[1 | kaku                     ["eu"]]
+[1 | kanzen                   ["kanpeki"]]
+[1 | bakuhatsu                ["baku"]]
+------------------------------
+2023-07-31	
+[1 | shinjiru                 ["shinken"]]
+[1 | mujitsu                  ["mijutsu"]]
+[1 | yuiitsu                  ["tannaru"]]
+[1 | kansha                   ["kanshan"]]
+------------------------------
+2023-07-31	
+[1 | yasashii                 ["kino"]]
+[1 | kaidan                   ["hanki"]]
+[2 | daijoubu                 ["buji", "daijobu"]]
+[5 | sodateru                 ["", "otaseru", "otaseru", "sodetaru", "toradu"]]
+[3 | youi                     ["keika", "koumi", "kyoumi"]]
+[1 | yameru                   ["owaru"]]
+[1 | mezurashii               ["jaku"]]
+[1 | chikara                  ["tsukarada"]]
+[1 | hantai                   [""]]
+[1 | genin                    ["jikan"]]
+[1 | otoko                    ["otokou"]]
+[1 | hairu                    ["ikeru"]]
+[1 | ganbaru                  ["gambatu"]]
+[4 | shoutai                  ["seikaku", "shoukei", "shoukei", "shoukai"]]
+[1 | yowai                    ["yawai"]]
+[2 | torihiki                 ["koujou", "torufuki"]]
+[1 | shouko                   ["shoumei"]]
+[2 | kyoumi                   ["kyoki", "koumei"]]
+[2 | oriru                    ["", "oruri"]]
+[1 | henji                    ["henchi"]]
+------------------------------
+2023-07-31	
+[1 | daijoubu                 ["daijouu"]]
+------------------------------
+2023-07-31	
+[1 | yorokobu                 ["yorokoi"]]
+[1 | betsu                    ["chigau"]]
+[1 | ninki                    ["kiken"]]
+------------------------------
+2023-07-31	
+[2 | kaeru                    ["kawaru", "kawaru"]]
+[1 | shinpai                  ["fuan"]]
+[2 | hanashi                  ["hanashii", "hanashii"]]
+[1 | atsumeru                 ["atsumaru"]]
+[2 | fuman                    ["monku", "fuan"]]
+[2 | omou                     ["shiru", "shiru"]]
+[1 | miseru                   ["kiku"]]
+[1 | tsumetai                 ["amui"]]
+[1 | oshieru                  ["jugyou"]]
+[1 | tsureru                  ["tsugeru"]]
+[2 | omoidasu                 ["oboiteru", "owasuru"]]
+[2 | odoroku                  ["odoru", "oboiteru"]]
+[1 | sumu                     ["seikatsu"]]
+[1 | kibishii                 ["sabishii"]]
+[1 | hen                      ["okashii"]]
+[1 | tasukeru                 ["tasuketu"]]
+[1 | aite                     ["attai"]]
+[1 | okashii                  ["odoroite"]]
+[2 | kinchou                  ["fuan", "fuan"]]
+[1 | nagai                    ["negai"]]
+[2 | wakareru                 ["hanareru", "wasureru"]]
+[1 | motsu                    ["idaku"]]
+[2 | shiru                    ["omou", "omou"]]
+[1 | otona                    ["otono"]]
+[1 | atarashii                ["atarashi"]]
+------------------------------
+2023-07-31	
+[1 | futsuu                   ["jishi"]]
+[2 | utsukushii               ["kirei", "uzukashii"]]
+[1 | seikou                   ["keinou"]]
+[3 | nareru                   ["nagaru", "nagareu", "kareru"]]
+[2 | ikiru                    ["seikaku", "seikaku"]]
+[3 | ureshii                  ["yoroshii", "shiawase", "urishii"]]
+[1 | okiru                    ["okoru"]]
+[1 | tsumi                    [""]]
+[1 | sainou                   ["seinou"]]
+[5 | nayamu                   ["anzu", "anshin", "ayamu", "ayamu", "ayamu"]]
+------------------------------
+2023-07-31	
+[2 | onnanohito               ["onna", "onnonohito"]]
+[2 | kenchikuka               ["sinchikuki", "kinchikuka"]]
+[1 | ha-isha, shikai          ["kangoshi"]]
+[1 | otokonohito              ["ottokonohito"]]
+------------------------------
+2023-07-31	
+[2 | shinzo                   ["shinzou", "shinzou"]]
+[1 | o-naka, hara             ["onaka, hara"]]
+[1 | sune                     ["hada, hifu"]]
+[1 | byoki                    ["byouki"]]
+[1 | kinniku                  ["knniku"]]
+[1 | kanzo, kimo              ["kinza, kimo"]]
+------------------------------
+2023-07-31	
+------------------------------
+2023-07-31	
+[1 | sobo, obaa-san           ["fufu, obaa-san"]]
+[1 | jutei itoko              ["jutei, itoko"]]
+[1 | sofu, ojii-san           ["hifu, ojii-san"]]
+[1 | chichi, otou-san         ["chihi, otou-san"]]
+[1 | ane, one-san             ["imouto"]]
+[1 | otto                     ["otta"]]
+[1 | jukei, itoko             ["jumei, itoko"]]
+------------------------------
+2023-07-31	
+[1 | ryu, tatsu               ["riyuu, tatsu"]]
+[1 | maguro                   ["magoru"]]
+[1 | tonbo                    ["tanbo"]]
+[1 | ga                       ["ka"]]
+[1 | tai                      ["aji"]]
+[1 | katatsumuri              ["namekuji"]]
+[2 | hitsuji                  ["shinjiru", "hatsuji"]]
+------------------------------
+2023-07-31	
+[1 | kiku                     ["chiku"]]
+[1 | kuki                     ["kiku"]]
+[1 | shokubutsu               ["dokobutsu"]]
+[1 | kusa                     ["kuchi"]]
+[1 | ne, nekko                ["kuki"]]
+------------------------------
+2023-07-31	
+------------------------------
+2023-07-31	
+[2 | kuri                     ["kiku", "kusi"]]
+[1 | mugi                     ["mogu"]]
+[2 | yasai                    ["yatsui", "yasui"]]
+[2 | ninjin                   ["ninji", "ninin"]]
+[1 | tomato, banka            ["tomato, bansha"]]
+[1 | mame                     ["keso"]]
+[1 | kudamono                 ["kubimono"]]
+[1 | mikan                    ["makin"]]
+[1 | banana, kansho           ["banana, bansha"]]
+------------------------------
+2023-07-31	
+------------------------------
+2023-07-31	
+[1 | choshoku, asagohan       ["asesochi"]]
+[1 | ryori                    ["ryouri"]]
+------------------------------
+2023-07-31	
+------------------------------
+2023-07-31	
+[1 | sato                     ["saito"]]
+[1 | shio                     ["shiop"]]
+------------------------------
+2023-07-31	
+------------------------------
+2023-07-31	
+[1 | ashita, asu, myonichi    ["ashita, asu"]]
+[2 | kyo                      ["kyou", "hi, nichi"]]
+[1 | raishu                   ["kotoshi"]]
+[1 | koyomi, karenda          ["koyomi karenda"]]
+[1 | toshi, nen               ["nen"]]
+[1 | gogatsu                  ["sangatsu"]]
+[1 | shigatsu                 ["higatsu"]]
+[2 | toki, ji                 ["jiku, ji", "yobi"]]
+[1 | asa                      ["asa,"]]
+[1 | shu                      ["toshi, shu"]]
+[2 | hi, nichi                ["hi", "ji, nichi"]]
+[3 | senshu                   ["raishu", "kyoshu", "konshu"]]
+[2 | kino, sakujitsu          ["kino,", "kino, kochinitsu"]]
+[5 | konshu                   ["shikun", "kyoshu", "isshukan", "kyoshu", "konshi"]]
+------------------------------
+2023-07-31	
+[1 | senshuu                  ["kyoshuu"]]
+[1 | yobi                     ["tobi"]]
+[1 | konshuu                  ["kanshuu"]]
+[1 | fun                      ["byo"]]
+[1 | kyonen                   ["kyounen"]]
+[1 | kinou, sakujitsu         ["kinou, shikatsu"]]
+------------------------------
+2023-07-31	
+[1 | ka-yobi                  ["do-yobi"]]
+[1 | getsu-yobi               ["metsu-yobi"]]
+[1 | do-yobi                  ["kin-yobi"]]
+------------------------------
+2023-07-31	
+[2 | kumori                   ["kerumi", "kuromi"]]
+------------------------------
+2023-07-31	
+[1 | naname                   ["namaru"]]
+[3 | shita                    ["ushiro", "ue", "ushiro"]]
+[1 | temae                    ["tsukai"]]
+[1 | ushiro                   ["uchiro"]]
+[1 | minami                   ["minari"]]
+[1 | tooi                     ["toi"]]
+------------------------------
+2023-07-31	
+[1 | do                       ["namari"]]
+[1 | kori                     ["yuwi"]]
+[1 | kinzoku                  ["tetsudo"]]
+[2 | kemuri                   ["mekuri", "namari"]]
+[1 | namari                   ["tsuge"]]
+------------------------------
+2023-08-01	
+[1 | haha                     ["haha, okaa-san"]]
+[2 | okuru                    ["deru", "okoru"]]
+[1 | ryoushin, oya            ["ryoushin"]]
+[1 | kanashii                 ["sabishii"]]
+[1 | chichi                   ["chichi, otou-san"]]
+[1 | hontou                   ["shoujiki"]]
+[1 | seikaku                  ["seikatsu"]]
+[1 | dasu                     ["okoru"]]
+[1 | kinou                    ["ashita, asu"]]
+[1 | ashita, asu              ["ashita, asu, myonichi"]]
+[1 | hannin                   ["handan"]]
+------------------------------
+2023-08-01	
+[2 | kaeru                    ["okiru", "kotaeru"]]
+[1 | tsuma                    ["tsumi"]]
+[1 | hanashi                  ["hanashii"]]
+[1 | modoru                   ["kaeru"]]
+[1 | abunai                   ["abunei"]]
+[1 | omou                     ["shiru"]]
+[2 | kekkyoku                 ["kokkyoku", "owari"]]
+[1 | idaku                    ["motsu"]]
+[1 | kinchou                  ["fuan"]]
+[1 | wakaru                   ["shiru"]]
+[2 | hazukashii               ["uzukashii", "hazukashi"]]
+[1 | oboeru                   ["oboieru"]]
+------------------------------
+2023-08-01	
+[1 | nayamu                   ["anshin"]]
+[1 | samui                    ["tsumai"]]
+[1 | tsumi                    [""]]
+[2 | yasumu                   ["nayamu", "ayasu"]]
+------------------------------
+2023-08-01	
+[1 | oriru                    ["odiru"]]
+[1 | utsukushii               ["kirei"]]
+[1 | meiwaku                  ["mendou"]]
+[1 | nusumu                   [""]]
+[3 | ubau                     ["dorobou", "obou", "ubou"]]
+[4 | okasu                    ["", "tsugeru", "", ""]]
+[2 | sodateru                 ["sodukoru", "soderaru"]]
+[1 | sainou                   ["seinou"]]
+[1 | tsutaeru                 [""]]
+[3 | yasumu                   ["nayamu", "nayamu", "nayami"]]
+[1 | mezurashii               ["mesurashii"]]
+[1 | futsuu                   ["yutsuu"]]
+[1 | kirei                    ["utsukushii"]]
+[1 | tanoshimu                ["tanoshii"]]
+[3 | chokusetsu               ["chokutetsu", "kekkyoku", "chokkusetsu"]]
+[1 | ou                       ["nigeru"]]
+[1 | yorokobu                 ["yorkobu"]]
+[2 | fukou                    ["", "fumau"]]
+[1 | suwaru                   ["sewaru"]]
+[3 | kyoka                    ["m", "", "tsureru"]]
+[1 | otoko                    ["dansei"]]
+[1 | kieru                    ["ikiru"]]
+[3 | shoutai                  ["shoujiki", "seikatsu", "koutai"]]
+[1 | shinken                  ["shoujiki"]]
+[2 | shinjitsu                ["shinji", "shinken"]]
+[1 | naguru                   ["nageru"]]
+[1 | chinmoku                 ["damaru"]]
+[5 | semeru                   ["sureru", "tsugeru", "sodoru", "oseru", "okasu"]]
+[3 | tsugeru                  ["tsukaeru", "tsutaeru", "tsureru"]]
+[4 | nayami                   ["", "", "fukou", ""]]
+[1 | jounetsu                 [""]]
+[1 | kanzen                   ["kanpeki"]]
+[1 | tsumi                    ["tsummi"]]
+[1 | kyoumi                   ["koumei"]]
+[1 | kizutsukeru              ["kizutseru"]]
+[1 | te                       ["t"]]
+[1 | subarashii               ["suburashii"]]
+[3 | nayamu                   ["kichou", "nayami", "nayami"]]
+------------------------------
+2023-08-01	
+[2 | utsukushii               ["hutsukushii", "bijin"]]
+[1 | nareru                   ["naguru"]]
+[4 | okasu                    ["osoru", "okusu", "semeru", "sakuro"]]
+[1 | ubau                     ["nusumu"]]
+[1 | meiwaku                  ["mendou"]]
+[1 | nusumu                   ["ubau"]]
+[2 | yuiitsu                  ["kekkyoku", "tannaru"]]
+[1 | tsutaeru                 ["tsureru"]]
+[1 | yasumu                   ["yasamu"]]
+[1 | yorokobu                 ["odoriotu"]]
+[1 | kangaeru                 ["shiru"]]
+[5 | koukai                   ["kyoumi", "kyoumi", "nayami", "nayami", "kyoukai"]]
+[3 | otoko                    ["dansei", "dansei", "otouko"]]
+[1 | jibun                    ["jishin"]]
+[1 | jishin                   ["jibun"]]
+[1 | kieru                    ["deru"]]
+[1 | otouto                   ["ototo"]]
+[1 | ikiru                    ["sumu"]]
+[1 | gyougi                   ["gyougo"]]
+[1 | ureshii                  ["yorokobu"]]
+[2 | shinken                  ["honki", "shoujiki"]]
+[1 | shinjitsu                ["honki"]]
+[2 | semeru                   ["tsureru", "soreru"]]
+[1 | shinzou                  ["kokoro"]]
+[1 | tsugeru                  ["tsuteru"]]
+[1 | nayami                   ["mendou"]]
+[1 | shouko                   ["shoumei"]]
+[1 | kanzen                   ["kanpepi"]]
+[1 | kyoumi                   ["koumei"]]
+[1 | tetsudau                 ["tatsudau"]]
+[1 | densha                   ["densh"]]
+[1 | nayamu                   ["yasumu"]]
+------------------------------
+2023-08-02	
+[1 | hae                      ["har"]]
+[5 | kuki                     ["kusi", "kuri", "kusi", "kuri", ""]]
+[2 | shita                    ["ue", "ushiro"]]
+[1 | kori                     ["kuri"]]
+[1 | kyonen                   ["kotoshi"]]
+[2 | ryori                    ["ryouri", "ryouri"]]
+[1 | banana, kansho           ["banana, kansha"]]
+[2 | namari                   ["tsureru", "manari"]]
+[1 | kusa                     ["kuki"]]
+[1 | ika                      ["tako"]]
+[5 | kinou, sakujitsu         ["kinou, katsumuri", "kinou, chikuzetsu", "kinou, kuchijitsu", "kinou, kenchikuka", "kinou"]]
+[1 | kangofu                  ["kanjogu"]]
+[1 | mugi                     ["mogi"]]
+[4 | kumori                   ["komuri", "kemuri", "kemuri", "komuri"]]
+[1 | katatsumuri              ["namekuji"]]
+[1 | mei                      ["oi"]]
+[1 | otokonohito              ["otoko"]]
+[1 | otokonoko, shounen       ["otoko"]]
+[6 | kiku                     ["kuki", "kuki", "kuki", "kuri", "kuki", "kuri"]]
+[3 | kuri                     ["kiku", "kiru", "kiku"]]
+[1 | daikon                   ["diakon"]]
+[3 | kenchikuka               ["kuchikuka", "kuchikuki", "chekukuka"]]
+[1 | tai                      ["aji"]]
+[1 | do-yobi                  ["motsu-yobi"]]
+[1 | maguro                   ["magoru"]]
+[1 | moku-yobi                ["metsu-yobi"]]
+[2 | konshuu                  ["koshuu", "kotoshi"]]
+[1 | keisatsukan              ["seikatsukan"]]
+[2 | kotoshi                  ["kyonen", "kyonen"]]
+[1 | getsu-yobi               ["metsu-yobi"]]
+[1 | saba                     ["iwashi"]]
+[2 | kemuri                   ["komuri", "mureki"]]
+[1 | ane, one-san             ["ani, oni-san"]]
+[1 | jutei, itoko             ["jukei, itoko"]]
+[2 | muko                     ["kumo", "moku"]]
+------------------------------
+2023-08-02	
+[1 | gokiburi                 ["gokibiru"]]
+[1 | ha-isha, shikai          ["ha=isha, shikai"]]
+[1 | ika                      ["tako"]]
+[2 | jumai, itoko             ["jukai, itoko", "jukai, itoko"]]
+[1 | tsume                    ["tsumi"]]
+[1 | hada, hifu               ["hada, sofu"]]
+[3 | katatsumuri              ["namekuji", "kamatsuru", "ktatsumuri"]]
+[1 | otokonoko, shounen       ["otoko"]]
+[1 | jukei, itoko             ["jumei, itoko"]]
+[1 | otokonohito              ["otoko"]]
+[1 | mei                      ["oi"]]
+[1 | seijika                  ["seikija"]]
+[1 | oi                       ["mei"]]
+[1 | sobo, obaa-san           ["saba, obaa-san"]]
+[2 | onnanoko, shoujo         ["onanoko, shoujo", "onanoko, shoujo"]]
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+[1 | okoru                    ["ikiru"]]
+[1 | shoujiki                 ["shoujiku"]]
+[1 | hanashi                  ["hanashii"]]
+[1 | kekkyoku                 ["owari"]]
+[1 | koi                      ["ai; mana"]]
+[1 | ooi                      ["tooi"]]
+[1 | fuman                    ["fukou"]]
+[2 | wakareru                 ["warureru", "waruka"]]
+------------------------------
+2023-08-02	
+[1 | kokoro                   ["shinzou"]]
+[1 | kyoufu                   ["fukou"]]
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+[2 | hitsuji                  ["hujitsi", "hutsiji"]]
+------------------------------
+2023-08-02	
+[2 | choshoku, asagohan       ["chokushiko, asagohan", "choshoku"]]
+------------------------------
+2023-08-02	
+[1 | kuri                     ["kuki"]]
+[1 | kuki                     ["kuri"]]
+[1 | tomato, banka            ["tomato, banda"]]
+[1 | kusa                     ["hisa"]]
+------------------------------
+2023-08-02	
+[1 | yoru                     ["sakuya, yuube"]]
+[1 | kotoshi                  ["kyonen"]]
+[1 | kyonen                   ["kotoshi"]]
+[2 | kinou, sakujitsu         ["kinou, chukijutsu", "kinou, tsukijitsu"]]
+[1 | shuu                     ["toshi, shuu"]]
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+[1 | shita                    ["kitai"]]
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+[1 | do                       ["manare"]]
+[1 | kori                     ["kuri"]]
+[1 | kinzoku                  ["inzoku"]]
+[2 | namari                   ["manare", "narami"]]
+------------------------------
+2023-08-02	
+[1 | tsuchi                   ["suchi"]]
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+[2 | konshuu                  ["kyoshuu", "kyoshuu"]]
+------------------------------
+2023-08-02	
+[1 | rittoru                  ["liture"]]
+[1 | senchimetoru, senchi     ["cenchi"]]
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+[1 | kozeni                   ["oyatsu"]]
+[1 | jidohanbaiki             ["judohanbuji"]]
+[2 | kitte                    ["kiato", "kippu"]]
+[1 | kippu                    ["kippe"]]
+[1 | shakai                   ["keizai"]]
+[1 | kojo                     ["kajo"]]
+[1 | gakko                    ["gako"]]
+[1 | keizai                   ["keisai"]]
+[1 | satsu                    ["kane"]]
+[2 | tsurisen, otsuri         ["oyatsu", "tsureri, otsuri"]]
+------------------------------
+2023-08-02	
+[2 | tsukue                   ["katsu", "isu"]]
+[3 | esukareta                ["esukurato", "esukaretoru", "esukareto"]]
+[1 | isu                      ["tsukue"]]
+[1 | erebeta                  ["esukaretoru"]]
+[1 | genkan                   ["genshi"]]
+------------------------------
+2023-08-02	
+[1 | fukuro                   ["sufoko"]]
+[1 | chokoku                  ["sei"]]
+[2 | kugi                     ["tsume", ""]]
+[1 | kaban                    ["fukuro"]]
+[1 | himo                     ["nawa"]]
+[1 | kasa                     ["kasu"]]
+[1 | nawa                     ["himo"]]
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+[1 | nawa                     ["himo"]]
+------------------------------
+2023-08-02	
+[2 | enpitsu-kezuri           ["enpitsu-kizusu", "enpitsu kozisuru"]]
+[5 | hotchikisu               ["kuri", "chikasitsu", "hashami", "hitchukusi", "hochikutsi"]]
+[2 | futo                     ["kaeru", "fudo"]]
+[7 | hasami                   ["kogi", "magai", "yuto", "tasumi", "yogi", "k", "hamagi"]]
+[3 | choku                    ["charuku", "chaku", "chuko"]]
+[2 | borupen                  ["bapen", "barupen"]]
+[7 | jogi                     ["chagai", "mannenhust", "hitchukushi", "shi", "", "hamagi", "fude"]]
+[6 | fude                     ["", "yamagi", "gontobu", "yogi", "joge", "bunbogu"]]
+[3 | mannenhitsu              ["", "mannenhust", "mannenhutsi"]]
+[5 | bunbogu                  ["", "bo", "futo", "gontobou", "bungou"]]
+[2 | keshigomu                ["shiragomu", "kuzegomu"]]
+------------------------------
+2023-08-02	
+[2 | hotchikisu               ["hitchokukisu", "hitchokisu"]]
+[2 | jogi                     ["hasami", "hasami"]]
+------------------------------
+2023-08-02	
+[4 | kutsushita               ["", "hatshukitai", "katsuhita", "katsushitsu"]]
+[2 | botan                    ["boton", "bton"]]
+[2 | wafuku                   ["yofuku", "yofuku"]]
+[2 | beruto                   ["berutu", "beruta"]]
+[1 | megane                   ["megami"]]
+[5 | sode                     ["slebi", "eri", "fude", "", "fude"]]
+[7 | kutsu                    ["ashit", "fuku", "shuku", "kod", "kasu", "kasun", ""]]
+[2 | yofuku                   ["", "gaifuku"]]
+[3 | chakku, jippa, fasuna    ["", "jippa", "chikuu, jippa, fasunu"]]
+[2 | eri                      ["corra", "edi"]]
+[1 | fuku                     [""]]
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+[3 | kuko                     ["hikoku", "koku", "kuki"]]
+[2 | doro                     ["michi", ""]]
+[2 | tori                     ["semi", "doro"]]
+[2 | hikojo                   ["jikoku", "kiku"]]
+[1 | eki                      ["ebi"]]
+[1 | hikoki                   ["hikoku"]]
+[1 | basutei                  ["basusute"]]
+------------------------------
+2023-08-02	
+[1 | hikojo                   ["hiojo"]]
+------------------------------
+2023-08-02	
+[2 | kanji                    ["chugo", "chokogo"]]
+[1 | moji                     ["ji"]]
+[3 | gaikokugo                ["yogo", "gaikakugo", "gaikukugo"]]
+[5 | suji                     ["bangou", "taiji", "taji", "seji", "seji"]]
+[1 | ji                       ["tegami"]]
+[4 | kokugo                   ["", "wakugo", "wakugo", "kakugo"]]
+[4 | doitsugo                 ["", "duitsogo", "duitsogo", "duitsogo"]]
+[1 | arufabetto               ["arubeto"]]
+[1 | chosengo                 [""]]
+[5 | kankokugo                ["chosengo", "kakugo", "chokokugo", "chikokugo", "chukokugo"]]
+[4 | supeingo                 ["ei", "espanigo", "speniego", "supeigo"]]
+[5 | chugokugo                ["kanji", "chokogo", "chukokugo", "gugokugo", "gukokugo"]]
+------------------------------
+2023-08-02	
+[1 | kanji                    ["chukokugo"]]
+[2 | moji, ji                 ["moji", "ji"]]
+[1 | chugokugo                ["chukokugo"]]
+------------------------------
+2023-08-02	
+[1 | shinbun                  ["jishun"]]
+[1 | pasokon                  ["pasukon"]]
+[4 | jisho                    ["diki", "kishi", "jishi", "suchi"]]
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+[1 | chairo                   ["kiiro"]]
+[1 | ao                       ["aoi"]]
+[3 | iro, shikisai            ["iru", "iru, shikisai", "iru, shikasai"]]
+[1 | aka                      ["aka, akai"]]
+[1 | orenji                   ["orangu"]]
+[2 | murasaki, murasakiiro    ["musakara", "musakara, musakariiko"]]
+[1 | midori                   ["midari"]]
+[1 | haiiro, nezumiiro        ["nezushiiro"]]
+[1 | kiiro                    ["koiira"]]
+------------------------------
+2023-08-02	
+[3 | rika                     ["", "riku", "riku"]]
+[4 | chiri                    ["", "shikasu", "", "shisen"]]
+[1 | shisutemu                ["s"]]
+[1 | joho                     ["jouhou"]]
+[3 | hitsuyo                  ["", "hitsujo", "hutoyu"]]
+[1 | supotsu                  [""]]
+[1 | irai                     ["tanomu"]]
+[3 | sansu                    ["matu", "sensi", "senso"]]
+[1 | rekishi                  ["raikugi"]]
+[1 | benkyo                   ["benkyou"]]
+[1 | taiiku                   ["pe"]]
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+[1 | tanoshii                 ["tonoshii"]]
+[3 | tsurai                   ["itai", "tsurei", "kusai"]]
+[2 | kayui                    ["kutsai", "kutai"]]
+[4 | kusai                    ["kitanai", "shitu", "tsuk", "kuyu"]]
+[1 | sabishii, samishii       ["sabishii"]]
+------------------------------
+2023-08-02	
+[1 | kuri                     ["kuki"]]
+[2 | tomato, banka            ["tomato, kansho", "tomato, banda"]]
+[1 | banana, kansho           ["banana, kansha"]]
+------------------------------
+2023-08-02	
+[2 | tsurai                   ["itai", "tsutai"]]
+[1 | kayui                    ["kusai"]]
+[2 | kusai                    ["kayui", "kasui"]]
+------------------------------
+2023-08-02	
+[3 | kokonotsu                ["kuttsu", "kutsu", "kokonutsu"]]
+[1 | rei, zero                [""]]
+[1 | oku                      ["uko"]]
+[1 | yon, shi                 ["roku"]]
+[2 | itsutsu                  ["tsukitsu", "gotsu"]]
+[1 | futatsu                  ["futtsu"]]
+[3 | muttsu                   ["mottsu", "rokutsu", "yottsu"]]
+[3 | yattsu                   ["hatsu", "hattsu", "mottsu"]]
+[1 | mittsu                   ["sattsu"]]
+[1 | hyaku                    ["yaku"]]
+[1 | hitotsu                  ["itsu"]]
+[1 | kyu, ku                  ["ku"]]
+[1 | sen                      ["hyakuman"]]
+[1 | yottsu                   ["rokutsu"]]
+[1 | nanatsu                  ["nana, shichi"]]
+[1 | to                       ["ju"]]
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-02	
+[2 | jido                     ["", "jibo"]]
+[3 | seishiki                 ["", "shoushiki", "sheisiki"]]
+[1 | kekkon                   ["futsuu"]]
+[1 | genzai, ima              ["ima"]]
+2023-08-02	
+[1 | yasashii                 ["kantan"]]
+[2 | utsukushii               ["utsekushii", "utsukashii"]]
+[3 | karui                    ["iroi", "hiroi", "yoroi"]]
+[3 | oishii, umai             ["oishii", "oishi", "amai"]]
+[1 | yasui                    ["yurui"]]
+[1 | muzukashii               [""]]
+[2 | tsumetai, samui          ["sam", "tsumetia, samui"]]
+[2 | yawarakai                ["omai", "kawaraku"]]
+[8 | hikui                    ["yokoi", "yoroi", "hiroi", "yoroi", "kusoi", "yosoi", "hosoi", "hukoi"]]
+[7 | karai                    ["satsu", "tsui", "katai", "", "chiho", "hatui", "kurui"]]
+[6 | futoi                    ["", "chosui", "", "chosi", "chikou", ""]]
+[2 | chiisai                  ["chisai", "chisai"]]
+[3 | hosoi                    ["chisai", "choihi", "choi"]]
+[1 | okii                     ["dekai"]]
+[1 | amai                     ["s"]]
+[1 | ii, yoi                  ["i"]]
+[1 | subarashii               ["suteki"]]
+------------------------------
+2023-08-02	
+[1 | hosoi                    ["shosoi"]]
+[2 | oishii, umai             ["oishii", "omoi"]]
+[1 | mazui                    ["masui"]]
+[1 | warui                    ["mazui"]]
+[3 | hikui                    ["yosoi", "hikoi", "hisui"]]
+[1 | atsui                    ["hatsui"]]
+------------------------------
+2023-08-02	
+[1 | haba                     ["jido"]]
+------------------------------
+2023-08-02	
+[2 | iro, shikisai            ["iro, shokai", "iro, shikisei"]]
+[1 | aka                      ["aka, akai"]]
+------------------------------
+2023-08-02	
+[1 | tanoshii                 ["tanoshi"]]
+------------------------------
+2023-08-02	
+[1 | kuko                     ["kiku"]]
+[1 | ichi                     ["ihi"]]
+[1 | chiri                    ["kenchikuka"]]
+[1 | sato                     ["saito"]]
+[1 | byouki                   ["byoki"]]
+[3 | tsurisen, otsuri         ["kaeru", "sutsiren, otsuri", "tsuseri, otsuri"]]
+[2 | kinou, sakujitsu         ["kinou, tsujikuka", "kinou, kakujitsu"]]
+[3 | koko                     ["sore", "sore", "kore"]]
+[1 | shuu                     ["toshi, shuu"]]
+[3 | hotchikisu               ["hitchokusi", "sobe", "hotchikusi"]]
+[1 | sugoi                    ["subarashii"]]
+[1 | futo                     ["fudo"]]
+[1 | sochire, socchi, achira, acchi 			 ["kochira, kocchi"]]
+[1 | hitsuyo                  ["jounetsu"]]
+[2 | sode                     ["fude", "futo"]]
+[1 | senaka                   ["kuro"]]
+[1 | kutsu                    ["kutsushita"]]
+[1 | i                        ["naka, o-naka"]]
+[1 | kiku                     ["kuki"]]
+[3 | kore                     ["sore", "koko", "sore"]]
+[1 | irai                     ["tanomu"]]
+[3 | sansu                    ["untai", "tunzai", "sunso"]]
+[1 | otouto                   ["otoko"]]
+[1 | hikui                    ["yusui"]]
+[3 | fude                     ["fudo", "bunbogan", "sode"]]
+[1 | ga                       ["ka"]]
+[1 | do-yobi                  ["kin-yobi"]]
+[2 | bunbogu                  ["bungobu", "bungobu"]]
+[1 | yattsu                   ["hachi"]]
+[1 | esukareta                ["esukareto"]]
+[3 | iro, shikisai            ["iro, seishiki", "iro, shikikai", "iro, shikikei"]]
+[1 | himo, nawa               ["nawa, himo"]]
+[1 | fukuro                   ["fukurou"]]
+[3 | are                      ["asoko", "asoko", "sore"]]
+[2 | benkyo                   ["benkyou", "benkyou"]]
+[2 | sore                     ["soko", "are"]]
+[1 | chugokugo                ["chukokugo"]]
+[1 | ryoushin                 ["ryoushi"]]
+------------------------------
+2023-08-02	
+[1 | okoru                    ["okiru"]]
+[2 | kekkyoku                 ["chookusetsu", "owari"]]
+[1 | mendou                   ["maiwaku"]]
+[1 | koi                      ["ai; mana"]]
+[1 | fuman                    ["fuan"]]
+[3 | wakareru                 ["hanareru", "wakaru", "wakaru"]]
+------------------------------
+2023-08-02	
+[1 | makeru                   ["wakeru"]]
+[1 | kitai                    ["shitai"]]
+------------------------------
+2023-08-02	
+[1 | sukoshi                  ["sukochi"]]
+[3 | nayamu                   ["shinpai", "shinpai", "shinpai"]]
+[1 | ikiru                    ["sumu"]]
+[2 | nareru                   ["nayumu", "futsuu"]]
+[1 | yasumu                   ["yasamu"]]
+------------------------------
+2023-08-02	
+[1 | osoroshii                ["tihen"]]
+[1 | nusumu                   ["ubau"]]
+[1 | kanzen                   ["kanpeki"]]
+[1 | yuiitsu                  ["tannaru"]]
+[1 | semeru                   ["sureru"]]
+------------------------------
+2023-08-02	
+[1 | sodateru                 ["saderu"]]
+[1 | oriru                    ["okuri"]]
+[1 | otoko                    ["dansei"]]
+[1 | henji                    ["kotaeru"]]
+------------------------------
+2023-08-02	
+[1 | shitsurei                ["shitsura"]]
+[1 | omou, kangaeru           ["kangaeru"]]
+[1 | hanashi                  ["hanashii"]]
+[3 | okasu                    ["tsugeru", "okiru", "okisu"]]
+[3 | aka, akai                ["aka", "akai, aka", "akai, aka"]]
+[1 | saikin                   ["sainin"]]
+[2 | okuru                    ["dasu", "okoru"]]
+[1 | taido                    ["taigo"]]
+[1 | koukai                   ["kyoka"]]
+[2 | taeru                    ["tearu", "tsutaeru"]]
+[2 | chokusetsu               ["chokkeki", "totsugekki"]]
+[1 | kawaru                   ["kieru"]]
+[1 | oishii                   ["oishii, umai"]]
+[3 | kekkyoku                 ["chokkeki", "owari", "chokkusetsu"]]
+[1 | fukou                    ["goukatsu"]]
+[1 | kane; okane              ["kane, o-kane"]]
+[1 | sumu                     ["ikiru"]]
+[1 | aoi                      ["ao"]]
+[1 | kikai                    ["kekka"]]
+[2 | kyoka                    ["kure", "kasu"]]
+[1 | hakobu                   ["karu"]]
+[1 | renshuu                  ["renshyou"]]
+[1 | seikou                   ["saikou"]]
+[1 | bangou                   ["suji"]]
+[1 | hontou                   ["honki, shinken"]]
+[1 | dorobou                  ["dorobo"]]
+[1 | koi                      ["ai; mana"]]
+[1 | choushi                  ["choshoki"]]
+[1 | joukyou                  ["jyoukyo"]]
+[3 | kaeru, modoru            ["kieru", "okiru", "okusu"]]
+[3 | wakaru                   ["omou, wakaru", "omou, wakaru", "omou, wakaru"]]
+[2 | shinzou                  ["kokoro", "kokoro"]]
+[1 | tsugeru                  ["tsutaeru"]]
+[1 | kizutsukeru              ["kizutseru"]]
+[1 | taisetsu                 ["daiji"]]
+------------------------------
+2023-08-02	
+[1 | suru, yaru               ["aru"]]
+------------------------------
+2023-08-02	
+[1 | aru                      ["sumu"]]
+[1 | iru                      ["aru"]]
+[3 | arawareru                ["okiru", "kiru", "naru"]]
+[1 | kowareru                 [""]]
+[2 | naru                     ["kaeru", "kawaru"]]
+------------------------------
+2023-08-02	
+[1 | okoru                    ["okorou"]]
+[1 | ikiru                    ["umu"]]
+[4 | arawareru                ["naru", "awarareru", "awarareru", "araweru"]]
+------------------------------
+2023-08-02	
+[2 | kuru                     ["iku", "naru"]]
+------------------------------
+2023-08-02	
+------------------------------
+2023-08-03	
+[9 | honshin                  ["honki", "soujitsi", "", "shinjitsi", "choujitsu", "seijitsu", "honkin", "shinkin", "soujitsu"]]
+[15 | odokasu                  ["", "", "fukou", "", "keka", "hatasu", "akuji", "bikuri", "kakusu", "futsou", "fushou", "itameru", "settoku", "chuujitsu", "hatasu"]]
+[9 | morasu                   ["dasu", "", "osuku", "osuku", "hatsui", "oas", "orosuku", "okosu", ""]]
+[2 | machigau                 ["", "chigau"]]
+[2 | meiyo                    ["meiyu", "meiyu"]]
+[8 | kenryoku                 ["seijika", "fujiwara", "", "", "byorenkin", "ryobenko", "", "kekryouku"]]
+[1 | hanasu                   ["wakaru"]]
+[9 | fushou                   ["kizu", "fishou", "", "asuka", "", "", "kizu", "futsou", "kizu"]]
+[5 | akuji                    ["warui", "warui", "warui", "aruji", "aruji"]]
+[13 | ketsui                   ["kekyoku", "kekuki", "", "", "kekyaku", "kakui", "keyku", "kimasu", "k", "kahaku", "kimetsu", "omotsu", ""]]
+[13 | kakuho                   ["anzen", "", "", "hatasu", "", "", "", "binkan", "ayamachi", "binkan", "binkan", "kakuhu", "kahaku"]]
+[5 | sugata                   ["", "", "", "", "karada"]]
+[9 | chuujitsu                ["", "honjitsu", "", "", "byenkou", "", "shoujitsu", "binkan", "binkan"]]
+[1 | teki                     ["teiki"]]
+[1 | unmei                    ["umai"]]
+[18 | settoku                  ["", "", "", "osuku", "", "m", "osuku", "matusu", "usudo", "motosu", "kakusu", "okotsu", "shoujitsu", "", "kokusu", "ketsui", "hakasu", "ittoku"]]
+[8 | itameru                  ["furue", "o", "aruji", "kizui", "", "futou", "kaketsu", ""]]
+[1 | nagereru                 [""]]
+[12 | binkan                   ["]", "", "", "", "", "", "", "bankin", "", "", "fushou", ""]]
+[8 | ayamachi                 ["chigau", "machigau", "", "machigau", "amachi", "machigau", "mukaku", "futsou"]]
+[13 | hatasu                   ["", "", "kakuho", "kaku", "", "kakuo", "matsuo", "hakobu", "futsou", "", "otoku", "settoku", "okosu"]]
+[12 | seijitsu                 ["hont", "shiji", "", "honjitsu", "choujitsi", "honkin", "shinkin", "", "shinjitsu", "shoujitsi", "futsou", "shoujitsu"]]
+------------------------------
+2023-08-03	
+[5 | odokasu                  ["", "hakakui", "mi", "hakaku", "k"]]
+[1 | nagereru                 ["nageru"]]
+[3 | binkan                   ["fushou", "chuujitsu", "fushou"]]
+[2 | sugata                   ["kats", "sagata"]]
+[3 | morasu                   ["odokosu", "", "otoku"]]
+[3 | chuujitsu                ["", "fushou", "seijitsu"]]
+[1 | hanasu                   ["hanawasu"]]
+[1 | itameru                  ["itaku"]]
+[3 | akuji                    ["waruji", "waruji", "aruji"]]
+------------------------------
+2023-08-03	
+[9 | juudai                   ["shitaku", "kariraka", "", "", "shitaku", "seiri", "shitaku", "fuudai", "shitaku"]]
+[6 | shitaku                  ["seiri", "kuwaeru", "", "seiri", "seiri", "fuudai"]]
+[5 | toku                     ["", "", "mokaeru", "kuwaeru", ""]]
+[5 | tagai                    ["shitaku", "kariraka", "akiraka", "akiraka", "fuudai"]]
+[2 | tokubetsu                ["totsubeki", "seiri"]]
+[7 | arawasu                  ["", "mukaeru", "kuwaesu", "", "fuudai", "mukaeru", "seiri"]]
+[1 | kuruu                    ["fuku"]]
+[2 | ochitsuku                ["ochitsukeru", "okaeur"]]
+[3 | akiraka                  ["", "fudai", "shitaku"]]
+[5 | mukaeru                  ["kota", "wukaeru", "", "kumaeru", "fuudai"]]
+[3 | seiri                    ["sirei", "fuukai", "shitaku"]]
+[1 | shinrai                  ["shinjiru"]]
+[4 | abiru                    ["kowaeru", "oshidru", "oshiru", "adiru"]]
+------------------------------
+2023-08-03	
+[3 | tagai                    ["akiraka", "juudai", "juudai"]]
+[3 | juudai                   ["seiri", "seiri", "tagai"]]
+[3 | akiraka                  ["seiri", "fuudai", "juudai"]]
+[1 | tokubetsu                ["tobubetsu"]]
+[1 | seiri                    ["juudai"]]
+[1 | genjitsu                 ["genijtsu"]]
+[2 | arawasu                  ["toku", "mukaeru"]]
+------------------------------
+2023-08-03	
+[1 | tagai                    ["juudai"]]
+[1 | akiraka                  ["juudai"]]
+[2 | juudai                   ["seiri", "seiri"]]
+[2 | shitaku                  ["shituka", "shituka"]]
+[2 | seiri                    ["akiraka", "juudai"]]
+------------------------------
+2023-08-03	
+[3 | odokasu                  ["", "sodoku", "morasu"]]
+[2 | binkan                   ["fushou", "settoku"]]
+[1 | morasu                   ["sawaku"]]
+[1 | chuujitsu                ["shinrai"]]
+[1 | ayamachi                 ["machigau"]]
+[2 | settoku                  ["kakuho", "fushou"]]
+[1 | fushou                   ["kizu"]]
+------------------------------
+2023-08-03	
+[1 | ubau                     ["nusumu"]]
+[1 | fuan                     ["kinchou"]]
+[1 | yuiitsu                  ["tannaru"]]
+[1 | otoko                    ["dansei"]]
+[1 | henji                    ["kotaeru"]]
+[1 | hairu                    ["hair"]]
+------------------------------
+2023-08-03	
+[1 | odokasu                  ["itameru"]]
+[2 | binkan                   ["arikaka", ""]]
+[3 | morasu                   ["sodoru", "settoku", "abiru"]]
+[1 | seijitsu                 ["seijtsu"]]
+[1 | fushou                   ["ketsui"]]
+[1 | settoku                  ["shitaku"]]
+------------------------------
+2023-08-03	
+[2 | tagai                    ["juudai", ""]]
+[2 | juudai                   ["juukai", "settoku"]]
+[1 | mukaeru                  ["kumaeru"]]
+[1 | tokubetsu                ["totsubeki"]]
+[2 | shitaku                  ["youi", "youi"]]
+[1 | shinrai                  ["seijitsu"]]
+[4 | arawasu                  ["sodaru", "oridu", "wasaru", "sodoku"]]
+------------------------------
+2023-08-03	
+[11 | katte                    ["jishin", "kaite", "ketta", "", "taizei", "", "inshou", "chuui", "kitte", "chuui", "ketta"]]
+[1 | nakami                   ["naiyo"]]
+[1 | ookii                    ["okii"]]
+[1 | nikumu                   ["nikui"]]
+[2 | isogashii                ["", "okushii"]]
+[9 | chuui                    ["", "", "", "taishou", "ninki", "katte", "", "", "katte"]]
+[7 | tsukiau                  ["", "m", "", "", "chuui", "", "chikua"]]
+[2 | yuumei                   ["ninki", "yumee"]]
+[1 | yomu                     ["nomu"]]
+[2 | akirameru                ["", "akiramu"]]
+[1 | nakama                   ["naka"]]
+[3 | shizuka                  ["choshomu", "uzukashii", "isogashii"]]
+[1 | hibiku                   ["oto"]]
+[2 | tenkai                   ["shinkai", "shinkei"]]
+[6 | nagusameru               ["nageru", "nagasu", "", "nagasou", "nagaseru", "nagusemeru"]]
+[3 | kekkou                   ["subarashii", "kako", "k"]]
+[7 | taizai                   ["", "", "", "", "", "nokoru", ""]]
+[1 | otonashii                ["chitsugau"]]
+[2 | ayashii                  ["", ""]]
+[6 | inshou                   ["nayami", "ninkue", "ninkyou", "ninhou", "ninkyou", "ninshou"]]
+[6 | chikau                   ["yakusoku", "renshou", "kekka", "", "", ""]]
+[2 | kyoushitsu               ["", "kyoushatsu"]]
+[4 | tsukamaeru               ["kaku", "taihu", "taizo", "tsukameru"]]
+------------------------------
+2023-08-04	
+[2 | tagai                    ["arikara", "chuui"]]
+[1 | juudai                   ["huui"]]
+[3 | akiraka                  ["shitaku", "tagai", "arikara"]]
+[1 | shitaku                  ["youi"]]
+[1 | mitomeru                 ["mitometa"]]
+[2 | arawasu                  ["osawaru", "uwarasu"]]
+------------------------------
+2023-08-04	
+[4 | katte                    ["chuui", "chikau", "chikau", "taizai"]]
+[1 | nakami                   ["naiyo"]]
+[1 | nikumu                   [""]]
+[1 | isogashii                ["isogashi"]]
+[4 | chuui                    ["chuuo", "", "katte", "katte"]]
+[1 | tsukiau                  ["kitsau"]]
+[1 | yuumei                   ["juumei"]]
+[3 | akirameru                ["", "", "tsukameru"]]
+[2 | shizuka                  ["shizuku", "shizukaru"]]
+[1 | nagusameru               ["nagereru"]]
+[2 | taizai                   ["nokoru", "chikau"]]
+[1 | otonashii                ["otanashii"]]
+[5 | chikau                   ["kakuho", "taizai", "taizai", "taizai", "taizai"]]
+[1 | inshou                   ["ninshou"]]
+[1 | tsukamaeru               ["tsukaraemu"]]
+------------------------------
+2023-08-05	
+[1 | tagai                    ["arikara"]]
+[1 | akiraka                  ["kakuho"]]
+[1 | mukaeru                  ["tsukiau"]]
+[1 | shitaku                  ["youi"]]
+[1 | seiri                    ["taizai"]]
+[1 | juudai                   ["akiraka"]]
+[1 | arawasu                  ["arisuwu"]]
+------------------------------
+2023-08-05	
+[1 | nagusameru               ["nakasemeru"]]
+[1 | katte                    ["ketta"]]
+[3 | chikau                   ["ketta", "chuui", "chuui"]]
+------------------------------
+2023-08-05	
+[2 | oboe                     ["kioku", "kiouku"]]
+[1 | himei                    ["sakebu"]]
+[1 | shimeru                  [""]]
+[4 | majime                   ["shoumei", "shimei", "okono", ""]]
+[2 | shiai                    ["shoutai", "shiau"]]
+[3 | kaiketsu                 ["", "", "shikrau"]]
+[3 | hageshii                 ["boryoku", "hugur", "gu"]]
+[3 | soto                     ["", "", "seiro"]]
+[7 | motomeru                 ["nomozu", "shizu", "shotomo", "ha", "kot", "owasurau", "owasuru"]]
+[4 | makaseru                 ["tanomu", "shoumai", "tanomu", "orowau"]]
+[2 | guuzen                   ["gomu", "gumei"]]
+[1 | hayai                    ["hayaii"]]
+[1 | rippa                    ["suburashii"]]
+[1 | muryoku                  ["tasu"]]
+[1 | shoutai                  [""]]
+[7 | okonau                   ["iu", "shoutai", "", "", "majime", "kets", "motomeru"]]
+[5 | ketsudan                 ["kime", "", "shitsumu", "kaikatsu", ""]]
+[1 | jinsei                   ["ningen"]]
+[1 | kega                     ["kyoku"]]
+[1 | damaru                   ["shizukani"]]
+[2 | koui                     ["", "youir"]]
+[3 | gaishutsu                ["tabi", "geishutsu", "gaikutsu"]]
+------------------------------
+2023-08-05	
+[2 | gaishutsu                ["gaishitsu", "kaisetsu"]]
+[3 | ketsudan                 ["", "ketsuban", "oto"]]
+[4 | kaiketsu                 ["keikatsu", "keikatsu", "keikatsu", "keiketsu"]]
+[3 | motomeru                 ["", "morosu", "motorasu"]]
+[1 | okonau                   [""]]
+[1 | majime                   ["shoujiki"]]
+------------------------------
+2023-08-05	
+[2 | souzou                   ["", "zouzou"]]
+[3 | omoide                   ["", "moforoi", "oboite"]]
+[2 | jiken                    ["kyoki", "kekkyou"]]
+[3 | chuushi                  ["", "shomu", "shouzo"]]
+[4 | giron                    ["gokai", "soudan", "fuko", "gekon"]]
+[4 | wasuremono               ["motoreur", "shi", "", "owasuremono"]]
+[1 | jishin                   ["jikyou"]]
+[3 | iru                      ["kokuru", "", "kitsau"]]
+[6 | tsurai                   ["negai", "itamu", "kurami", "karai", "itameru", "itameru"]]
+[2 | karai                    ["itai", "kitsu"]]
+[1 | aisatsu                  ["joshatsu"]]
+[2 | tsukuru                  ["deru", "tsukeru"]]
+[7 | utagau                   ["", "gym", "ka", "", "", "", "utsakau"]]
+[1 | myou                     ["hen"]]
+[2 | shizumu                  ["okuri", ""]]
+------------------------------
+2023-08-05	
+[1 | iru                      ["iu"]]
+[1 | iku                      ["iu"]]
+------------------------------
+2023-08-05	
+[1 | youbi                    ["toki, ji"]]
+[1 | satou                    ["sato"]]
+[1 | taifuu                   ["taifu"]]
+[1 | kusa                     ["kuri"]]
+[1 | hiru                     ["sakuya, yuube"]]
+[3 | kinou, sakujitsu         ["kinou, myounichi", "kinou, kenchi", "kinou, katsujiru"]]
+[1 | jinrui                   ["jinrei"]]
+[1 | jumai, itoko             ["jukai, itoko"]]
+[1 | do-youbi                 ["yo-youbi"]]
+[1 | ki                       ["san"]]
+[1 | taiyou                   ["taiyo"]]
+[1 | otoko                    ["otouko"]]
+[1 | mei                      ["oi"]]
+[1 | moku-youbi               ["muko-youbi"]]
+[1 | otokonohito              ["otoko"]]
+[1 | banana, kanshou          ["banana, banka"]]
+[1 | otouto                   ["ototo"]]
+[2 | kenchikuka               ["kenchiku", "kenchikaku"]]
+[1 | raishuu                  ["kyoshuu"]]
+[1 | choushoku, asagohan      ["choshoki, asagohan"]]
+[1 | gama                     ["namekuji"]]
+[1 | hitsuji                  ["hujitsu"]]
+[1 | shinzou                  ["kokoro"]]
+[1 | nichi-youbi              ["nichi-yobi"]]
+[1 | bengoshi                 ["genbochi"]]
+[1 | konshuu                  ["kyoshuu"]]
+[1 | shokubutsu               ["shobutsu"]]
+[1 | okami                    ["okamu"]]
+------------------------------
+2023-08-05	
+[2 | kuko                     ["hikojo", "kiku"]]
+[1 | jidouhanbaiki            ["jidouhanbeiki"]]
+[1 | pasokon                  ["pasoko"]]
+[3 | enpitsu-kezuri           ["enpitsu-kezutsu", "enpitsu-ketsuri", "enpitsu-ketsuru"]]
+[1 | aka                      ["aka, akai"]]
+[1 | eki                      ["teki"]]
+[1 | yakusho                  ["yokusho"]]
+[1 | botan                    ["baton"]]
+[3 | tsurisen, otsuri         ["kaeru", "yotatsu, otsuri", "yotsuji, otsuri"]]
+[4 | hotchikisu               ["hachikuji", "achikasji", "kotchikitsu", "hothikisu"]]
+[1 | kokugo                   ["yokago"]]
+[1 | beruto                   ["berato"]]
+[1 | nishi                    ["nashi"]]
+[1 | sode                     ["meiru"]]
+[1 | kaigi                    ["genkan"]]
+[2 | fuutou                   ["toudou", "sode"]]
+[1 | arufabetto               ["arufabeto"]]
+[1 | ao                       ["aoi"]]
+[1 | chouku                   ["choku"]]
+[1 | dou                      ["namari"]]
+[3 | fude                     ["bunbougan", "juto", "sode"]]
+[3 | choukoku                 ["chushoku", "choushuki", "choukuki"]]
+[1 | mannenhitsu              ["mannenhaust"]]
+[2 | chakku, jippa, fasuna    ["chadda, jippa, fasuna", "chakka, jippa, fasuna"]]
+[1 | esukareta                ["esukareto"]]
+[2 | jisho                    ["jishou", "jishou"]]
+[3 | iro, shikisai            ["iro, katashi", "iro, kashiku", "iro, kashito"]]
+[2 | nouto                    ["noto", "notou"]]
+[1 | keshigomu                ["kushigomu"]]
+[1 | kugi                     ["kegi"]]
+[1 | kouri                    ["koura"]]
+[1 | bunbougu                 ["bunbougan"]]
+[1 | kuro                     ["kurou"]]
+[1 | keizai                   ["kaizei"]]
+[1 | kankokugo                ["kanteigo"]]
+[1 | fukuro                   ["nimotsu"]]
+[1 | himo, nawa               ["nawa, homi"]]
+[2 | jougi                    ["tagai", "fude"]]
+------------------------------
+2023-08-05	
+[1 | yasashii                 ["kantan"]]
+[1 | oishii, umai             ["oishii"]]
+[1 | jido                     ["jaisha"]]
+[1 | utsukushii               ["kirei"]]
+[3 | seishiki                 ["gyougi", "", "shitsuzen"]]
+[1 | san                      ["mittsu"]]
+[2 | genzai, ima              ["ima", "ima"]]
+[1 | katai                    ["takai"]]
+[2 | muzukashii               ["", ""]]
+[1 | nigai                    ["nagai"]]
+[1 | oku                      ["uko"]]
+[1 | tsumetai, samui          ["tsumetai"]]
+[1 | sochire, socchi, achira, acchi 			 ["sochire, socchi, kochira, kocchi"]]
+[4 | hitsuyo                  ["jounetsu", "kyouki", "", "sishiki"]]
+[1 | joho                     ["jouhou"]]
+[2 | suru, yaru               ["iu", "yuru, iru"]]
+[1 | naiyo                    ["nakami"]]
+[2 | yawarakai                ["yarawasu", "yawaraku"]]
+[1 | ju                       ["juu"]]
+[1 | irai                     ["tanomu"]]
+[1 | kochira, kocchi          ["sochire, sochhi, achira, acchi"]]
+[1 | nana, shichi             ["nana"]]
+[1 | muttsu                   ["yattsu"]]
+[2 | futoi                    ["fukui", "fukai"]]
+[2 | hikui                    ["kotoi", "futoi"]]
+[1 | rekishi                  ["reishiki"]]
+[1 | kusai                    ["yakai"]]
+[1 | chiisai                  ["chisai"]]
+[1 | hosoi                    ["fukui"]]
+[1 | okii                     ["ookii"]]
+[1 | haba                     [""]]
+[1 | kako                     ["giko"]]
+[1 | benkyo                   ["benkyou"]]
+[1 | warui                    ["akuji"]]
+[1 | taiiku                   ["kaiiku"]]
+[2 | sore                     ["are", "are"]]
+------------------------------
+2023-08-05	
+[1 | ikiru                    ["sumu"]]
+[5 | arawareru                ["mukaeru", "ta", "naru", "kawareru", "awarakeru"]]
+[4 | kowareru                 ["kowaru", "kowasuereru", "kawareru", "kowasureru"]]
+[2 | naru                     ["kaeru", "kowau"]]
+------------------------------
+2023-08-05	
+[1 | kaeru                    ["okiru"]]
+[1 | iku                      ["iru"]]
+[1 | kuru                     ["iku"]]
+[1 | tobu                     ["toberu"]]
+[2 | arawareru                ["awarareru", "naru"]]
+[1 | aruku                    ["abiru"]]
+[1 | naru                     ["awarareru"]]
+------------------------------
+2023-08-05	
+------------------------------
+2023-08-05	
+[2 | sawaru                   ["t", "futsua"]]
+[5 | kabu                     ["kuchi", "karu", "kebu", "kebu", "kebu"]]
+[1 | hashiru                  ["nigeru"]]
+[1 | tatsu                    [""]]
+[3 | sasu                     ["", "saru", "suru"]]
+[4 | keru                     ["kaguru", "kiku, kaguru", "", "kabu"]]
+[1 | utau                     ["kashu"]]
+[1 | neru                     ["nemu"]]
+[2 | nageru                   ["nagu", "nagureru"]]
+[1 | motsu                    ["uwatsu"]]
+[2 | utsu, naguru             ["nagu", "naguru"]]
+[1 | taberu                   ["tobu"]]
+------------------------------
+2023-08-05	
+------------------------------
+2023-08-05	
+[12 | midareru                 ["", "", "oyashu", "odorar", "suru", "su", "", "", "tsukure", "umaru", "", "umaru"]]
+[2 | sonawaru                 ["", "son"]]
+[8 | umoreru                  ["", "sur", "kaak", "sugureru", "umaru", "umaru", "umareru", "umomeru"]]
+[1 | futoru                   ["uf"]]
+[3 | komu                     ["", "kimu", "kimu"]]
+[6 | sugureru                 ["", "", "kakushu", "koka", "suruwaru", "suruweru"]]
+[1 | muku                     ["mukou"]]
+[6 | hazureru                 ["", "", "midu", "kuku", "", "someru"]]
+[1 | iru                      ["nozomu"]]
+[7 | midasu                   ["", "kawaru", "", "mikareru", "midari", "umaru", "umaru"]]
+[3 | aku                      ["", "iru", "iru"]]
+[2 | sameru                   ["nakeru", "nameru"]]
+[8 | hieru                    ["samu", "matsu", "", "", "u", "kimeru", "umareru", "umoreru"]]
+[1 | katamaru                 ["katu"]]
+[5 | kawaku                   ["", "", "sanwa", "zonawaru", "su"]]
+[1 | heru                     [""]]
+[1 | tsukaeru                 ["hataraku"]]
+[1 | masu                     ["fueru"]]
+[5 | umaru                    ["nagureru", "amaru", "nagari", "", "mikareru"]]
+[2 | taoreru                  ["kutaru", "karu"]]
+------------------------------
+2023-08-05	
+[1 | sugureru                 ["midaru"]]
+[4 | hazureru                 ["", "hazireru", "midasu", "midareru"]]
+[1 | kimeru                   [""]]
+[2 | midasu                   ["umaru", "umaru"]]
+[3 | umaru                    ["", "midasu", "midareru"]]
+------------------------------
+2023-08-05	
+[2 | kataru                   ["iu", "iu"]]
+[1 | kagu                     ["niyu"]]
+[1 | kaku                     ["yobu"]]
+[1 | hanasu                   ["kataru"]]
+[1 | iu                       ["hanasu"]]
+------------------------------
+2023-08-05	
+[4 | toru                     ["nusumu", "", "", "iku"]]
+[4 | oku                      ["", "naku", "naku", ""]]
+[1 | tsukau                   ["sur"]]
+[1 | naosu                    [""]]
+[1 | suteru                   ["sutogu"]]
+------------------------------
+2023-08-06	
+[5 | akiru                    ["tsukareru", "", "tsukameru", "", "tsukareru"]]
+[2 | nagusameru               ["nagusemeru", "nagusmeru"]]
+[4 | homeru                   ["mitomeru", "homuru", "mitomeru", "nagusameru"]]
+[1 | yorokobi                 ["yorokobu"]]
+[3 | odoroku                  ["", "yorokobu", "akiru"]]
+[6 | shikaru                  ["i", "", "shikazeru", "oko", "kawasi", ""]]
+[1 | kanashimu                ["kanashimi"]]
+------------------------------
+2023-08-06	
+[1 | houhou                   ["taido"]]
+[2 | choushi                  ["chousho", "shoushi"]]
+[1 | ima                      ["genzai, ima"]]
+[1 | taido                    ["taigi"]]
+------------------------------
+2023-08-07	
+[4 | ze                       ["me", "be", "zo", "zo"]]
+[1 | pe                       ["gu"]]
+[3 | nu                       ["a", "me", "me"]]
+[1 | ka                       ["chi"]]
+[2 | so                       ["se", "wa"]]
+[1 | zo                       ["ze"]]
+[1 | gi                       ["za"]]
+[2 | ma                       ["ki", "mo"]]
+[3 | zu (du)                  ["zu", "zu", "zu"]]
+[1 | ge                       ["ba"]]
+[1 | ba                       ["ga"]]
+[1 | da                       ["ga"]]
+[3 | ji (zi)                  ["ji (di)", "zi (ji)", "ji (di)"]]
+[2 | chi                      ["", "cha"]]
+[5 | re                       ["wa", "nu", "nu", "nu", "wa"]]
+[4 | wa                       ["me", "nu", "nu", "nu"]]
+[1 | ki                       [""]]
+[2 | ra                       ["chi", "u"]]
+[1 | bo                       ["pa"]]
+[1 | go                       ["ge"]]
+[1 | pa                       ["ba"]]
+[5 | mi                       ["se", "he", "he", "he", "me"]]
+[1 | ya                       ["bo"]]
+[1 | o                        [""]]
+[1 | se                       ["me"]]
+[2 | po                       ["pa", ""]]
+[4 | ta                       ["ke", "ka", "na", "na"]]
+[4 | ke                       ["ka", "se", "sa", "ka"]]
+[1 | be                       ["gu"]]
+[1 | shi                      ["hi"]]
+[2 | pu                       ["bu", "bu"]]
+[5 | ne                       ["me", "wo", "wo", "wo", "nu"]]
+[2 | su                       ["tsu", "tsu"]]
+[2 | sa                       ["", "so"]]
+[2 | ro                       ["ru", "ra"]]
+[2 | u                        ["ka", "ra"]]
+[3 | ji (di)                  ["ji", "ra", "ji (zi)"]]
+[1 | ho                       ["ha"]]
+------------------------------
+2023-08-07	
+[2 | so                       ["se", "se"]]
+[1 | ni                       ["na"]]
+[1 | se                       ["mi"]]
+[1 | ke                       ["ka"]]
+[1 | bo                       ["ba"]]
+[3 | zu (du)                  ["zu (ju)", "zu", "zu"]]
+[1 | ji (di)                  ["ji (zi)"]]
+[1 | n                        ["e"]]
+------------------------------
+2023-08-07	
+[1 | nu                       ["me"]]
+[1 | zu                       ["zu (du)"]]
+[1 | mi                       ["me"]]
+[1 | ji (zi)                  ["ji (di)"]]
+[1 | zo                       ["ze"]]
+[1 | se                       ["me"]]
+[2 | ji (di)                  ["zi (di)", "ji (zi)"]]
+[1 | po                       ["pa"]]
+[1 | zu (du)                  ["zu"]]
+------------------------------
+2023-08-07	
+[2 | ji (zi)                  ["ji (di)", "bi"]]
+[1 | gu                       ["be"]]
+[1 | ji (di)                  ["ji (zi)"]]
+------------------------------
+2023-08-07	
+------------------------------
+2023-08-07	
+[1 | ja                       ["jya"]]
+[1 | ju                       ["chu"]]
+[1 | ryo                      ["rya"]]
+[1 | chu                      ["chyu"]]
+------------------------------
+2023-08-07	
+[3 | nu                       ["a", "me", "me"]]
+[3 | na                       ["me", "mi", "me"]]
+[5 | zu (du)                  ["su", "zo", "ji (zi)", "zu", "ji (zi)"]]
+[3 | ge                       ["de", "go", "gu"]]
+[1 | ba                       ["ga"]]
+[5 | re                       ["ke", "mu", "o (wo)", "ne", ""]]
+[3 | wa                       ["fu", "ra", "u"]]
+[2 | yo                       ["e", "nu"]]
+[3 | ya                       ["me", "o (wo)", "se"]]
+[3 | se                       ["ya", "o (wo)", "ye"]]
+[3 | ke                       ["fu", "ra", "ra"]]
+[2 | ji (di)                  ["bo", "bo"]]
+[5 | o (wo)                   ["e", "ya", "ne", "nu", "hi"]]
+[1 | mo                       ["ma"]]
+[3 | o                        ["", "ko", "o (wo)"]]
+[1 | pi                       ["do"]]
+[2 | do                       ["bi", "bi"]]
+[1 | zu                       ["zu (ju)"]]
+[1 | n                        ["se"]]
+[1 | e                        ["i"]]
+[1 | da                       ["a"]]
+[1 | bo                       ["ge"]]
+[3 | fu                       ["u", "ku", "ku"]]
+[2 | ta                       ["ne", "nu"]]
+[2 | bu                       ["zu (ju)", "zu"]]
+[1 | su                       ["ke"]]
+[2 | ze                       ["ga", "ga"]]
+[3 | ru                       ["i", "ni", "re"]]
+[2 | so                       ["s", "n"]]
+[1 | zo                       ["ji (di)"]]
+[1 | a                        ["ya"]]
+[3 | ji (zi)                  ["zu (du)", "zi (ji)", "zu"]]
+[3 | gu                       ["bu", "bu", "ge"]]
+[2 | tsu                      ["su", "shi"]]
+[2 | ra                       ["u", "u"]]
+[2 | me                       ["mi", "na"]]
+[1 | po                       ["pu"]]
+[1 | yu                       ["ma"]]
+[1 | de                       ["ra"]]
+[2 | ku                       ["su", "re"]]
+[2 | pu                       ["", ""]]
+[4 | ne                       ["fu", "su", "a", "to"]]
+[1 | sa                       ["se"]]
+[1 | ro                       ["ku"]]
+------------------------------
+2023-08-07	
+[1 | nu                       ["me"]]
+[1 | ru                       ["re"]]
+[1 | tsu                      ["shi"]]
+[1 | me                       ["nu"]]
+[3 | zu (du)                  ["ji (zi)", "zu (ju)", "zu (ju)"]]
+[1 | go                       ["gu"]]
+[1 | i                        ["e"]]
+------------------------------
+2023-08-07	
+[1 | hyo                      ["ho"]]
+------------------------------
+2023-08-09	
+[1 | friend                   ["left"]]
+[1 | water                    ["fire"]]
+[1 | study, learning          ["write, learning"]]
+[1 | every                    ["mother"]]
+[2 | inside, middle           ["middle, center", ""]]
+[1 | outside                  ["death"]]
+[1 | river, stream            ["stream, river"]]
+[2 | child                    ["old", "write"]]
+[3 | ear                      ["write", "", ""]]
+[1 | week                     ["wind"]]
+[2 | big                      ["people, person", "after"]]
+[1 | rest                     ["morning"]]
+[1 | seven                    ["nine"]]
+[1 | life, birth              ["life"]]
+[1 | name                     ["right"]]
+[4 | six                      ["above, up", "under, below, lower", "before, after,", ""]]
+[1 | mother                   ["man"]]
+[2 | above, up                ["", "up, above"]]
+[1 | five                     ["six"]]
+[1 | right                    ["left"]]
+[4 | down, under, lower       ["below, under, down", "below, down", "under, below, lower", "under, down, lower"]]
+[4 | before, ahead, previous  ["day", "before,", "before, after,", "before, after, previous"]]
+[1 | write                    ["write, learning"]]
+[2 | nine                     ["five", "five"]]
+[2 | enter, insert            ["people, person", "inside, enter"]]
+[1 | tree, wood               [""]]
+[3 | noon                     ["thousand", "behind, after, before", "before, after, previous"]]
+------------------------------
+2023-08-09	
+------------------------------
+2023-08-10	
+[2 | ze                       ["za", "zo"]]
+[2 | mi                       ["se", "me"]]
+[2 | zo                       ["ze", "wo"]]
+[1 | o                        ["a"]]
+[2 | ne                       ["nu", "nu"]]
+[2 | wa                       ["re", "re"]]
+[1 | gu                       ["be"]]
+[1 | bi                       ["ji (zi)"]]
+[2 | zu (du)                  ["ju (du)", "ju (zu)"]]
+[1 | n                        ["e"]]
+------------------------------
+2023-08-10	
+[3 | ze                       ["", "ba", ""]]
+[5 | na                       ["mi", "me", "nu", "nu", "mi"]]
+[3 | o (wo)                   ["ru", "ne", "ru"]]
+[4 | nu                       ["me", "mi", "mi", "mi"]]
+[1 | mo                       ["chi"]]
+[2 | ma                       ["yu", "yu"]]
+[4 | zu (du)                  ["zu", "zu", "ju (du)", "zu (ju)"]]
+[3 | ji (zi)                  ["ju (du)", "ji (di)", "ju (du)"]]
+[2 | re                       ["te", "ne"]]
+[1 | wa                       ["fu"]]
+[3 | gu                       ["ge", "ge", "ge"]]
+[1 | tsu                      ["ji (zi)"]]
+[2 | ra                       ["u", "u"]]
+[1 | ri                       ["i"]]
+[1 | fu                       ["wa"]]
+[3 | me                       ["nu", "mi", "mi"]]
+[4 | ke                       ["ku", "ku", "ku", "ku"]]
+[1 | yu                       ["ma"]]
+[1 | pi                       ["po"]]
+[3 | bu                       ["ge", "ge", ""]]
+[2 | ku                       ["ke", "ke"]]
+[2 | pu                       ["po", "po"]]
+[3 | ne                       ["a", "o", "o"]]
+[1 | za                       [""]]
+[1 | sa                       ["me"]]
+[1 | ji (di)                  ["ji (zi)"]]
+[1 | to                       ["yo"]]
+[1 | n                        ["so"]]
+------------------------------
+2023-08-10	
+[1 | na                       ["nu"]]
+[1 | ji (zi)                  ["ji (di)"]]
+[1 | ji (di)                  ["ji (zi)"]]
+[2 | n                        ["so", "so"]]
+------------------------------
+2023-08-10	
+[1 | zo                       ["ze"]]
+[1 | mo                       ["mo\\"]]
+[1 | zu (du)                  ["zu"]]
+[1 | da                       ["ge"]]
+[1 | ji (zi)                  ["ji (di)"]]
+[1 | re                       ["wa"]]
+[3 | mi                       ["me", "se", "se"]]
+[1 | o                        ["a"]]
+[1 | pi                       ["ji (zi)"]]
+[1 | ne                       ["nu"]]
+[2 | ji (di)                  ["ji (zi)", "ji (zi)"]]
+[2 | u                        ["ra", "ra"]]
+------------------------------
+2023-08-10	
+[1 | pa                       ["ba"]]
+[1 | pe                       ["poe"]]
+[1 | ya                       ["yua"]]
+[1 | gu                       ["be"]]
+[1 | se                       ["mi"]]
+[1 | u                        ["ra"]]
+------------------------------
+2023-08-10	
+[1 | nu                       ["me"]]
+[3 | na                       ["mi", "mi", "me"]]
+[1 | mo                       ["chi"]]
+[1 | ge                       ["de"]]
+[2 | ji (zi)                  ["zi (di)", "zi (ji)"]]
+[1 | re                       ["ne"]]
+[2 | gu                       ["ge", "ge"]]
+[1 | ra                       ["u"]]
+[1 | pa                       ["ba"]]
+[1 | se                       ["re"]]
+[1 | me                       ["mi"]]
+[1 | ne                       ["a"]]
+------------------------------
+2023-08-10	
+[1 | まえ                      ["うしろ"]]
+[3 | セン                      ["ヤス", "マエ", "サキ"]]
+[3 | ゴ                        ["ヤス", "", "セン"]]
+[1 | ちち                      [""]]
+[2 | マイ                      ["マエ", "まえ"]]
+[1 | サン                      ["ミ"]]
+[1 | キュウ                    ["か"]]
+[1 | ガク                      ["カ（ク）"]]
+[1 | やす（む）                 ["うえ"]]
+[2 | おんな                    ["おんあ", "おんあ"]]
+[1 | さき                      [""]]
+[1 | はは                      ["まえ"]]
+[1 | はい（る）                 ["はいr（う）"]]
+------------------------------
+2023-08-10	
+[4 | river, stream            ["river", "stream, river", "stream, river", "stream, river"]]
+[2 | study, learning          ["study, practice", "write, learning"]]
+[1 | month, moon              ["month"]]
+[1 | thousand                 [""]]
+[1 | every                    ["man"]]
+[1 | week                     ["weekl"]]
+[2 | little, small            ["small", "small, little"]]
+[3 | in front, before         ["before", "before, up ahead, previous", "before, in front"]]
+[3 | before, ahead, previous  ["", "in front, before", "before, up ahead, previous"]]
+[2 | enter, insert            ["insert, enter", "insert, enter"]]
+[1 | tree, wood               ["big"]]
+[2 | people, person           ["person, people", "person, people"]]
+------------------------------
+2023-08-10	
+[2 | satou                    ["sato", "sato"]]
+[1 | 75                       [""]]
+[1 | shoyu                    ["shoya"]]
+------------------------------
+2023-08-11	
+[5 | come                     ["gold", "", "new", "inside, middle", "new"]]
+[1 | white                    ["see"]]
+[2 | electricity              ["", "see"]]
+[1 | few, little              ["protect"]]
+[2 | yen, circle, round       ["round, circle, yen", "yen, round, circle"]]
+[2 | part, minute             ["", ""]]
+[1 | rain                     ["wind"]]
+[1 | money, gold              ["gold"]]
+[3 | go                       ["", "new", "come"]]
+[4 | interval, space          ["question", "interval", "interval, part", "inteval, space"]]
+[4 | say                      ["write", "write", "", "write"]]
+[4 | behind, back             ["", "behind", "", "new"]]
+[5 | company                  ["death", "infron", "behind, back", "", "south"]]
+[4 | spirit, mind, air        ["wind", "free, mind spirit", "mind, spirit, air", "mind, air, spirit"]]
+[4 | speak, talk              ["", "read", "say, come", "write"]]
+[5 | new                      ["", "", "behind, back", "beind, back", "behind, back"]]
+[2 | half, middle             ["light", "middle"]]
+[3 | car                      ["", "", "new"]]
+[2 | exam, school             ["", "exam"]]
+[4 | south                    ["", "", "", ""]]
+[1 | station                  ["open"]]
+[1 | see                      ["hear"]]
+[4 | hear, ask, listen        ["interval, part", "s", "speak, hear, say", "speak, hear, ask"]]
+------------------------------
+2023-08-11	
+------------------------------
+2023-08-11	
+[2 | ji (zi)                  ["ji (di)", "ji (di)"]]
+[1 | mi                       ["me"]]
+[1 | gu                       ["be"]]
+[1 | o                        ["a"]]
+[1 | se                       ["me"]]
+[1 | ge                       ["ga"]]
+------------------------------
+2023-08-11	
+[2 | nu                       ["me", "na"]]
+[1 | ru                       ["ha"]]
+[2 | na                       ["me", "mi"]]
+[1 | mo                       ["ma"]]
+[2 | ji (zi)                  ["ji (di)", "ji (di)"]]
+[1 | re                       ["ne"]]
+[1 | wa                       ["fu"]]
+[1 | ra                       ["u"]]
+[1 | se                       ["ya"]]
+[1 | me                       ["na"]]
+[1 | ku                       ["ke"]]
+[1 | ne                       ["a"]]
+[2 | ji (di)                  ["ji (zi)", "ji (zi)"]]
+------------------------------
+2023-08-11	
+[1 | na                       ["me"]]
+[1 | ha                       [""]]
+[1 | mo                       [""]]
+[1 | ma                       ["yu"]]
+------------------------------
+2023-08-11	
+[7 | relax, cheap, low        ["wrong", "cheap,", "sky", "", "meet, society", "meet, society", ""]]
+[1 | heaven                   ["weather"]]
+[5 | meet, society            ["tea", "west", "cheap,", "", "hundred"]]
+[5 | sky, air, empty          ["north", "", "", "east", "east"]]
+[1 | north                    ["death"]]
+[6 | hundred                  ["nose", "buy", "buy", "", "", "meet, society"]]
+[4 | west                     ["", "east", "east", "east"]]
+[3 | stand up                 ["gold", "", ""]]
+[4 | eat, food                ["tea", "north", "food, eat", "cheap, low, little"]]
+[2 | store, shop              ["", "flower"]]
+[3 | drink                    ["", "new", "west"]]
+[3 | east                     ["hear", "west", "west"]]
+[3 | soil, earth, ground      ["life", "ground, earth, soil", "ground, soil, earth"]]
+[1 | buy                      ["hear"]]
+[2 | many, frequent, much     ["many", "many, frequent, lot"]]
+[2 | language, word, tell     ["study", "te"]]
+[2 | flower                   ["death", "east"]]
+[6 | long, leader             ["", "write", "society", "store", "meet, society", "sky, air, empty"]]
+[3 | tall, high, expensive    ["tall, high expensive", "high, tall, expensive", "high, tall, expensive"]]
+[2 | hand                     ["ten thousand", ""]]
+[1 | eye                      ["ear"]]
+[1 | leg, foot                ["foot"]]
+[5 | road-way, street         ["wind", "west", "air", "street-way, road", "m"]]
+[6 | exit, leave              ["blood", "west", "", "", "air, sky, empty", "hundred"]]
+[8 | time, hour               ["listen", "", "language, word, tell", "drink", "meet, society", "hundred", "", ""]]
+------------------------------
+2023-08-11	
+[1 | sky, air, empty          ["store, shop"]]
+------------------------------
+2023-08-11	
+[3 | hear, ask, listen        ["ask, listen, question", "question, ask, listen", "listen, hear, ask"]]
+[1 | river, stream            ["stream, river"]]
+[2 | month, moon              ["motnh, moon", "ear"]]
+[1 | white                    ["see"]]
+[1 | ear                      ["hear"]]
+[1 | rest                     ["in front, before"]]
+[1 | go                       ["big"]]
+[1 | east                     ["inside, middle"]]
+[2 | behind, back             ["speak, tell", ""]]
+[2 | spirit, mind, air        ["mind, spirit, air", "mind, spirit, air"]]
+[3 | speak, talk              ["speak, tell", "ask, listen, hear", "ask, listen, hear"]]
+[2 | before, ahead, previous  ["before, behind, previous", "behind, before, ahead"]]
+[2 | enter, insert            ["people, person", "insert, enter"]]
+[1 | tree, wood               ["tree, woord"]]
+[2 | time, hour               ["long, leader", "before"]]
+[1 | read                     ["speak, talk"]]
+------------------------------
+2023-08-12	
+[1 | friend                   ["in front, before"]]
+[1 | thousand                 ["noon"]]
+[1 | before, ahead, previous  ["in front, before"]]
+[1 | year                     ["noon"]]
+[1 | eight                    ["insert, enter"]]
+[1 | little, small            ["few, little"]]
+------------------------------
+2023-08-12	
+[2 | relax, cheap, low        ["sky, empty, air", "behind, back"]]
+[1 | study, learning          ["child"]]
+[1 | come                     ["inside, middle"]]
+[1 | thousand                 ["noon"]]
+[1 | heaven                   ["thousand"]]
+[1 | meet, society            ["now"]]
+[3 | sky, air, empty          ["", "", "behind, back"]]
+[1 | rest                     ["before, in front"]]
+[1 | hundred                  ["neck"]]
+[2 | west                     ["", "four"]]
+[3 | stand up                 ["six", "", "behind, back"]]
+[1 | day, sun                 ["ear"]]
+[1 | mother                   ["woman"]]
+[1 | ten thousand             ["five"]]
+[2 | little, small            ["few, little", "few, little"]]
+[2 | say                      ["read", "write"]]
+[1 | east                     ["inside, middle"]]
+[4 | behind, back             ["language, word, tell", "read", "new", ""]]
+[1 | in front, before         ["before, back, previous"]]
+[2 | language, word, tell     ["read", "speak, talk"]]
+[1 | eye                      ["ear"]]
+[1 | before, ahead, previous  ["before"]]
+[1 | road-way, street         ["leg, foot"]]
+[1 | south                    ["store, shop"]]
+[1 | enter, insert            ["people, person"]]
+[1 | tree, wood               ["inside, middle"]]
+[1 | time, hour               ["new"]]
+[1 | read                     ["speak, talk"]]
+------------------------------
+2023-08-12	
+[1 | week                     ["road-way, street"]]
+[2 | west                     ["behind, back", "behind, back"]]
+[1 | life, birth              ["soil, ground, earth"]]
+[2 | stand up                 ["behind, back", "behind, back"]]
+[1 | ten thousand             ["thousand"]]
+[2 | behind, back             ["east", "speak, tell"]]
+[2 | speak, talk              ["write", "read"]]
+[1 | half, middle             ["come"]]
+[1 | before, ahead, previous  [""]]
+[2 | time, hour               ["", ""]]
+[1 | noon                     ["life, birth"]]
+[3 | read                     ["language, word, tell", "language, word, tell", ""]]
+------------------------------
+2023-08-13	
+[3 | to rise, to ascend, agaru["to lift up, agaru", "to lift up, agaru", ""]]
+[1 | four days, yotsuka       ["four days, yokka"]]
+[3 | daytime, during the day, hinaka 			 ["afternoon, hinaka", "middle of the day, hinaka", "the other day, hinaka"]]
+[1 | real name, honmyou       ["every"]]
+[2 | not so much, not very, taishite 			 ["to hold, taishite", "upset, ookishite"]]
+[2 | the other day, senjitsu  ["yesterday, senjitsu", ""]]
+[1 | entrance, iriguchi       ["exit, iriguchi"]]
+[1 | obedient, docile, quiet, otonashii 			 ["adult, otonaishii"]]
+[4 | middle school, chuugaku  ["highschool student, chougaku", "middle school, chougaku", "elementary high school student, chuugaku", "elementary school student, juugakusei"]]
+[1 | every year, maitoshi     ["every year, maitoshi"]]
+[1 | the person himself, honkon 			 ["really, honnnin"]]
+[2 | to lower, sageru         ["to search, sageru", "to rise, to ascend, sageru"]]
+[7 | to give, to confer, kudasaru 			 ["below, kudasaru", "to lower, to descend, kudasaru", "", "to lower", "to lower, kudasaru", "", "to lower, kudasaru"]]
+[5 | younger, junior, toshishita 			 ["last year, toshishita", "last year, toshishita", "every year, maitoshi", "last year toshishita", ""]]
+[3 | elementary school student, juugakusei 			 ["junior school, shougakkusei", "junior, young, shougakusei", "elementary school student, shougakusei"]]
+------------------------------
+2023-08-13	
+[1 | younger, junior, toshishita 			 ["last year, toshishita"]]
+[1 | good night, oyasuminasai ["good night, oyasumi"]]
+[1 | not so much, not very, taishite 			 ["to help, taishite"]]
+[1 | the other day, senjitsu  ["somehwere on the day, senjitsu"]]
+[1 | every year, maitoshi     ["every year, maitoshi"]]
+[1 | rest, vacation, yasumi   ["to take the day off, yasumi"]]
+[1 | junior high school student, chuugakusei 			 ["middle school student, chuugakusei"]]
+[2 | four days, yotsuka       ["four days, totsuka", "four days, totsuka"]]
+------------------------------
+2023-08-13	
+[1 | rya                                                    ["c"]]
+[1 | mya                                                    ["f"]]
+[1 | pyu                                                    ["pu"]]
+[1 | hyu                                                    ["d"]]
+------------------------------
+2023-08-13	
+[1 | shu                                                    ["rre"]]
+[1 | pyo                                                    ["vrt"]]
+[1 | sho                                                    ["od"]]
+[1 | byo                                                    ["pyo"]]
+------------------------------
+2023-08-13	
+[1 | pya                                                    ["pa"]]
+[1 | mya                                                    ["f"]]
+[1 | gyo                                                    ["gya"]]
+------------------------------
+2023-08-13	
+[1 | ja                                                     ["=="]]
+[1 | kyu                                                    ["="]]
+[1 | nyo                                                    ["=="]]
+[1 | gya                                                    ["="]]
+[1 | ryo                                                    [""]]
+[1 | ryu                                                    ["="]]
+------------------------------
+2023-08-13	
+2023-08-13	
+[1 | mya                                                    ["f"]]
+[1 | ju                                                     ["shu"]]
+[1 | hyu                                                    ["shu"]]
+[1 | kyo                                                    [""]]
+------------------------------
+2023-08-13	
+[1 | self-awareness                                         ["hell"]]
+[1 | continent                                              ["effort"]]
+------------------------------
+2023-08-13	
+[1 | self-awareness                                         ["storehoue"]]
+[1 | truth                                                  ["personality"]]
+------------------------------
+2023-08-13	
+[1 | self-awareness                                         ["continent"]]
+[1 | rationality                                            ["storehouse; warehouse"]]
+------------------------------
+2023-08-13	
+[1 | finding shelter; evacuate                              ["rationality"]]
+------------------------------
+2023-08-13	
+2023-08-13	
+------------------------------
+2023-08-14	
+[1 | younger, junior, toshishita                            ["last year, toshishita"]]
+[1 | to give, to confer, kudasaru                           ["to lower, kudasaru"]]
+[2 | elementary school student, juugakusei                  ["elementary school student, shougakusei", "junior school student,shougakusei"]]
+[1 | real name, honmyou                                     ["real name, honsyou"]]
+[1 | the other day, senjitsu                                ["daytime, during the day, senjitsu"]]
+[1 | four days, yotsuka                                     ["four days, totsuka"]]
+------------------------------

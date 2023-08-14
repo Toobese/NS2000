@@ -1,0 +1,2079 @@
+ik
+je/jij
+hij
+zij
+het
+we/wij
+jullie
+zij (meervoud)
+wat
+wie
+waar
+waarom
+hoe
+welke
+wanneer
+dan
+als
+echt
+maar
+omdat
+niet
+deze
+ik heb dit nodig
+hoeveel kost dit?
+dat
+
+alle
+of
+en
+weten
+ik weet het
+ik weet het niet
+denken
+komen
+zetten
+nemen
+vinden
+luisteren
+werken
+praten
+geven
+leuk vinden 
+helpen
+houden van
+bellen
+wachten
+ik vind je leuk
+ik vind dit niet leuk
+hou je van mij?
+ik hou van jou
+0
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+nieuw
+oud
+weinig
+veel
+hoeveel? (volume)
+
+hoeveel? (nummer)
+fout
+correct
+slecht (algemeen)
+goed
+gelukkig
+kort (algemeen)
+lang (algemeen)
+klein (algemeen)
+groot
+daar
+hier
+rechts
+links
+mooi
+jong
+oud (persoon)
+hallo
+tot later
+oké
+wees voorzichtig
+maak je geen zorgen
+natuurlijk
+goedendag
+hoi
+
+doei
+tot ziens
+excuseer mij
+sorry
+dankjewel
+alsjeblieft
+ik wil dit
+nu
+namiddag
+ochtend (9:00-11:00)
+nacht
+ochtend (6:00-9:00)
+avond
+middag
+middernacht
+uur
+minuut
+seconde
+dag
+week
+maand
+jaar
+tijd
+datum
+eergisteren
+
+gisteren
+vandaag
+morgen
+overmorgen
+maandag
+dinsdag
+woensdag
+donderdag
+vrijdag
+zaterdag
+zondag
+morgen is het zaterdag
+leven (algemeen)
+vrouw (algemeen)
+man (algemeen)
+liefde
+vriendje
+vriendin
+vriend
+kus
+seks
+kind
+baby
+meisje
+jongen
+
+ma
+pa
+moeder
+vader
+ouders
+zoon
+dochter
+zusje
+broertje
+grote zus
+grote broer
+staan
+zitten
+liggen
+sluiten
+openen (deur)
+verliezen
+winnen
+sterven
+leven (werkwoord)
+inschakelen
+uitschakelen
+vermoorden
+verwonden
+aanraken
+
+kijken
+drinken
+eten
+lopen
+ontmoeten
+wedden
+kussen (werkwoord)
+volgen
+trouwen
+antwoorden
+vragen
+vraag
+bedrijf (firma)
+bedrijf (algemeen)
+baan
+geld
+telefoon
+kantoor
+dokter
+ziekenhuis
+verpleegster
+politieagent
+president
+wit
+zwart
+
+rood
+blauw
+groen
+geel
+langzaam
+snel
+grappig
+oneerlijk
+eerlijk
+moeilijk
+gemakkelijk
+dit is moeilijk
+rijk
+arm (adjectief)
+sterk
+zwak
+veilig
+moe
+trots
+vol (voedsel)
+ziek
+gezond
+boos
+laag
+hoog
+
+recht
+elk
+altijd
+eigenlijk
+weer (bijwoord)
+al
+minder
+meest
+meer (voornaamwoord)
+ik wil meer
+geen
+heel
+dier
+varken
+koe
+paard
+hond
+schaap
+aap
+kat
+beer
+kip
+eend
+vlinder
+bij
+
+vis (dier)
+spin
+slang
+buiten
+binnen
+ver
+dichtbij
+beneden
+boven
+naast
+voor
+achter
+zoet
+zuur
+raar
+zacht
+hard
+schattig
+dom
+gek
+druk
+lang
+klein
+bezorgd
+verrast
+
+cool
+beleefd
+boosaardig
+slim
+koud
+heet
+hoofd
+neus
+haar
+mond
+oor
+oog
+hand
+voet
+hart
+hersenen
+trekken (deur)
+duwen (deur)
+drukken
+slaan
+vangen
+vechten
+gooien
+rennen
+lezen
+
+schrijven
+repareren
+tellen
+knippen
+verkopen
+kopen
+betalen
+studeren
+dromen
+slapen
+spelen
+vieren
+uitrusten
+genieten
+schoonmaken
+school
+huis
+deur
+man (getrouwd)
+vrouw (getrouwd)
+bruiloft
+persoon
+auto
+thuis
+stad
+
+nummer
+21
+22
+26
+30
+31
+33
+37
+40
+41
+44
+48
+50
+51
+55
+59
+60
+61
+62
+66
+70
+71
+73
+77
+80
+
+81
+84
+88
+90
+91
+95
+99
+100
+1_000
+10_000
+100_000
+1_000_000
+mijn hond
+jouw kat
+haar jurk
+zijn auto
+zijn bal
+ons huis
+jouw team
+hun bedrijf
+iedereen
+samen
+overig
+maakt niet uit
+proost
+
+ontspan
+ik ben het ermee eens
+welkom
+geen zorgen
+sla rechtsaf
+sla linksaf
+ga rechtdoor
+kom met mij mee
+ei
+kaas
+melk
+vis (voedsel)
+vlees
+groente
+fruit
+bot (voedsel)
+olie
+brood
+suiker
+chocola
+snoep
+cake
+drank
+water
+frisdrank
+
+koffie
+thee
+bier
+wijn
+salade
+soep
+nagerecht
+ontbijt
+lunch
+avondeten
+pizza
+bus
+trein
+treinstation
+bushalte
+vliegtuig
+schip
+vrachtwagen
+fiets
+motorfiets
+taxi
+stoplicht
+parkeerplaats
+weg
+kleding
+
+schoen
+jas
+trui
+overhemd
+jack
+pak
+broek
+jurk
+t-shirt
+sok
+beha
+onderbroek
+bril
+handtas
+damestas
+portemonnee
+ring
+hoed
+horloge
+zak
+hoe heet je?
+mijn naam is David
+ik ben tweeentwintig jaar oud
+hoe gaat het?
+gaat alles goed?
+
+waar is het toilet?
+ik mis je
+lente
+zomer
+herfst
+winter
+januari
+februari
+maart
+april
+mei
+juni
+juli
+augustus
+september
+oktober
+november
+december
+winkelen
+rekening
+markt
+supermarkt
+gebouw
+appartement
+universiteit
+
+boerderij
+kerk
+restaurant
+bar
+sportschool
+park
+toilet (algemeen)
+kaart
+ambulance
+politie
+pistool
+brandweerlieden
+land
+buitenwijk
+dorp
+gezondheid
+geneesmiddel
+ongeval
+patiënt
+operatie
+pil
+koorts
+verkoudheid
+wond
+afspraak
+
+hoest
+nek (algemeen)
+kont
+schouder
+knie
+been
+arm (lichaam)
+buik
+boezem
+rug
+tand
+tong
+lip
+vinger
+teen
+maag
+long
+lever
+zenuw
+nier
+darm
+kleur
+oranje
+grijs
+bruin
+
+roze
+saai
+zwaar
+licht (gewicht)
+eenzaam
+hongerig
+dorstig
+verdrietig
+steil
+vlak
+rond
+vierkant (bijvoeglijk naamwoord)
+smal
+breed
+diep
+ondiep
+reusachtig
+noord
+oost
+zuid
+west
+vuil
+schoon
+vol (algemeen)
+leeg
+
+duur
+goedkoop
+donker
+licht (kleur)
+sexy
+lui
+moedig
+gul
+knap (goed uitziend)
+lelijk
+mal
+vriendelijk
+schuldig
+blind
+dronken
+nat
+droog
+warm
+luid
+rustig
+stil
+keuken
+badkamer
+woonkamer
+slaapkamer
+
+tuin
+garage
+muur
+kelder
+toilet (gebouw)
+trap
+dak
+raam (gebouw)
+mes
+kop (drinken)
+glas
+bord
+beker (drinken)
+afvalbak
+kom
+tv
+bureau
+bed
+spiegel
+douche
+bank
+foto
+klok
+tafel
+stoel
+
+zwembad (tuin)
+deurbel
+buur
+falen
+kiezen
+schieten
+stemmen
+vallen
+verdedigen
+aanvallen
+stelen
+verbranden
+redden
+roken
+vliegen
+dragen
+spugen
+schoppen
+bijten
+ademen
+ruiken
+huilen
+zingen
+glimlachen
+lachen
+
+groeien
+krimpen
+ruzie maken
+bedreigen
+delen (werkwoord)
+voeden
+verstoppen
+waarschuwen
+zwemmen (werkwoord)
+springen
+rollen
+optillen
+graven
+kopiëren (algemeen)
+bezorgen
+zoeken
+oefenen
+reizen
+verven
+douchen
+openen (slot)
+op slot doen
+wassen
+bidden
+koken (algemeen)
+
+boek
+bibliotheek
+huiswerk
+examen
+les
+wetenschap
+geschiedenis
+kunst
+Engels
+Frans
+pen
+potlood
+3%
+eerste
+tweede
+derde
+vierde
+resultaat
+vierkant (substantief)
+cirkel
+oppervlakte
+onderzoek
+graad
+bachelor
+master
+
+x < y
+x > y
+stress
+verzekering
+personeel
+afdeling
+salaris
+adres
+brief
+kapitein
+detective
+piloot
+professor
+leraar
+advocaat
+secretaris
+assistent
+rechter
+directeur
+manager
+kok
+taxichauffeur
+buschauffeur
+crimineel
+model
+
+artiest
+telefoonnummer
+singaal
+app
+chat
+bestand
+URL
+e-mailadres
+website
+e-mail
+mobiele telefoon
+wet
+gevangenis
+bewijsmateriaal
+boete
+getuige
+rechtbank
+handtekening
+verlies
+winst
+klant
+bedrag
+kredietkaart
+wachtwoord
+geldautomaat
+
+zwembad (competitie)
+elektriciteit
+camera
+radio
+cadeau
+fles
+tas
+sleutel
+pop (kind)
+engel
+kam
+tandpasta
+tandenborstel
+shampoo
+crème
+zakdoek
+lippenstift
+TV
+bioscoop
+nieuws
+zitplaats
+kaartje
+scherm (bioscoop)
+muziek
+podium
+
+publiek
+schilderij
+grap
+artikel
+krant
+tijdschrift
+advertentie
+natuur
+as
+vuur
+diamant
+maan
+aarde
+zon
+ster
+planeet
+universum
+kust
+meer (water)
+bos
+woestijn
+heuvel
+rots
+rivier
+vallei
+
+berg
+eiland
+oceaan
+zee
+weer (meteorologie)
+ijs
+sneeuw
+storm
+regen
+wind
+plant
+boom
+gras
+roos
+bloem
+gas
+metaal
+goud
+zilver
+zilver is goedkoper dan goud
+goud is duurder dan zilver
+vakantie
+lid
+hotel
+strand
+
+gast
+verjaardag
+Kerstmis
+Nieuwjaar
+Pasen
+oom
+tante
+grootmoeder (vader)
+grootvader (vader)
+grootmoeder (moeder)
+grootvader (moeder)
+dood
+graf
+scheiding
+bruid
+bruidegom
+101
+105
+110
+151
+200
+202
+206
+220
+262
+
+300
+303
+307
+330
+373
+400
+404
+408
+440
+484
+500
+505
+509
+550
+595
+600
+601
+606
+616
+660
+700
+702
+707
+727
+770
+
+800
+803
+808
+838
+880
+900
+904
+909
+949
+990
+tijger
+muis (dier)
+rat
+konijn
+leeuw
+ezel
+olifant
+vogel
+haan
+duif
+gans
+insect
+kever
+mug
+vlieg
+
+mier
+walvis
+haai
+dolfijn
+slak
+kikker
+vaak
+onmiddelijk
+plotseling
+hoewel
+gymnastiek
+tennis
+hardlopen
+wielrennen
+golf
+schaatsen
+voetbal
+basketbal
+zwemmen (sport)
+duiken
+hiken
+Verenigd Koninkrijk
+Spanje
+Zwitserland
+Italië
+
+Frankrijk
+Duitsland
+Thailand
+Singapore
+Rusland
+Japan
+Israël
+India
+China
+Verenigde Staten van Amerika
+Mexico
+Canada
+Chili
+Brazilië
+Argentinië
+Zuid-Afrika
+Nigeria
+Marokko
+Libië
+Kenia
+Algerije
+Egypte
+Nieuw-Zeeland
+Australië
+Afrika
+
+Europa
+Azië
+Amerika
+een kwartier
+een half uur
+een kwartier
+1:00
+2:05
+3:10
+4:15
+5:20
+6:25
+7:30
+8:35
+9:40
+10:45
+11:50
+12:55
+één uur 's ochtends
+twee uur 's middags
+vorige week
+deze week
+volgende week
+vorig jaar
+dit jaar
+
+volgend jaar
+vorige maand
+deze maand
+volgende maand
+2014-01-01
+2003-02-25
+1988-04-12
+1899-10-13
+1907-09-30
+2000-12-12
+voorhoofd
+rimpel
+kin
+wang
+baard
+wimpers
+wenkbrauw
+taille
+nek (rug)
+borst
+duim
+pink
+ringvinger
+middelvinger
+wijsvinger
+
+pols
+vingernagel
+hiel
+wervelkolom
+spier
+bot (lichaam)
+skelet
+rib
+wervel
+blaas
+ader
+slagader
+vagina
+sperma
+penis
+zaadbal
+sappig
+pittig
+zout (adjectief)
+rauw
+gekookt
+verlegen
+gulzig
+streng
+doof
+
+stom
+mollig
+mager
+dik
+slank
+zonnig
+regenachtig
+mistig
+bewolkt
+winderig
+panda
+geit
+ijsbeer
+wolf
+neushoorn
+koala
+kangoeroe
+kameel
+hamster
+giraf
+eekhoorn
+vos
+luipaard
+nijlpaard
+hert
+
+vleermuis
+raaf
+ooievaar
+zwaan
+meeuw
+uil
+adelaar
+pinguïn
+papegaai
+termiet
+mot
+rups
+libel
+sprinkhaan
+inktvis
+octopus
+zeepaardje
+zeeschildpad
+schelp
+zeehond
+kwal
+krab
+dinosaurus
+schildpad
+krokodil
+
+marathon
+triatlon
+tafeltennis
+gewichtheffen
+boksen
+badminton
+kunstschaatsen
+snopwboarden
+skiën
+langlaufen
+ijshockey
+volleybal
+handbal
+beachvolleybal
+rugby
+cricket
+honkbal
+American football
+waterpolo
+schoonspringen
+surfen
+zeilen
+roeien
+autoracen
+rallyracing
+
+motorracen
+yoga
+dansen
+bergbeklimmen
+parachutespringen
+skateboarden
+schaken
+poker
+klimmen (sport)
+bowlen
+biljart
+ballet
+opwarmen
+rekken
+sit-ups
+opdrukken
+sauna
+hometrainer
+loopband
+1001
+1012
+1234
+2000
+2002
+2023
+
+2345
+3000
+3003
+4000
+4045
+5000
+5678
+6000
+7000
+7890
+8000
+8901
+9000
+9090
+10.001
+20.020
+30.300
+44.000
+10.000.000
+100.000.000
+1.000.000.000
+10.000.000.000
+100.000.000.000
+1.000.000.000.000
+gokken
+
+aankomen (gewicht)
+afvallen
+braken
+schreeuwen
+staren
+flauwvallen
+slikken
+beven
+masseren
+klimmen (werkwoord)
+citeren
+printen
+scannen
+rekenen
+verdienen
+meten
+stofzuigen
+drogen
+koken (water)
+frituren
+lift
+balkon
+vloer
+zolder
+voordeur
+
+gang
+tweede kelderverdieping
+eerste kelderverdieping
+begane grond
+eerste verdieping
+vijfde verdieping
+schoorsteen
+ventilator
+airconditioning
+koffiezetapparaat
+broodrooster
+stofzuiger
+haardroger
+waterkoker
+vaatwasmachine
+fornuis
+oven
+magnetron
+koelkast
+wasmachine
+verwarming
+afstandsbediening
+spons
+pollepel
+eetstokje
+
+bestek
+epel
+vork
+soepelep
+kookpot
+pan
+gloeilamp
+wekker
+kluis
+boekenplank
+gordijn
+matras
+kussen (bed)
+deken
+plank
+lade
+kledingkast
+emmer
+bezem
+waspoeder
+weegschaal
+wasmand
+bad
+badhanddoek
+zeep
+
+toiletpapier
+handdoek
+wasbak
+barkruk
+lichtschakelaar
+kalender
+stopcontact
+tapijt
+zaag
+bijl
+ladder
+tuinslang
+schep
+schuur
+vijver
+brievenbus
+hek
+ligstoel
+ijsje
+room
+boter
+yoghurt
+visgraat
+tonijn
+zalm
+
+magere vlees
+vette vlees
+ham
+salami
+spek
+biefstuk
+worst
+kalkoenvlees
+kippenvlees
+rundvlees
+varkensvlees
+lamsvlees
+pompoen
+paddestoel
+truffel
+knoflook
+prei
+gember
+aubergine
+zoete aardappel
+wortel (voedsel)
+komkommer
+chilipeper
+paprika
+ui
+
+aardappel
+bloemkoool
+kool (voedsel)
+broccoli
+sla
+spinazie
+bamboe (voedsel)
+maïs
+selderij
+erwt
+boon
+peer
+appel
+schil
+pit
+olijf
+dadel
+vijg
+kokosnoot
+amandel
+hazelnoot
+pinda
+banaan
+mango
+kiwi
+
+avocado
+ananas
+watermeloen
+druif
+suikermeloen
+framboos
+bosbes
+aardbei
+kers
+pruim
+abrikoos
+perzik
+citroen
+grapfruit
+sinaasappel
+tomat
+munt (voedsel)
+citroengras
+kaneel
+vanille
+zout
+peper
+kerrie
+tabak
+tofu
+
+azijn
+noedel
+sojamelk
+meel
+rijst
+haver
+tarwe
+soja
+noot
+roerei
+pap
+cornflakes
+honing
+jam
+kauwgom
+appeltaart
+wafel
+pannenkoek
+koekje
+pudding
+muffin
+donut
+energiedrank
+sinaasappelsap
+appelsap
+
+milkshake
+cola
+limonade
+warme chocolademelk
+melkthee
+groene thee
+zwarte thee
+kraanwater
+cocktail
+champagne
+rum
+whiskey
+wodka
+buffet
+fooi
+menu
+zeevruchten
+snack
+bijgerecht
+spaghetti
+gebraden kip
+aardappelsalade
+mosterd
+sushi
+popcorn
+
+nacho's
+chips
+Franse frietjes
+kippenvleugels
+mayonnaise
+ketchup
+boterham
+hotdog
+burger
+boeking
+hostel
+visum
+paspoort
+dagboek
+ansichtkaart
+rugzak
+kampvuur
+slaapzak
+tent
+kamperen
+lidmaatschap
+reservering
+gedeelde kamer
+tweeopersoonskamer (1 bed)
+enkele kamer
+
+bagage
+lobby
+decennium
+eeuw
+millennium
+Dankdag (thanksgiving)
+Halloween
+Ramadan
+kleinkind
+broers en zussen
+schoonmoeder
+schoonvader
+kleindochter
+kleinzoon
+schoonzoon
+schoondochter
+neefje
+nichtje
+nicht
+neef
+begraafplaats
+geslacht
+urn
+wees
+lijk
+
+doodskist
+pensioen
+begrafenis
+huwelijksreis
+trouwring
+liefdesverdriet
+beroepsonderwijs
+middelbare school (~15-18)
+middelbare school (~10-14)
+tweeling
+basisschool
+kleuterschool
+geboorte
+geboorteakte
+handrem
+accu
+motor
+ruitenwisser
+gps
+airbag
+toeter
+koppeling
+rempedaal
+gaspedaal
+stuur
+
+benzine
+diesel
+gordel
+motorkap
+band
+kofferbak
+spoor
+kaartautomaat
+kaartjesloket
+metro
+hogesnelheidstrein
+locomotief
+perron
+tram
+schoolbus
+minibus
+tarief
+dienstregeling
+luchthaven
+vertrek
+aankomst
+douane
+luchtvaartmaatschappij
+helikopter
+incheckbalie
+
+handbagage
+eerste klasse
+economy class
+business class
+nooduitgang (vliegtuig)
+gangpad
+raam (vliegtuig)
+rij
+vleugel
+vliegtuigmotor
+cockpit
+reddingsvest
+container
+onderzeeër
+cruiseschip
+containerschip
+jacht
+veerboot
+haven
+reddingsboot
+radar
+anker
+reddingsboei
+straatlantaarn
+stoep
+
+bezinestation
+bouwplaats
+snelheidslimiet
+zebrapad
+eenrichtingsstraat
+tol
+kruispunt
+file
+snelweg
+tank
+wegwals
+graafmachine
+tractor
+fietspomp
+ketting
+krik
+aanhangwagen
+scooter
+kabelbaan
+gitaar
+drumstel
+keyboard
+trompet
+piano
+saxofoon
+
+viool
+concert
+muzieknoot
+opera
+orkest
+rap
+klassieke muziek
+volksmuziek
+rock
+pop (muziek)
+jazz
+theater
+kwast
+samba
+rock 'n roll
+Weense wals
+tango
+salsa
+alfabet
+roman
+tekst
+kop (artikel)
+leesteken
+letter
+inhoud
+
+fotoalbum
+stripboek
+sportveld
+woordenboek
+semester
+notitieboek
+schoolbord
+schooltas
+schooluniform
+geometrie
+politiek
+filosofie
+economie
+lichamelijke opvoeding
+biologie
+wiskunde
+aardrijkskunde
+literatuur
+Arabisch
+Duits
+Japans
+Mandarijn
+Spaans
+scheikunde
+natuurkunde
+
+liniaal
+gum
+schaar
+plakband
+lijm
+balpen
+paperclip
+100%
+0%
+kubieke meter
+vierkante meter
+mijl
+meter
+decimeter
+centimeter
+millimeter
+optellen
+aftrekken
+vermeningvuldigen
+delen (substantief)
+breuk
+sfeer
+breedte
+hoogte
+volume
+
+curve
+hoek
+rechte lijn
+piramide
+kubus
+rechthoek
+driehoek
+straal
+watt
+ampère
+volt
+kracht
+liter
+milliliter
+ton
+kilogram
+gram
+magneet
+microscoop
+trechter
+laboratorium
+kantine
+hoorcollege
+studiebeurs
+diploma
+
+collegezaal
+3.4
+drie tot de vijfde macht
+4 / 2
+1 + 1 = 2
+punt
+6³
+4²
+contact@gmail.com
+&
+/
+()
+puntkomma
+komma
+dubbele punt
+www.google.com
+laag streepje
+koppelteken
+3 - 2
+apostrof
+2 x 3
+1 + 2
+uitroepteken
+vraagteken
+spatie
+
+bodem
+lava
+kool (bruinkool)
+zand
+klei
+raket
+satelliet
+sterrenstelsel
+asteroïde
+continent
+evenaar
+Zuidpool
+Noordpool
+stroom
+regenwoud
+grot
+waterval
+oever
+gletsjer
+aardbeving
+krater
+vulkaan
+canyon
+atmosfeer
+pool
+
+12 °C
+0 °C
+-2 °C
+Fahrenheit
+Celsius
+tornado
+overstroming
+nevel
+regenboog
+donder
+bliksem
+onweersbui
+temperatuur
+tyfoon
+orkaan
+wolk
+zonneschijn
+bamboe (plant)
+palmboom
+tak
+blad
+wortel (plant)
+boomstam
+cactus
+zonnebloem
+
+zaad
+bloesem
+stengel
+plastic
+koolstofdioxide
+vaste stof
+vloeistof
+atoom
+ijzer
+zuurstof
+slippers
+leren schoenen
+hoge hakken
+sneakers
+regenjas
+spijkerbroek
+rok
+korte broek
+panty
+string
+slipje
+kroon
+tatoeage
+zonnebril
+paraplu
+
+oorbel
+halsketting
+honkbalpet
+riem
+stropdas
+gebreide muts
+sjaal
+handschoen
+zwempak
+bikini
+zwembroek
+zwembril
+baret
+brunette
+blond
+kaal
+stijl
+gekruld
+knop
+rits
+mouw
+kraag
+polyester
+zijde
+katoen
+
+wol
+kleedhokje
+gezichtsmasker
+parfum
+tampon
+nagelschaartje
+nagelknipper
+haargel
+douchegel
+condoom
+scheerapparaat
+scheermesje
+zonnebrandmiddel
+gezichtscrème
+borstel
+nagellak
+lipgloss
+nagelvijl
+foundation
+mascara
+oogschaduw
+garantie
+koopje
+kassa
+mand
+
+winkelcentrum
+apotheek
+wolkenkrabber
+kasteel
+ambassade
+synagoge
+tempel
+fabriek
+moskee
+stadhuis
+postkantoor
+fontein
+nachtclub
+bankje
+golfbaan
+voetbalstadion
+zwembad (gebouw)
+tennisbaan
+toeristeninformatie
+casino
+kunstgalerij
+museum
+nationaal park
+toeristengids
+souvenir
+
+steeg
+dam
+staal
+kraan
+beton
+steiger
+baksteen
+verf
+spijker
+schroevendraaier
+rolmaat
+nijptang
+hamer
+boormachine
+aquarium
+waterglijbaan
+achtbaan
+waterpark
+dierentuin
+speelplaats
+glijbaan
+schommel
+zandbak
+helm
+uniform
+
+brand
+nooduitgang
+brandalarm
+brandblusser
+politiebureau
+staat
+regio
+hoofdstad
+bezoeker
+spoedeisende hulp
+intensive care
+polikliniek
+wachtkamer
+aspirine
+slaappil
+vervaldatum
+dosering
+hoestsiroop
+bijwerking
+insuline
+poeder
+capsule
+vitamine
+infuus
+pijnstiller
+
+antibioticum
+inhalator
+bacterie
+virus
+hartaanval
+diarree
+suikerziekte
+beroerte
+astma
+kanker
+misselijkheid
+griep
+kiespijn
+zonnebrand
+vergiftiging
+keelpijn
+hooikoorts
+buikpijn
+infectie
+allergie
+kramp
+neusbloeding
+hoofdpijn
+spray
+spuit
+
+naald
+beugel
+kruk
+röntgenfoto
+echo-apparaat
+pleister
+verband
+rolstoel
+bloedtest
+gips
+koortsthermometer
+polsslag
+verwonding
+noodgeval
+hersenschudding
+hechting
+brandwond
+botbreuk
+medicatie
+massage
+anticonceptiepil
+zwangerschapstest
+belasting
+vergaderzaal
+visitiekaartje
+
+ICT
+personeelszaken
+juridische afdeling
+boekhouding
+marketing
+verkoop
+collega
+werkgever
+werknemer
+notitie
+presentatie
+map (papier)
+stempel
+beamer
+tekstbericht
+pakket (post)
+postzegel
+envelop
+minister-president
+apotheker
+brandweerman
+tandarts
+ondernemer
+politicus
+programmeur
+
+stewardess
+wetenschapper
+kleuterjuf
+architect
+accountant
+consultant
+aanklager
+algemeen directeur
+lijfwacht
+huisbaas
+conducteur
+ober
+bewaker
+soldaat
+visser
+schoonmaker
+loodgieter
+elektricien
+boer
+receptionist
+postbode
+cassière
+kapper
+auteur
+journalist
+
+fotograaf
+dief
+badmeester
+zanger
+muzikant
+acteur
+verslaggever
+trainer
+scheidsrechter
+map (computer)
+browser
+netwerk
+smartphone
+oortelefoon
+muis (computer)
+toetsenbord
+harde schijf
+USB-stick
+scanner
+printer
+scherm (computer)
+laptop
+vingerafdruk
+verdachte
+beklaagde
+
+investering
+effectenbeurs
+aandeel
+dividend
+pond
+euro
+yen
+yuan
+dollar
+biljet
+munt (geld)
+rente
+lening
+rekeningnummer
+bankrekening
+wereldrecord
+stopwatch
+medaille
+beker (competitie)
+robot
+kabel
+stekker
+luidspreker
+vaas
+aansteker
+
+pakket (voedsel)
+blik
+waterfles
+kaars
+zaklamp
+sigaret
+sigaar
+kompas
+beursmakelaar
+barkeeper
+tuinman
+monteur
+timmerman
+slager
+priester
+monnik
+non
+danser
+regisseur
+cameraman
+verloskundige
+vrachtwagenchaffeur
+kleermaker
+bibliothecaris
+dierenarts
